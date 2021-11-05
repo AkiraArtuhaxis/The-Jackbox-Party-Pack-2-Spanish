@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "I’m behind you|I’m right behind you|look behind you|don’t look behind you",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Even scarier? I’m right behind you... IN BED!",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Un aterrador mensaje en una galleta de la fortuna",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "377499_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "377497_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "mimes|mime|a mime",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "We don’t actually encourage murdering mimes. Weeeelll...... no. NO. Legally we can’t.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Algo que sería divertido tirar de la Torre Eiffel",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "375063_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "375061_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

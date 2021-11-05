@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "other tortilla chips|tortilla chips|more tortilla chips|crushed tortilla chips",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "I’ve been dipping these tortilla chips into these other tortilla chips for hours and they dont’ taste any different!",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Algo que no funcionaría bien como dip para papitas",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "375132_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "375130_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

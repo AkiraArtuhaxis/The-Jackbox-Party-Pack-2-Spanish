@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "smoke a cigarette|smoke|have a cigarette|smoke cigarettes|have cigarettes",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Smoking a cigarette after an anal probe--even aliens are cliche.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Lo que hacen los extraterrestres contigo después de la sonda anal",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "374073_1",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "374071_1",
+            "n": "PromptAudio"
+        }
+    ]
+}

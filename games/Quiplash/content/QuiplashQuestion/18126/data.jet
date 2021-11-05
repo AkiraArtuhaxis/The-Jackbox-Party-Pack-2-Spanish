@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Blart",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Blart. Well, farting into a bowl of mac and cheese does remind me of that movie Paul Blart: Mall Cop.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Inventa una palabra que describa el sonido de tirarse un pedo dentro de un bol de macarrones con queso",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "375123_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "375121_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

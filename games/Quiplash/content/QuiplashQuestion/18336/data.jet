@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Waterfoul|water foul",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Waterfoul is such a great band. In fact, I have Waterfoul’s hit song as my ringtone. (sfx: baby ducks chirping, guitar shredding)",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Piensa en un nombre para una banda de rock compuesta completamente por patos bebé",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "376746_0f",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "376744_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

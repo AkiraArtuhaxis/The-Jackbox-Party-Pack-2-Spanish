@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "sales con Taylor Swift|estás saliendo con Taylor Swift",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Wow, dating Taylor Swift? Wonder how that’ s gonna turn out.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Sabes que eres famoso cuando...",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "403251_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "403249_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

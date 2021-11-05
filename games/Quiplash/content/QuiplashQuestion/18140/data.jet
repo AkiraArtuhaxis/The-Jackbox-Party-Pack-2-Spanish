@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Fatty Patty’s",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Fatty Patty’s: the place for leprechauns who can’t lay off the shamrock shakes.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "El nombre de una tienda de ropa para duendes con sobrepeso",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "375318_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "375316_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

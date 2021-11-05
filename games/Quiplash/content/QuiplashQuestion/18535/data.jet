@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "naps suck|naps sux",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Naps suck! Yeah! I’m with you, kids! Screw naps!",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Un grafiti que podrías encontrar en un jardín de infantes",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "378099_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "378097_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

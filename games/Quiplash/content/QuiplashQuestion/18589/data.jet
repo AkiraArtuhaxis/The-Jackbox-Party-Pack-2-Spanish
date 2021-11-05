@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "jizzquats|sploogequats|jismquats",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Real clever. You took the first part of kumquat and replaced it with...No! I’m not even gonna say it!",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Un nuevo nombre para los naranjos",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "378345_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "378343_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

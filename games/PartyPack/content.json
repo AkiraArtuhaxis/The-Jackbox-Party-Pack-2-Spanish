@@ -1,0 +1,54 @@
+{
+  "games": [
+    {
+      "name":"Fibbage2",
+      "mainSwf": "Fibbage2.swf",
+      "title": "Fibbage 2",
+      "players": "2-8 JUGADORES",
+	  "family": true,
+	  "audience": true,
+      "description":"¡Más Fibbage! Miente a tus amigos, evita sus mentiras, y descubre la verdad. “En Arizona, necesitas permiso para poder darle ______ a cerdos.” ¡Ya!",
+      "video":"videos/fibbage2"
+    },
+    {
+      "name":"Earwax",
+      "mainSwf": "Earwax.swf",
+      "title": "Earwax",
+      "players": "3-8 JUGADORES",
+	  "family": true,
+	  "audience": true,
+      "description":"¿Mugido de vaca? ¿Explosión gigante? ¿O un pequeño pedo? ¿Cuál eliges? ¡El juego de efectos de sonido que te dejará hasta los oídos de risa!",
+      "video":"videos/earwax"
+    },
+    {
+      "name":"Auction",
+      "mainSwf": "Auction.swf",
+      "title": "Bidiots",
+      "players": "3-6 JUGADORES",
+	  "family": false,
+	  "audience": false,
+      "description":"¡Sobrepuja a tus oponentes por arte absurdo – dibujado por ellos – y gana este extraño juego de subastas competitivo! ¡No seas un subastardo!",
+      "video":"videos/auction"
+    },
+    {
+      "name":"Quiplash",
+      "mainSwf": "Quiplash.swf",
+      "title": "Quiplash XL",
+      "players": "3-8 JUGADORES",
+	  "family": true,
+	  "audience": true,
+      "description":"¡La pelea de ingenios e ingeniosidad llena de risas en su forma más GRANDE! ¡Inventa “el mejor nombre para darle a un bebé feo” y gana!",
+      "video":"videos/quiplashxl"
+    },
+    {
+      "name":"BombInterns",
+      "mainSwf": "BombInterns.swf",
+      "title": "Bomb Corp.",
+      "players": "1-4 JUGADORES",
+	  "family": false,
+	  "audience": false,
+      "description":"Bienvenido a Bomb Corp. Los internos como tú deben ayudar a desactivar bombas en nuestra oficina. Es una oficina rara, llena de bombas. Pulsa start.",
+      "video":"videos/bombinterns"
+    }
+  ]
+}

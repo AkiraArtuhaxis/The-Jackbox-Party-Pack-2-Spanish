@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Powerade",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Powerade: We’re just happy to get our name out there!",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Si al entrenador del equipo ganador le tiran Gatorade sobre su cabeza, ¿qué deberían tirarle al entrenador perdedor?",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "374124_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "374122_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

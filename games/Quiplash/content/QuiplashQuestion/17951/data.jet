@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "guns|Guns!|gun",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "If I had to give the song Guns a grade, I would give it an NR-A.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "El mejor título para un nuevo himno nacional para Estados Unidos",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "374262_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "374260_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

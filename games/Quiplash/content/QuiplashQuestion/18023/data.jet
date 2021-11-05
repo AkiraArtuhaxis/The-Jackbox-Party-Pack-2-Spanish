@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "I see dead people",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "At least saying “I see dead people” lets people know that they’ll be suffering through a night of references from 2001. Shag-a-delic!",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Una gran línea de apertura para comenzar una conversación con un extraño en una fiesta",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "374751_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "374749_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

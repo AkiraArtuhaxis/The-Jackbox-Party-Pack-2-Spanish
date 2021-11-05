@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "pass a law|pass laws|pass some laws",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Yeah, like a law would actually get passed in Washington D.C.! You’re living in a dream world!",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué harías si te dejaran sólo en la Casa Blanca durante una hora?",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "374268_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "374266_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

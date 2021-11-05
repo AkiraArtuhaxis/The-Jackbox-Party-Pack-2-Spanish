@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Abraham Lincoln is alive|Abraham Lincoln lives|lincoln is alive|lincoln lives|abe lincoln is alive|abe lincoln lives|abe lincoln’s alive|abraham lincoln’s alive|lincoln’s alive|lincoln’s still alive",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Yeah, John Wilkes Booth didn’t use a SILVER bullet! Eh? Eh?",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "El mayor secreto que guarda el gobierno",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "378888_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "378886_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

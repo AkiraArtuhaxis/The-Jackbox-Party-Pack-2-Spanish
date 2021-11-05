@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "mud wrestling|mudwrestling",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Ah, yes. The mud-wrestling room. Truly the greatest lasting legacy of William Jefferson Clinton.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Dato poco conocido: Un área secreta de la Casa Blanca es la sala <BLANK>",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "376167_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "376165_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "mayo|mayonnaise",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Ugh. I don’t want to know what the mayonnaise is for. I don’t.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Un artículo en la lista de compras de todos los pervertidos",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "379719_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "379717_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

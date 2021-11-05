@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Jack Torrance|Danny Torrance|jack torrence|danny torrence",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "(spookily) But you can’t check into this hotel. You already here. You’ve always been here.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Un buen nombre falso para usar cuando te registras en un hotel",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "374916_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "374914_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "I’ve got wood",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Yep, you can’t hear them, but trees say “I’ve got wood” and chuckle like idiots all day long.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "¿Qué está pensando un árbol todo el día?",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "380964_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "380962_0",
+            "n": "PromptAudio"
+        }
+    ]
+}
