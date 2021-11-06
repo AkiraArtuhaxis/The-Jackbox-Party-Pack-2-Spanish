@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "no pants|thou shalt not wear pants|no pants-wearing",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "I would love a no-pants religion. My thighs are just aching to see the world.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "El primer mandamiento en la nueva religión que comenzaste",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "376419_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "376417_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Horny",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "The Good, The Bad and The Horny starring Clint’s east wood.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Un título rechazado para <i>El bueno, el malo y el feo<\/i> era <i>El bueno, el malo y el <BLANK><\/i>",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "375909_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "375907_1",
+            "n": "PromptAudio"
+        }
+    ]
+}

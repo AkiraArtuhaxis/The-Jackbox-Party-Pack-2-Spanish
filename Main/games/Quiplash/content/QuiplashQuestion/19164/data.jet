@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "dingleberry",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Yeah, I thought dingleberry was in the dictionary, but I can only find little traces of it.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Una palabra que debería estar en el diccionario pero no está",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "382326_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "382324_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

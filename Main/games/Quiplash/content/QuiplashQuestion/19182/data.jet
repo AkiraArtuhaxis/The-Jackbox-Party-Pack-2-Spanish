@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "snakes",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Snakes!!!!!!!!",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Es ilegal gritar \"¡Fuego!\" en un teatro lleno, pero también debería ser ilegal gritar, \"¡<BLANK>!\"",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "382527_0f",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "382525_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

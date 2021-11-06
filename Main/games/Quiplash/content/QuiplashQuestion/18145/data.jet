@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "you’re never leaving|you’ll never leave|you’ll never leave here|you can’t leave now|i’m not letting you leave",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "But with all those channels, why would he want to leave? Oh, you mean to kill him. Got it.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Algo molesto que podrías decirle al encargado del cable mientras instala tu servicio de televisión",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "375354_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "375352_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

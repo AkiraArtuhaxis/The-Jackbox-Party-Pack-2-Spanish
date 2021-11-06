@@ -1,0 +1,43 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "’Dr.’ Michael ‘Skitch’ Schiciano",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "¿Cómo terminaste en la sala de emergencias esta vez?",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "Orlando, FL",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "407737_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

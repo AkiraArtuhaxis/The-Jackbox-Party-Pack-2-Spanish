@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "dirty underwear",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "I liked dirty underwear Skittles! But they leave a skid mark on your tongue.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "El sabor de confites que por nada no llegó a ser lanzado",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "374148_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "374146_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

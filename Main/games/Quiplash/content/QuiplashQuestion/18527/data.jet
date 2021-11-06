@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "heaven",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Heaven, huh? Well, at least I’ll be reunied with all my socks after i die.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Donde van a parar los calcetines perdidos",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "378075_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "378073_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

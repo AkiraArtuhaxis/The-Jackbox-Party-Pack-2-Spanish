@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "dubstep sounds good",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "If dubstep sounds good, you might’ve gone insane.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Sabes que estás realmente borracho cuando...",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "378864_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "378862_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

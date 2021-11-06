@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "más caca|con más capa|seguir cagando|más mierda|añadir más caca|añadir más mierda|poner más caca ahí|poner más mierda ahí|seguir haciendo caca|seguir añadiendo caca|con maaas mierda",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "You’re right! Keep pooping in there. Something’s gotta give!",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "La peor manera de destapar un inodoro",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "403188_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "403186_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

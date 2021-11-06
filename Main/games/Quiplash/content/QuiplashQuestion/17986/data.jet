@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "baby cop|baby cops",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Baby cops. They keep getting distracted when you jangle the jail keys in front of them.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Inventa una serie de televisión muy mala que comience con “Bebé”",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "374409_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "374407_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

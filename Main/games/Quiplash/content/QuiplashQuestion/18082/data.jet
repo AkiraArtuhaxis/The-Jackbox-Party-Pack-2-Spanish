@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "his penis|his dick|his cock",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Oh, real nice, real nice. That is totally sexist! You could just as easy find a dentist’s vagina in your mouth!",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "La cosa que más te sorprendería que un dentista encuentre en tu boca",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "374991_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "374989_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

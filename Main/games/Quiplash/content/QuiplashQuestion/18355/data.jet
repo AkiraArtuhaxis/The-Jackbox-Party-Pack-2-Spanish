@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "children|kids|a child|a kid",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Yeah, don’t buy kids of Craigslist. You can get those for free by having sex with someone you MEET on Craigslist.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Algo que no deberías comprar en un sitio de compra-venta",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "376866_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "376864_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

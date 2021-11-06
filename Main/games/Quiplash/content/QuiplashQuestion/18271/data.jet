@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "back hair straightener|backhair straightener",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "I could use a back hair straightener. I looks like I’m growing a clown wig back there!",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Un invento de Thomas Edison que no prosperó",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "376173_1",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "376171_1",
+            "n": "PromptAudio"
+        }
+    ]
+}

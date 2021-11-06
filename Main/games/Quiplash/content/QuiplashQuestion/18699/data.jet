@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "mosquitoes|mosquito|mosquitos",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Yeah, mosquitos, Noah? You had a chance to make summer AWESOME and you ruined it! You ruined everything!!",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Un animal que Noé no debería haber salvado",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "378885_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "378883_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

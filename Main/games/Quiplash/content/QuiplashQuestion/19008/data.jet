@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "scrotum termites",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "It had to happen eventually -- termites do love wood.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Nombra la próxima gran enfermedad de transmisión sexual",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "381459_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "381457_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

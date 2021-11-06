@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "estar desnudo|desnudez|estar desnudo",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "What? You want to make your tender parts MORE vulnerable to rubber ball attacks?",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "El quemado sería un mejor deporte si se permitiera <BLANK>",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "403067_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "403064_0",
+            "n": "PromptAudio"
+        }
+    ]
+}
