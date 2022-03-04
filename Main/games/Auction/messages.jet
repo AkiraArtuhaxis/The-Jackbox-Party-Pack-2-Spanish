@@ -52,9 +52,9 @@
     ],
     "doNotScrew":[
         "<PLAYER_NAME> actualmente tiene menos de $ 1.000. No desperdicies tu tornillo.",
-        "<PLAYER_NAME> no tiene mucho dinero en este momento. Si intentas atornillarlo, no funcionará.",
-        "<PLAYER_NAME> tiene poco efectivo en este momento. No conviene atornillarlo.",
-        "Evita atornillar a <PLAYER_NAME> por ahora. No tiene suficiente dinero."    
+        "<PLAYER_NAME> no tiene mucho dinero en este momento. Si intentas enroscarlo, no funcionará.",
+        "<PLAYER_NAME> tiene poco efectivo en este momento. No conviene enroscarlo.",
+        "Evita enroscar a <PLAYER_NAME> por ahora. No tiene suficiente dinero."    
     ],
     "requestPlayerArt":[  
         "¡Necesito un dibujo de <PLAYER_NAME>! ¡Pagaré <VALUE> por él!",
@@ -92,17 +92,17 @@
         "Te has dado a ti mismo el mejor regalo de todos: efectivo." 
     ],
     "revengeScrew":[
-        "No olvides que <PLAYER_NAME> te atornilló en la última subasta. Venganza. ¡Que viva la venganza!",
-        "<PLAYER_NAME> te atornilló en la última subasta. ¿Vas a dejar que se salga con la suya?",
-        "Estabas atornillado. ¡Atornillado! ¡<PLAYER_NAME> debe pagar!",
-        "Recordemos a <PLAYER_NAME> que el infierno no tiene la misma furia al atornillar a un comprador de arte.", 
-        "<PLAYER_NAME> te ha atornillado. ¿Vamos a planear la venganza?",
+        "No olvides que <PLAYER_NAME> te enroscó en la última subasta. Venganza. ¡Que viva la venganza!",
+        "<PLAYER_NAME> te enroscó en la última subasta. ¿Vas a dejar que se salga con la suya?",
+        "Estabas enroscado. ¡Enroscado! ¡<PLAYER_NAME> debe pagar!",
+        "Recordemos a <PLAYER_NAME> que el infierno no tiene la misma furia al enroscar a un comprador de arte.", 
+        "<PLAYER_NAME> te ha enroscado. ¿Vamos a planear la venganza?",
         "Nunca olvido un tornillo. ¿Vamos a exigir nuestra venganza sobre <PLAYER_NAME>?",
-        "Entonces <PLAYER_NAME> cree que puede atornillar y correr, ¿eh? ¿Qué tal una revancha?",
-        "<PLAYER_NAME> lamentará el día que te atornilló.",
+        "Entonces <PLAYER_NAME> cree que puede enroscar y correr, ¿eh? ¿Qué tal una revancha?",
+        "<PLAYER_NAME> lamentará el día que te enroscó.",
         "Ríete, <PLAYER_NAME>. Dos pueden jugar este juego.",
         "<PLAYER_NAME> acaba de cometer un gran error. ¡Obtendrá lo que le corresponde!",
-        "La única venganza mejor que el éxito es atornillar a <PLAYER_NAME>."
+        "La única venganza mejor que el éxito es enroscar a <PLAYER_NAME>."
     ],
     "brokeEven":[
         "Bueno... ese no fue un gran día de pago, pero aprecio el esfuerzo.",
