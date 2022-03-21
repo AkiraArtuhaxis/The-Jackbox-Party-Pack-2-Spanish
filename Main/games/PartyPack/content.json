@@ -47,7 +47,7 @@
       "players": "1-4 JUGADORES",
 	  "family": false,
 	  "audience": false,
-      "description":"Bienvenido a Bomba S.A. Los internos como tú deben ayudar a desactivar bombas en nuestra oficina. Es una oficina rara, llena de bombas. Pulsa start.",
+      "description":"Bienvenido a Bomba S.A. Los internos como tú deben ayudar a desactivar bombas en nuestra oficina. Es una oficina rara, llena de bombas. Empecemos.",
       "video":"videos/bombinterns"
     }
   ]
