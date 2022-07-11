@@ -4,7 +4,7 @@
         {
             "x": false,
             "name": "desodorante/spray de pintura en aerosol",
-            "short": "desodorante/spray",
+            "short": "desodorante/spray de pintura en aerosol",
             "id": 22199,
             "categories": [
                 "household"
@@ -13,7 +13,7 @@
         {
             "x": false,
             "name": "liberación de aire comprimido",
-            "short": "aire comprimido",
+            "short": "liberación de aire comprimido",
             "id": 22222,
             "categories": [
                 "tools"
@@ -41,7 +41,7 @@
         {
             "x": false,
             "name": "reloj despertador analógico",
-            "short": "reloj despertador",
+            "short": "reloj despertador analógico",
             "id": 22248,
             "categories": [
                 "household"
@@ -68,7 +68,7 @@
         {
             "x": false,
             "name": "silbato deslizante hacia abajo",
-            "short": "silbato deslizante",
+            "short": "silbato deslizante hacia abajo",
             "id": 23004,
             "categories": [
                 "cartoon"
@@ -122,7 +122,7 @@
         {
             "x": false,
             "name": "pelota de goma grande rebotando",
-            "short": "pelota de goma rebotando",
+            "short": "pelota de goma grande rebotando",
             "id": 25718,
             "categories": [
                 "sports"
@@ -184,7 +184,7 @@
         },
         {
             "x": false,
-            "name": "“¡Tada!” (hombre)",
+            "name": "“¡tada!” (hombre)",
             "short": "“¡Tada!”",
             "id": 24026,
             "categories": [
@@ -193,7 +193,7 @@
         },
         {
             "x": false,
-            "name": "“this is delicious”  (“esto es delicioso”) (hombre)",
+            "name": "“esto es delicioso” (hombre)",
             "short": "“esto es delicioso”",
             "id": 24027,
             "categories": [
@@ -202,7 +202,7 @@
         },
         {
             "x": false,
-            "name": "“who wants hot dogs” (“¿quién quiere hot dogs?”) (hombre)",
+            "name": "“¿quién quiere hot dogs?” (hombre)",
             "short": "“¿quién quiere hot dogs?”",
             "id": 24028,
             "categories": [
@@ -220,7 +220,7 @@
         },
         {
             "x": false,
-            "name": "“You're fired” (“estás despedido”) (hombre)",
+            "name": "“estás despedido” (hombre)",
             "short": "“estás despedido”",
             "id": 24030,
             "categories": [
@@ -265,7 +265,7 @@
         },
         {
             "x": false,
-            "name": "“Bring it on” (“Vamos a darle”) (hombre)",
+            "name": "“vamos a darle” (hombre)",
             "short": "“Vamos a darle”",
             "id": 23502,
             "categories": [
@@ -401,7 +401,7 @@
         {
             "x": false,
             "name": "ba dum tss (batería)",
-            "short": "ba dum tss",
+            "short": "ba dum tss (batería)",
             "id": 23491,
             "categories": [
                 "Music"
@@ -428,7 +428,7 @@
         {
             "x": false,
             "name": "balón de baloncesto rebotando",
-            "short": "balón de baloncesto",
+            "short": "balón de baloncesto rebotando",
             "id": 23487,
             "categories": [
                 "sports"
@@ -446,7 +446,7 @@
         {
             "x": false,
             "name": "silbato deslizante con marimba/bocina",
-            "short": "silbato deslizante/bocina",
+            "short": "silbato deslizante con marimba/bocina",
             "id": 23000,
             "categories": [
                 "Music",
@@ -493,7 +493,7 @@
         {
             "x": false,
             "name": "crujido de madera/rotura de huesos",
-            "short": "madera rota/huesos rotos",
+            "short": "crujido de madera/rotura de huesos",
             "id": 23026,
             "categories": [
                 "violence"
@@ -502,7 +502,7 @@
         {
             "x": false,
             "name": "puerta de madera siendo pateada",
-            "short": "puerta siendo pateada",
+            "short": "puerta de madera siendo pateada",
             "id": 23028,
             "categories": [
                 "violence"
@@ -511,7 +511,7 @@
         {
             "x": false,
             "name": "aserrar madera con sierra de mano",
-            "short": "aserrar madera",
+            "short": "aserrar madera con sierra de mano",
             "id": 23029,
             "categories": [
                 "tools"
@@ -520,7 +520,7 @@
         {
             "x": false,
             "name": "xilófono (melodía hacia abajo)",
-            "short": "xilófono (hacia abajo)",
+            "short": "xilófono (melodía hacia abajo)",
             "id": 23031,
             "categories": [
                 "Music",
@@ -530,7 +530,7 @@
         {
             "x": false,
             "name": "xilófono (melodía hacia arriba)",
-            "short": "xilófono (hacia arriba)",
+            "short": "xilófono (melodía hacia arriba)",
             "id": 23032,
             "categories": [
                 "Music",
@@ -558,7 +558,7 @@
         {
             "x": false,
             "name": "“boing” (dibujos animados)",
-            "short": "“boing”",
+            "short": "“boing” (dibujos animados)",
             "id": 23046,
             "categories": [
                 "cartoon"
@@ -603,7 +603,7 @@
         {
             "x": false,
             "name": "silbato deslizante (tembleque/arriba)",
-            "short": "silbato deslizante",
+            "short": "silbato deslizante (tembleque/arriba)",
             "id": 23008,
             "categories": [
                 "cartoon"
@@ -629,8 +629,8 @@
         },
         {
             "x": false,
-            "name": "silbido sexy",
-            "short": "silbido sexy",
+            "name": "silbido sexi",
+            "short": "silbido sexi",
             "id": 23014,
             "categories": [
                 "cartoon"
@@ -657,7 +657,7 @@
         {
             "x": false,
             "name": "carillón/campanas de viento",
-            "short": "campanas de viento",
+            "short": "carillón/campanas de viento",
             "id": 23018,
             "categories": [
                 "Music"
@@ -712,7 +712,7 @@
         {
             "x": false,
             "name": "sonido con mejillas y saliva",
-            "short": "mejillas y saliva",
+            "short": "sonido con mejillas y saliva",
             "id": 22990,
             "categories": [
                 "bodily functions"
@@ -766,7 +766,7 @@
         {
             "x": false,
             "name": "cuerda de violín hacia arriba",
-            "short": "cuerda de violín",
+            "short": "cuerda de violín hacia arriba",
             "id": 22968,
             "categories": [
                 "Music"
@@ -811,7 +811,7 @@
         {
             "x": false,
             "name": "caminar con pies de ventosa/destapacaños",
-            "short": "caminar con pies de ventosa",
+            "short": "caminar con pies de ventosa/destapacaños",
             "id": 22972,
             "categories": [
                 "cartoon"
@@ -830,7 +830,7 @@
         {
             "x": false,
             "name": "goteo de agua en alcantarilla",
-            "short": "goteo de agua",
+            "short": "goteo de agua en alcantarilla",
             "id": 22978,
             "categories": [
                 "liquid"
@@ -884,7 +884,7 @@
         {
             "x": false,
             "name": "motoguadaña/demalezadora cortando césped",
-            "short": "motoguadaña",
+            "short": "motoguadaña/demalezadora cortando césped",
             "id": 22988,
             "categories": [
                 "tools"
@@ -974,7 +974,7 @@
         {
             "x": false,
             "name": "escribiendo en máquina de escribir",
-            "short": "máquina de escribir",
+            "short": "escribiendo en máquina de escribir",
             "id": 22957,
             "categories": [
                 "household"
@@ -992,7 +992,7 @@
         {
             "x": false,
             "name": "escritura lenta (máquina de escribir)",
-            "short": "escritura lenta",
+            "short": "escritura lenta (máquina de escribir)",
             "id": 22959,
             "categories": [
                 "household"
@@ -1001,7 +1001,7 @@
         {
             "x": false,
             "name": "cóndor grazna (risa)",
-            "short": "cóndor grazna",
+            "short": "cóndor grazna (risa)",
             "id": 22311,
             "categories": [
                 "Animal"
@@ -1082,7 +1082,7 @@
         {
             "x": false,
             "name": "bocina de camión grande",
-            "short": "bocina de camión",
+            "short": "bocina de camión grande",
             "id": 22950,
             "categories": [
                 "vehicle"
@@ -1145,7 +1145,7 @@
         {
             "x": false,
             "name": "rebobinado de cinta de audio",
-            "short": "rebobinado de cinta",
+            "short": "rebobinado de cinta de audio",
             "id": 22934,
             "categories": [
                 "electronic/machine"
@@ -1172,7 +1172,7 @@
         {
             "x": false,
             "name": "salpicaduras de roca en el agua",
-            "short": "roca en el agua",
+            "short": "salpicaduras de roca en el agua",
             "id": 22919,
             "categories": [
                 "liquid"
@@ -1235,7 +1235,7 @@
         {
             "x": false,
             "name": "ba dum tsss (batería)",
-            "short": "ba dum tsss",
+            "short": "ba dum tsss (batería)",
             "id": 22849,
             "categories": [
                 "Music"
@@ -1261,7 +1261,7 @@
         },
         {
             "x": false,
-            "name": "“All hail the king!” (¡Todos saluden al rey!) (hombre)",
+            "name": "“¡Todos saluden al rey!” (hombre)",
             "short": "¡Todos saluden al rey!",
             "id": 25662,
             "categories": [
@@ -1307,7 +1307,7 @@
         {
             "x": false,
             "name": "silbato deslizante hacia abajo",
-            "short": "silbato deslizante abajo",
+            "short": "silbato deslizante hacia abajo",
             "id": 22885,
             "categories": [
                 "cartoon"
@@ -1353,7 +1353,7 @@
         {
             "x": false,
             "name": "sirena de la policía británica",
-            "short": "sirena de policía británica",
+            "short": "sirena de la policía británica",
             "id": 22880,
             "categories": [
                 "alarm",
@@ -1409,7 +1409,7 @@
         {
             "x": false,
             "name": "sirena de policía (parada)",
-            "short": "sirena de policía",
+            "short": "sirena de policía (parada)",
             "id": 22882,
             "categories": [
                 "alarm",
@@ -1554,7 +1554,7 @@
         {
             "x": false,
             "name": "computadora de ciencia ficción",
-            "short": "computadora",
+            "short": "computadora de ciencia ficción",
             "id": 22859,
             "categories": [
                 "sci-fi"
@@ -1573,7 +1573,7 @@
         {
             "x": false,
             "name": "disparos láser de ciencia ficción",
-            "short": "disparos láser",
+            "short": "disparos láser de ciencia ficción",
             "id": 22861,
             "categories": [
                 "sci-fi"
@@ -1635,7 +1635,7 @@
         },
         {
             "x": false,
-            "name": "“regular or decaf” (“regular o descafeinado”) (hombre)",
+            "name": "“regular o descafeinado” (hombre)",
             "short": "“Regular o descafeinado”",
             "id": 22735,
             "categories": [
@@ -1791,7 +1791,7 @@
         {
             "x": false,
             "name": "womp womp womp wooomp (Trombón)",
-            "short": "womp womp womp wooomp",
+            "short": "womp womp womp wooomp (Trombón)",
             "id": 22809,
             "categories": [
                 "Music"
@@ -1800,7 +1800,7 @@
         {
             "x": false,
             "name": "maestra de Charlie Brown hablando",
-            "short": "maestra de Charlie Brown",
+            "short": "maestra de Charlie Brown hablando",
             "id": 22810,
             "categories": [
                 "Music"
@@ -1846,7 +1846,7 @@
         {
             "x": false,
             "name": "teléfono celular vibrando",
-            "short": "celular vibrando",
+            "short": "teléfono celular vibrando",
             "id": 22823,
             "categories": [
                 "household"
@@ -1855,7 +1855,7 @@
         {
             "x": false,
             "name": "teléfono celular sonando",
-            "short": "celular sonando",
+            "short": "teléfono celular sonando",
             "id": 22824,
             "categories": [
                 "household"
@@ -1890,7 +1890,7 @@
         },
         {
             "x": false,
-            "name": "“hello” (“hola”) (loro)",
+            "name": "“hola” (loro)",
             "short": "“hola” (loro)",
             "id": 22817,
             "categories": [
@@ -1909,7 +1909,7 @@
         {
             "x": false,
             "name": "ambiente de multitud de fiesta",
-            "short": "multitud de fiesta",
+            "short": "ambiente de multitud de fiesta",
             "id": 22819,
             "categories": [
                 "crowd"
@@ -1927,7 +1927,7 @@
         {
             "x": false,
             "name": "señal de teléfono ocupado",
-            "short": "teléfono ocupado",
+            "short": "señal de teléfono ocupado",
             "id": 22821,
             "categories": [
                 "household"
@@ -1945,7 +1945,7 @@
         {
             "x": false,
             "name": "dial de módem conectándose",
-            "short": "dial de módem",
+            "short": "dial de módem conectándose",
             "id": 22799,
             "categories": [
                 "electronic/machine"
@@ -2151,7 +2151,7 @@
         },
         {
             "x": false,
-            "name": "(“hello”) (“hola”) (hombre)",
+            "name": "“hola” (hombre)",
             "short": "“hola”",
             "id": 22785,
             "categories": [
@@ -2188,7 +2188,7 @@
         {
             "x": false,
             "name": "bebiendo refresco con sorbete",
-            "short": "beber refresco con sorbete",
+            "short": "bebiendo refresco con sorbete",
             "id": 22781,
             "categories": [
                 "liquid"
@@ -2349,7 +2349,7 @@
         },
         {
             "x": false,
-            "name": "“stop” (“detente”) (hombre)",
+            "name": "“detente” (hombre)",
             "short": "“detente”",
             "id": 22737,
             "categories": [
@@ -2358,7 +2358,7 @@
         },
         {
             "x": false,
-            "name": "“try again” (“inténtalo de nuevo”) (hombre)",
+            "name": "“inténtalo de nuevo” (hombre)",
             "short": "“inténtalo de nuevo”",
             "id": 22738,
             "categories": [
@@ -2367,7 +2367,7 @@
         },
         {
             "x": false,
-            "name": "“turn it up” (“súbele”) (hombre)",
+            "name": "“súbele” (hombre)",
             "short": "“súbele”",
             "id": 22739,
             "categories": [
@@ -2377,7 +2377,7 @@
         {
             "x": true,
             "name": "orinando en el baño (mucho)",
-            "short": "orinando en el baño",
+            "short": "orinando en el baño (mucho)",
             "id": 22740,
             "categories": [
                 "bodily functions"
@@ -2413,7 +2413,7 @@
         {
             "x": false,
             "name": "cubitos de hielo caen en vaso",
-            "short": "hielo cae en vaso",
+            "short": "cubitos de hielo caen en vaso",
             "id": 22757,
             "categories": [
                 "household"
@@ -2430,7 +2430,7 @@
         },
         {
             "x": false,
-            "name": "“welcome” (“bienvenido”) (hombre)",
+            "name": "“bienvenido” (hombre)",
             "short": "“bienvenido”",
             "id": 22741,
             "categories": [
@@ -2439,7 +2439,7 @@
         },
         {
             "x": false,
-            "name": "“yep” (“sip”) (hombre)",
+            "name": "“sip” (hombre)",
             "short": "“sip”",
             "id": 22742,
             "categories": [
@@ -2493,8 +2493,8 @@
         },
         {
             "x": false,
-            "name": "“this may take a while” (“Esto va a llevar un tiempo”) (hombre)",
-            "short": "“Esto va a llevar un tiempo”",
+            "name": "“esto va a llevar un tiempo” (hombre)",
+            "short": "“esto va a llevar un tiempo”",
             "id": 22748,
             "categories": [
                 "voice"
@@ -2512,7 +2512,7 @@
         {
             "x": false,
             "name": "silbato deslizante corto hacia arriba",
-            "short": "silbato deslizante corto",
+            "short": "silbato deslizante corto hacia arriba",
             "id": 22407,
             "categories": [
                 "cartoon"
@@ -2529,8 +2529,8 @@
         },
         {
             "x": false,
-            "name": "“good answer” (“Buena respuesta”) (hombre)",
-            "short": "“Buena respuesta”",
+            "name": "“buena respuesta” (hombre)",
+            "short": "“buena respuesta”",
             "id": 22721,
             "categories": [
                 "voice"
@@ -2538,7 +2538,7 @@
         },
         {
             "x": false,
-            "name": "“good job” (“Buen trabajo”) (hombre)",
+            "name": "“buen trabajo” (hombre)",
             "short": "“Buen trabajo”",
             "id": 22722,
             "categories": [
@@ -2547,7 +2547,7 @@
         },
         {
             "x": false,
-            "name": "“Hello, is anybody there?” (“Hola, ¿hay alguien ahí?”) (hombre)",
+            "name": "“Hola, ¿hay alguien ahí?” (hombre)",
             "short": "“Hola, ¿hay alguien ahí?”",
             "id": 22723,
             "categories": [
@@ -2556,7 +2556,7 @@
         },
         {
             "x": false,
-            "name": "“hi” (“Hola”) (hombre)",
+            "name": "“hola” (hombre)",
             "short": "“Hola”",
             "id": 22724,
             "categories": [
@@ -2565,7 +2565,7 @@
         },
         {
             "x": false,
-            "name": "“made in the USA” (“Hecho en EE.UU.”) (hombre)",
+            "name": "“Hecho en EE.UU.” (hombre)",
             "short": "“Hecho en EE.UU.”",
             "id": 22725,
             "categories": [
@@ -2574,7 +2574,7 @@
         },
         {
             "x": false,
-            "name": "“nap time” (“hora de la siesta”) (hombre)",
+            "name": "“hora de la siesta” (hombre)",
             "short": "“hora de la siesta”",
             "id": 22726,
             "categories": [
@@ -2583,8 +2583,8 @@
         },
         {
             "x": false,
-            "name": "“no estacionarse” (español)",
-            "short": "“no estacionarse” (español)",
+            "name": "“no estacionarse” (hombre)",
+            "short": "“no estacionarse”",
             "id": 22727,
             "categories": [
                 "voice"
@@ -2592,7 +2592,7 @@
         },
         {
             "x": false,
-            "name": "“Nop” (hombre)",
+            "name": "“nop” (hombre)",
             "short": "“Nop”",
             "id": 22729,
             "categories": [
@@ -2601,7 +2601,7 @@
         },
         {
             "x": false,
-            "name": "“now loading” (“cargando”) (hombre)",
+            "name": "“cargando” (hombre)",
             "short": "“cargando”",
             "id": 22730,
             "categories": [
@@ -2637,7 +2637,7 @@
         },
         {
             "x": false,
-            "name": "“press here” (“Presiona aquí”) (hombre)",
+            "name": "“Presiona aquí” (hombre)",
             "short": "“Presiona aquí”",
             "id": 22734,
             "categories": [
@@ -2655,7 +2655,7 @@
         },
         {
             "x": false,
-            "name": "“softer” (“más suave”) (mujer)",
+            "name": "“más suave” (mujer)",
             "short": "“más suave”",
             "id": 22707,
             "categories": [
@@ -2664,7 +2664,7 @@
         },
         {
             "x": false,
-            "name": "“stop” (“detente”) (mujer)",
+            "name": "“detente” (mujer)",
             "short": "“detente”",
             "id": 22708,
             "categories": [
@@ -2673,7 +2673,7 @@
         },
         {
             "x": false,
-            "name": "“First, stop the bleeding.” (“Primero, detén el sangrado”) (mujer)",
+            "name": "“Primero, detén el sangrado” (mujer)",
             "short": "“Primero, detén el sangrado”",
             "id": 22709,
             "categories": [
@@ -2682,8 +2682,8 @@
         },
         {
             "x": false,
-            "name": "“This may take a while.” (“Esto llevará un rato”) (mujer)",
-            "short": "“Esto llevará un rato”",
+            "name": "“esto llevará un rato” (mujer)",
+            "short": "“esto llevará un rato”",
             "id": 22710,
             "categories": [
                 "voice"
@@ -2700,7 +2700,7 @@
         },
         {
             "x": false,
-            "name": "“welcome” (“bienvenido”) (mujer)",
+            "name": "“bienvenido” (mujer)",
             "short": "“bienvenido”",
             "id": 22712,
             "categories": [
@@ -2709,8 +2709,8 @@
         },
         {
             "x": false,
-            "name": "“Wrong. Try again.” (“incorrecto, prueba otra vez”) (mujer)",
-            "short": "“incorrecto, prueba otra vez”",
+            "name": "“Incorrecto. Inténtalo de nuevo” (mujer)",
+            "short": "“incorrecto. Inténtalo de nuevo”",
             "id": 22713,
             "categories": [
                 "voice"
@@ -2718,7 +2718,7 @@
         },
         {
             "x": false,
-            "name": "“yes” (“Sí”) (mujer)",
+            "name": "“Sí” (mujer)",
             "short": "“Sí”",
             "id": 22714,
             "categories": [
@@ -2763,8 +2763,8 @@
         },
         {
             "x": false,
-            "name": "“back by popular demand” (“De vuelta por demanda popular”) (hombre)",
-            "short": "“De vuelta por demanda popular”",
+            "name": "“vuelve por demanda popular” (hombre)",
+            "short": "“vuelve por demanda popular”",
             "id": 22719,
             "categories": [
                 "voice"
@@ -2772,7 +2772,7 @@
         },
         {
             "x": false,
-            "name": "“good girl” (“buena chica”) (mujer)",
+            "name": "“buena chica” (mujer)",
             "short": "“buena chica”",
             "id": 22692,
             "categories": [
@@ -2781,7 +2781,7 @@
         },
         {
             "x": false,
-            "name": "“help” (“ayuda”) (mujer)",
+            "name": "“ayuda” (mujer)",
             "short": "“ayuda”",
             "id": 22693,
             "categories": [
@@ -2790,8 +2790,8 @@
         },
         {
             "x": false,
-            "name": "“hi” (“hola”) (mujer)",
-            "short": "“hola”",
+            "name": "“hola” (mujer)",
+            "short": "“Hola”",
             "id": 22694,
             "categories": [
                 "voice"
@@ -2799,7 +2799,7 @@
         },
         {
             "x": false,
-            "name": "“howdy” (“holis”) (mujer)",
+            "name": "“holis” (mujer)",
             "short": "“holis”",
             "id": 22695,
             "categories": [
@@ -2826,8 +2826,8 @@
         },
         {
             "x": false,
-            "name": "“The white zone...” (“La zona blanca...”) (mujer)",
-            "short": "“La zona blanca...”",
+            "name": "“La zona blanca...” (hombre/Ruso)",
+            "short": "“La zona blanca...” (Ruso)",
             "id": 22698,
             "categories": [
                 "voice"
@@ -2835,8 +2835,8 @@
         },
         {
             "x": false,
-            "name": "“not good” (“No es bueno”) (mujer)",
-            "short": "“No es bueno”",
+            "name": "“no es bueno” (mujer)",
+            "short": "“no es bueno”",
             "id": 22699,
             "categories": [
                 "voice"
@@ -2844,7 +2844,7 @@
         },
         {
             "x": false,
-            "name": "“Not there, you idiot!” (“¡No ahí, idiota!”) (mujer)",
+            "name": "“¡No ahí, idiota!” (mujer)",
             "short": "“¡No ahí, idiota!”",
             "id": 22700,
             "categories": [
@@ -2882,8 +2882,8 @@
         },
         {
             "x": false,
-            "name": "“please wait” (“Por favor espera”) (mujer)",
-            "short": "“Por favor espera”",
+            "name": "“espera por favor” (mujer)",
+            "short": "“espera por favor”",
             "id": 22704,
             "categories": [
                 "voice"
@@ -2891,8 +2891,8 @@
         },
         {
             "x": false,
-            "name": "“press here” (“Presione aquí”) (mujer)",
-            "short": "“Presione aquí”",
+            "name": "“presione aquí” (mujer)",
+            "short": "“Presiona aquí”",
             "id": 22705,
             "categories": [
                 "voice"
@@ -2936,8 +2936,8 @@
         },
         {
             "x": false,
-            "name": "“breathe deeply” (“Respira profundamente”) (mujer)",
-            "short": "“Respira profundamente”",
+            "name": "“respira profundo” (mujer)",
+            "short": "“respira profundo”",
             "id": 22686,
             "categories": [
                 "voice"
@@ -2945,8 +2945,8 @@
         },
         {
             "x": false,
-            "name": "“bye bye” (“Adiós”) (mujer)",
-            "short": "“Adiós”",
+            "name": "“adiós” (mujer)",
+            "short": "“adiós”",
             "id": 22688,
             "categories": [
                 "voice"
@@ -2954,8 +2954,8 @@
         },
         {
             "x": false,
-            "name": "“good answer” (“Buena respuesta”) (mujer)",
-            "short": "“Buena respuesta”",
+            "name": "“buena respuesta” (mujer)",
+            "short": "“buena respuesta”",
             "id": 22690,
             "categories": [
                 "voice"
@@ -2963,8 +2963,8 @@
         },
         {
             "x": false,
-            "name": "“good boy” (“Buen chico”) (mujer)",
-            "short": "“Buen chico”",
+            "name": "“buen chico” (mujer)",
+            "short": "“buen chico”",
             "id": 22691,
             "categories": [
                 "voice"
@@ -2973,7 +2973,7 @@
         {
             "x": true,
             "name": "aplastar algo humedo y blando",
-            "short": "aplastar algo humedo",
+            "short": "aplastar algo humedo y blando",
             "id": 22615,
             "categories": [
                 "violence"
@@ -2991,7 +2991,7 @@
         {
             "x": false,
             "name": "bocina de auto antiguo",
-            "short": "bocina auto antiguo",
+            "short": "bocina de auto antiguo",
             "id": 22646,
             "categories": [
                 "cartoon"
@@ -3000,7 +3000,7 @@
         {
             "x": false,
             "name": "bocina de auto vintage",
-            "short": "bocina auto vintage",
+            "short": "bocina de auto vintage",
             "id": 22647,
             "categories": [
                 "cartoon"
@@ -3018,7 +3018,7 @@
         {
             "x": false,
             "name": "bocina de auto (2 veces)",
-            "short": "bocina de auto",
+            "short": "bocina de auto (2 veces)",
             "id": 22664,
             "categories": [
                 "alarm",
@@ -3047,7 +3047,7 @@
         {
             "x": false,
             "name": "multitud de zombis/fantasmas",
-            "short": "zombis y fantasmas",
+            "short": "multitud de zombis/fantasmas",
             "id": 22673,
             "categories": [
                 "voice"
@@ -3131,7 +3131,7 @@
         {
             "x": false,
             "name": "bocina de auto de payaso",
-            "short": "bocina de payaso",
+            "short": "bocina de auto de payaso",
             "id": 22671,
             "categories": [
                 "cartoon"
@@ -3167,7 +3167,7 @@
         {
             "x": false,
             "name": "sonido de arpa/soñando",
-            "short": "sonido de arpa",
+            "short": "sonido de arpa/soñando",
             "id": 22639,
             "categories": [
                 "Music"
@@ -3239,7 +3239,7 @@
         {
             "x": true,
             "name": "pistola disparando múltiples disparos",
-            "short": "múltiples disparos",
+            "short": "pistola disparando múltiples disparos",
             "id": 22625,
             "categories": [
                 "violence"
@@ -3257,7 +3257,7 @@
         {
             "x": true,
             "name": "fuego de ametralladora",
-            "short": "ametralladora",
+            "short": "fuego de ametralladora",
             "id": 22627,
             "categories": [
                 "violence"
@@ -3329,7 +3329,7 @@
         {
             "x": false,
             "name": "bocina tiempo muerto (deportes)",
-            "short": "bocina tiempo muerto",
+            "short": "bocina tiempo muerto (deportes)",
             "id": 22597,
             "categories": [
                 "sports"
@@ -3492,7 +3492,7 @@
         {
             "x": false,
             "name": "carrete de pesca desenrollado",
-            "short": "carrete de pesca",
+            "short": "carrete de pesca desenrollado",
             "id": 22586,
             "categories": [
                 "household"
@@ -3617,8 +3617,8 @@
         },
         {
             "x": false,
-            "name": "“hello” (“Hola”) (mujer)",
-            "short": "“Hola”",
+            "name": "“hola” (mujer)",
+            "short": "“hola”",
             "id": 22577,
             "categories": [
                 "voice"
@@ -3645,7 +3645,7 @@
         {
             "x": false,
             "name": "caída y bocinazo (dibujos animados)",
-            "short": "caída y bocinazo",
+            "short": "caída y bocinazo (dibujos animados)",
             "id": 22406,
             "categories": [
                 "cartoon"
@@ -3809,7 +3809,7 @@
         {
             "x": false,
             "name": "sonidos de pato reales",
-            "short": "sonidos de pato",
+            "short": "sonidos de pato reales",
             "id": 22536,
             "categories": [
                 "Animal"
@@ -3845,7 +3845,7 @@
         {
             "x": false,
             "name": "pequeña multitud gritando “hurra”",
-            "short": "“hurra”",
+            "short": "pequeña multitud gritando “hurra”",
             "id": 22494,
             "categories": [
                 "crowd"
@@ -3899,7 +3899,7 @@
         {
             "x": false,
             "name": "timbre de la puerta",
-            "short": "timbre de puerta",
+            "short": "timbre de la puerta",
             "id": 22518,
             "categories": [
                 "household"
@@ -3908,7 +3908,7 @@
         {
             "x": false,
             "name": "multitud del estadio “aww”",
-            "short": "“aww”",
+            "short": "multitud del estadio “aww”",
             "id": 22495,
             "categories": [
                 "crowd"
@@ -3935,7 +3935,7 @@
         {
             "x": false,
             "name": "multitud diciendo “ohhhh”",
-            "short": "“ohhhh”",
+            "short": "multitud diciendo “ohhhh”",
             "id": 22497,
             "categories": [
                 "crowd"
@@ -3943,8 +3943,8 @@
         },
         {
             "x": false,
-            "name": "multitud diciendo “Surprise!” (“¡Sorpresa!”)",
-            "short": "“¡Sorpresa!”",
+            "name": "multitud diciendo “¡Sorpresa!”",
+            "short": "multitud diciendo “¡Sorpresa!”",
             "id": 22498,
             "categories": [
                 "crowd"
@@ -3980,7 +3980,7 @@
         {
             "x": false,
             "name": "herramienta de succión de dentista",
-            "short": "succión de dentista",
+            "short": "herramienta de succión de dentista",
             "id": 22502,
             "categories": [
                 "electronic/machine"
@@ -3998,7 +3998,7 @@
         {
             "x": false,
             "name": "ladrido de perro grande y gruñido",
-            "short": "ladrido de perro grande",
+            "short": "ladrido de perro grande y gruñido",
             "id": 22504,
             "categories": [
                 "Animal"
@@ -4025,7 +4025,7 @@
         {
             "x": false,
             "name": "gruñido de perro amenazante",
-            "short": "perro amenazante",
+            "short": "gruñido de perro amenazante",
             "id": 22507,
             "categories": [
                 "Animal"
@@ -4088,7 +4088,7 @@
         {
             "x": false,
             "name": "multitud diciendo “5, 4, 3, 2...”",
-            "short": "“5, 4, 3, 2...”",
+            "short": "multitud diciendo “5, 4, 3, 2...”",
             "id": 22485,
             "categories": [
                 "crowd"
@@ -4142,7 +4142,7 @@
         {
             "x": false,
             "name": "muuuuuu (vaca) (lento)",
-            "short": "muuuuuu (vaca)",
+            "short": "muuuuuu (vaca) (lento)",
             "id": 22467,
             "categories": [
                 "Animal"
@@ -4160,7 +4160,7 @@
         {
             "x": false,
             "name": "choque de basurero de metal",
-            "short": "basurero de metal",
+            "short": "choque de basurero de metal",
             "id": 22476,
             "categories": [
                 "violence"
@@ -4205,7 +4205,7 @@
         {
             "x": false,
             "name": "ruido de cosas cayéndose",
-            "short": "cosas cayéndose",
+            "short": "ruido de cosas cayéndose",
             "id": 22474,
             "categories": [
                 "violence"
@@ -4241,7 +4241,7 @@
         {
             "x": false,
             "name": "corriendo (dibujos animados)",
-            "short": "corriendo",
+            "short": "corriendo (dibujos animados)",
             "id": 22405,
             "categories": [
                 "cartoon"
@@ -4250,7 +4250,7 @@
         {
             "x": false,
             "name": "máquina loca (dibujos animados)",
-            "short": "máquina loca",
+            "short": "máquina loca (dibujos animados)",
             "id": 22434,
             "categories": [
                 "cartoon"
@@ -4277,7 +4277,7 @@
         {
             "x": false,
             "name": "golpecitos en la cabeza (dibujos animados)",
-            "short": "golpecitos en la cabeza",
+            "short": "golpecitos en la cabeza (dibujos animados)",
             "id": 22402,
             "categories": [
                 "cartoon"
@@ -4286,7 +4286,7 @@
         {
             "x": false,
             "name": "tambaleante (dibujos animados)",
-            "short": "tambaleante",
+            "short": "tambaleante (dibujos animados)",
             "id": 22423,
             "categories": [
                 "cartoon"
@@ -4314,7 +4314,7 @@
         {
             "x": false,
             "name": "escribiendo con teléfono celular",
-            "short": "escribiendo con celular",
+            "short": "escribiendo con teléfono celular",
             "id": 22448,
             "categories": [
                 "household"
@@ -4342,7 +4342,7 @@
         {
             "x": false,
             "name": "pedo (sorprendentemente mojado)",
-            "short": "pedo muy mojado",
+            "short": "pedo (sorprendentemente mojado)",
             "id": 25712,
             "categories": [
                 "bodily functions"
@@ -4360,7 +4360,7 @@
         {
             "x": false,
             "name": "caja registradora (ding)",
-            "short": "caja registradora",
+            "short": "caja registradora (ding)",
             "id": 22445,
             "categories": [
                 "electronic/machine"
@@ -4369,7 +4369,7 @@
         {
             "x": false,
             "name": "viento (dibujos animados)",
-            "short": "viento",
+            "short": "viento (dibujos animados)",
             "id": 22436,
             "categories": [
                 "cartoon",
@@ -4379,7 +4379,7 @@
         {
             "x": false,
             "name": "magia y explosión (dibujos animados)",
-            "short": "magia y explosión",
+            "short": "magia y explosión (dibujos animados)",
             "id": 22437,
             "categories": [
                 "cartoon"
@@ -4397,7 +4397,7 @@
         {
             "x": false,
             "name": "silbato deslizante hacia abajo",
-            "short": "silbato deslizante",
+            "short": "silbato deslizante hacia abajo",
             "id": 22439,
             "categories": [
                 "cartoon"
@@ -4415,7 +4415,7 @@
         {
             "x": false,
             "name": "pájaro carpintero (dibujos animados)",
-            "short": "pájaro carpintero",
+            "short": "pájaro carpintero (dibujos animados)",
             "id": 22441,
             "categories": [
                 "Animal",
@@ -4425,7 +4425,7 @@
         {
             "x": false,
             "name": "voces agudas por teléfono (dibujos animados)",
-            "short": "voces agudas por teléfono",
+            "short": "voces agudas por teléfono (dibujos animados)",
             "id": 22442,
             "categories": [
                 "cartoon",
@@ -4491,7 +4491,7 @@
         {
             "x": false,
             "name": "sonidos retro de computadora",
-            "short": "sonidos de computadora",
+            "short": "sonidos retro de computadora",
             "id": 22529,
             "categories": [
                 "sci-fi"
@@ -4500,7 +4500,7 @@
         {
             "x": false,
             "name": "cencerro de vaca sonando rápido",
-            "short": "cencerro de vaca",
+            "short": "cencerro de vaca sonando rápido",
             "id": 22469,
             "categories": [
                 "Animal"
@@ -4509,7 +4509,7 @@
         {
             "x": false,
             "name": "trago (dibujos animados)",
-            "short": "trago",
+            "short": "trago (dibujos animados)",
             "id": 22378,
             "categories": [
                 "cartoon",
@@ -4556,7 +4556,7 @@
         {
             "x": false,
             "name": "auto espacial (dibujos animados)",
-            "short": "auto espacial",
+            "short": "auto espacial (dibujos animados)",
             "id": 22413,
             "categories": [
                 "cartoon",
@@ -4576,7 +4576,7 @@
         {
             "x": false,
             "name": "graznido de dibujos animados",
-            "short": "graznido",
+            "short": "graznido de dibujos animados",
             "id": 22415,
             "categories": [
                 "Animal",
@@ -4595,7 +4595,7 @@
         {
             "x": false,
             "name": "estiramiento de goma y golpe",
-            "short": "estiramiento de goma",
+            "short": "estiramiento de goma y golpe",
             "id": 22417,
             "categories": [
                 "cartoon"
@@ -4604,7 +4604,7 @@
         {
             "x": false,
             "name": "“thunk” (dibujos animados)",
-            "short": "“thunk”",
+            "short": "“thunk” (dibujos animados)",
             "id": 22418,
             "categories": [
                 "cartoon"
@@ -4613,7 +4613,7 @@
         {
             "x": false,
             "name": "arrojar (dibujos animados)",
-            "short": "arrojar",
+            "short": "arrojar (dibujos animados)",
             "id": 22419,
             "categories": [
                 "cartoon"
@@ -4622,7 +4622,7 @@
         {
             "x": false,
             "name": "caer en un pozo (dibujos animados)",
-            "short": "caer en un pozo",
+            "short": "caer en un pozo (dibujos animados)",
             "id": 22380,
             "categories": [
                 "cartoon"
@@ -4631,7 +4631,7 @@
         {
             "x": false,
             "name": "voz aguda (dibujos animados)",
-            "short": "voz aguda",
+            "short": "voz aguda (dibujos animados)",
             "id": 22382,
             "categories": [
                 "cartoon",
@@ -4679,7 +4679,7 @@
         {
             "x": false,
             "name": "florecimiento mágico (dibujos animados)",
-            "short": "florecimiento mágico",
+            "short": "florecimiento mágico (dibujos animados)",
             "id": 22395,
             "categories": [
                 "cartoon"
@@ -4735,7 +4735,7 @@
         {
             "x": false,
             "name": "explosión mágica (dibujos animados)",
-            "short": "explosión mágica",
+            "short": "explosión mágica (dibujos animados)",
             "id": 22393,
             "categories": [
                 "cartoon"
@@ -4762,7 +4762,7 @@
         {
             "x": false,
             "name": "estirar (dibujos animados)",
-            "short": "estirar",
+            "short": "estirar (dibujos animados)",
             "id": 22384,
             "categories": [
                 "Music",
@@ -4781,7 +4781,7 @@
         {
             "x": false,
             "name": "hipo (dibujos animados)",
-            "short": "hipo",
+            "short": "hipo (dibujos animados)",
             "id": 22385,
             "categories": [
                 "cartoon"
@@ -4827,7 +4827,7 @@
         {
             "x": false,
             "name": "arraastrando una piedra grande",
-            "short": "arraastrando una piedra",
+            "short": "arraastrando una piedra grande",
             "id": 22927,
             "categories": [
                 "tools"
@@ -4845,7 +4845,7 @@
         {
             "x": false,
             "name": "beso largo (dibujos animados)",
-            "short": "beso largo",
+            "short": "beso largo (dibujos animados)",
             "id": 22388,
             "categories": [
                 "cartoon",
@@ -4855,7 +4855,7 @@
         {
             "x": false,
             "name": "risa malvada (dibujos animados)",
-            "short": "risa malvada",
+            "short": "risa malvada (dibujos animados)",
             "id": 22389,
             "categories": [
                 "cartoon",
@@ -4874,7 +4874,7 @@
         {
             "x": false,
             "name": "risa loca (dibujos animados)",
-            "short": "risa loca",
+            "short": "risa loca (dibujos animados)",
             "id": 22390,
             "categories": [
                 "cartoon",
@@ -4911,7 +4911,7 @@
         {
             "x": false,
             "name": "golpe de yunque (dibujos animados)",
-            "short": "golpe de yunque",
+            "short": "golpe de yunque (dibujos animados)",
             "id": 22359,
             "categories": [
                 "cartoon"
@@ -4929,7 +4929,7 @@
         {
             "x": false,
             "name": "bamboleo (dibujos animados)",
-            "short": "bamboleo",
+            "short": "bamboleo (dibujos animados)",
             "id": 22361,
             "categories": [
                 "cartoon"
@@ -4938,7 +4938,7 @@
         {
             "x": false,
             "name": "boing y tambaleo (dibujos animados)",
-            "short": "boing y tambaleo",
+            "short": "boing y tambaleo (dibujos animados)",
             "id": 22364,
             "categories": [
                 "cartoon"
@@ -4947,7 +4947,7 @@
         {
             "x": false,
             "name": "golpe (dibujos animados)",
-            "short": "golpe",
+            "short": "golpe (dibujos animados)",
             "id": 22365,
             "categories": [
                 "cartoon"
@@ -4966,7 +4966,7 @@
         {
             "x": false,
             "name": "rebotando (dibujos animados)",
-            "short": "rebotando",
+            "short": "rebotando (dibujos animados)",
             "id": 22367,
             "categories": [
                 "cartoon"
@@ -4984,7 +4984,7 @@
         {
             "x": false,
             "name": "trompeta de carrera de caballos",
-            "short": "trompeta de carrera",
+            "short": "trompeta de carrera de caballos",
             "id": 22336,
             "categories": [
                 "Music"
@@ -4993,7 +4993,7 @@
         {
             "x": false,
             "name": "hacer burla con la lengua (dibujos animados)",
-            "short": "hacer burla con la lengua",
+            "short": "hacer burla con la lengua (dibujos animados)",
             "id": 22401,
             "categories": [
                 "bodily functions",
@@ -5003,7 +5003,7 @@
         {
             "x": false,
             "name": "arco y flecha (dibujos animados)",
-            "short": "arco y flecha",
+            "short": "arco y flecha (dibujos animados)",
             "id": 22368,
             "categories": [
                 "cartoon"
@@ -5012,7 +5012,7 @@
         {
             "x": false,
             "name": "temblando (dibujos animados)",
-            "short": "temblando",
+            "short": "temblando (dibujos animados)",
             "id": 22369,
             "categories": [
                 "cartoon"
@@ -5021,7 +5021,7 @@
         {
             "x": false,
             "name": "mordisco (dibujos animados)",
-            "short": "mordisco",
+            "short": "mordisco (dibujos animados)",
             "id": 22370,
             "categories": [
                 "cartoon"
@@ -5030,7 +5030,7 @@
         {
             "x": false,
             "name": "risa loca (dibujos animados)",
-            "short": "risa loca",
+            "short": "risa loca (dibujos animados)",
             "id": 22391,
             "categories": [
                 "cartoon",
@@ -5049,7 +5049,7 @@
         {
             "x": false,
             "name": "computadora (dibujos animados)",
-            "short": "computadora",
+            "short": "computadora (dibujos animados)",
             "id": 22371,
             "categories": [
                 "cartoon",
@@ -5159,7 +5159,7 @@
         {
             "x": false,
             "name": "cepillarse los dientes y escupir",
-            "short": "cepillarse los dientes",
+            "short": "cepillarse los dientes y escupir",
             "id": 22331,
             "categories": [
                 "bodily functions"
@@ -5167,7 +5167,7 @@
         },
         {
             "x": false,
-            "name": "“You’re not listening to me!” (“¡no me estas escuchando!”) (mujer)",
+            "name": "“¡No me estas escuchando!” (mujer)",
             "short": "“¡no me estás escuchando!”",
             "id": 25701,
             "categories": [
@@ -5185,7 +5185,7 @@
         },
         {
             "x": false,
-            "name": "““Hello? Is anybody there?” (¿Hola? ¿Hay alguien ahí?”) (mujer)",
+            "name": "“¿Hola? ¿Hay alguien ahí?” (mujer)",
             "short": "“¿Hola? ¿Hay alguien ahí?”",
             "id": 25710,
             "categories": [
@@ -5194,8 +5194,8 @@
         },
         {
             "x": false,
-            "name": "“What are you waiting for?!” (“¡¿Qué estas esperando?!”) (hombre)",
-            "short": "“¡¿Qué estas esperando?!”",
+            "name": "“¡¿Qué estás esperando?!” (hombre)",
+            "short": "“¡¿Qué estás esperando?!”",
             "id": 25711,
             "categories": [
                 "voice"
@@ -5203,7 +5203,7 @@
         },
         {
             "x": false,
-            "name": "“Here kitty, kitty.” (“Aquí gatito, gatito.”) (hombre)",
+            "name": "“Aquí gatito, gatito” (hombre)",
             "short": "“Aquí gatito, gatito.”",
             "id": 25702,
             "categories": [
@@ -5222,7 +5222,7 @@
         {
             "x": false,
             "name": "rompiendo pequeña cerámica",
-            "short": "rompiendo cerámica",
+            "short": "rompiendo pequeña cerámica",
             "id": 22328,
             "categories": [
                 "violence"
@@ -5231,7 +5231,7 @@
         {
             "x": false,
             "name": "caída a un balde (dibujos animados)",
-            "short": "caída a un balde",
+            "short": "caída a un balde (dibujos animados)",
             "id": 25715,
             "categories": [
                 "cartoon"
@@ -5258,7 +5258,7 @@
         {
             "x": false,
             "name": "gaitas enfermizas desafinadas",
-            "short": "gaitas desafinadas",
+            "short": "gaitas enfermizas desafinadas",
             "id": 22271,
             "categories": [
                 "Music"
@@ -5277,7 +5277,7 @@
         {
             "x": false,
             "name": "golpe en la cabeza (dibujos animados)",
-            "short": "golpe en la cabeza",
+            "short": "golpe en la cabeza (dibujos animados)",
             "id": 22321,
             "categories": [
                 "cartoon"
@@ -5313,7 +5313,7 @@
         {
             "x": false,
             "name": "campana de bicicleta",
-            "short": "campana de bici",
+            "short": "campana de bicicleta",
             "id": 22287,
             "categories": [
                 "alarm",
@@ -5360,7 +5360,7 @@
         {
             "x": false,
             "name": "boing (dibujos animados)",
-            "short": "boing",
+            "short": "boing (dibujos animados)",
             "id": 22316,
             "categories": [
                 "cartoon"
@@ -5369,7 +5369,7 @@
         {
             "x": false,
             "name": "rebotes (dibujos animados)",
-            "short": "rebotes",
+            "short": "rebotes (dibujos animados)",
             "id": 22315,
             "categories": [
                 "cartoon"
@@ -5388,7 +5388,7 @@
         {
             "x": false,
             "name": "salto biónico en cámara lenta",
-            "short": "salto biónico",
+            "short": "salto biónico en cámara lenta",
             "id": 22302,
             "categories": [
                 "cartoon"
@@ -5397,7 +5397,7 @@
         {
             "x": false,
             "name": "estiramiento y explosión de globo",
-            "short": "explosión de globo",
+            "short": "estiramiento y explosión de globo",
             "id": 22272,
             "categories": [
                 "cartoon"
