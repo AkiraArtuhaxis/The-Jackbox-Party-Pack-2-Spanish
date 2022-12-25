@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "armario de escobas,velero,Walmart,nevera,asta de bandera,auto de policía,Blockbuster Video,club de striptease,globo aerostático,circo,edificio abandonado,prisión,cueva,casa del árbol,escuela secundaria,avión,parada de autobús,alcantarillado",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "estación",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cabina telefónica",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando conduzcas por Carrabelle, Florida, echa un vistazo a su estación de policía única que se encuentra dentro de un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cabina telefonica,cabina de teléfono,cabina de telefono",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "413989_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "390671_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

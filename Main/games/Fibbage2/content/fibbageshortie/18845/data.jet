@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pelos nasales,gatos muertos,monóculos,orina,dientes,ropa interior,cigarrillos usados,tirantes,la bolsa de dormir,tanques,poemas cortos,dibujos de Stalin,calcetines viejos,películas caseras,orinales,el anillo de boda,los nudillos de bronce,patines",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "subastas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "sangre",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 12 de marzo de 2015, la casa de subastas Duke’s of Dorchester en Dorset, Inglaterra, subastó algo bastante inusual: <BLANK> de Winston Churchill.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "380108_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "molestar a Tom Brady,tirar té en el puerto,rayar el ayuntamiento,hacer karaoke,tirar monedas a los animales del zoológico,abrir bocas de incendio,destrozar casas de fans de los Yankees,ingresar datos falsos de Wikipedia,trabajar en sus autos,hacer bromas telefónicas,comprar pasteles eróticos,cocinar un pavo,escribir fanfiction,vestir a sus perros como personas,jugar a los dardos en el jardín,visitar el planetario,quedarse dormidos en el arboreto,vestirse como Thor",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "emborracharse",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "perseguir osos con hachas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La policía en North Adams, MA, tuvo que hacer una solicitud inusual y muy específica a sus ciudadanos en mayo de 2015. Instaron a todos a evitar emborracharse y <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "perseguir un oso con un hacha,perseguir a un oso con un hacha,perseguir osos con hachuelas,perseguir un oso con una hachuela,perseguir a un oso con una hachuela,perseguir osos,perseguir a un oso,perseguir a osos,perseguir un oso,atacar a un oso,atacar un oso,atrapar osos,atrapar a osos,atrapar a un oso,atrapar un oso,cazar osos,cazar a un oso,cazar un oso",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "408760_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

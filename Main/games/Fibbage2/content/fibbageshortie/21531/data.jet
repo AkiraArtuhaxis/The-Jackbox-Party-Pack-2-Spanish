@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "George Washington,La Madre Teresa,Jesucristo,Pearl Harbor,un famoso cazador furtivo,Jennifer Lawrence,Jonas Salk,Juana de Arco,David Letterman,Jennifer Aniston,Santa Claus,Neil Armstrong,Galileo,Amelia Earhart,un sándwich,Alec Baldwin,Jack El Destripador,Charles Manson",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "zoológico",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el bebé real",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Jardín Zoológico Natural de Takasakiyama en Japón tuvo que emitir una disculpa pública después de que tuvieron el descaro de nombrar a uno de sus monos recién nacidos como <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "la princesa real,la princesa británica,el bebé real Charlotte,el bebé real,el bebé real charlotte,charlotte el bebé real,la princesa charlotte,el bebe real,la princesa britanica,el bebe real Charlotte,el bebe real,el bebe real charlotte,charlotte el bebe real",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407660_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

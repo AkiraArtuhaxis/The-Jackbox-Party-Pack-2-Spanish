@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "comedor de pizza competitivo,baterista de jazz,herrador,bailarín de claqué,jugador de rayuela,planchador,plegador de hojas,observador de constelaciones,llamador de pájaros,balanceador de huevos,leñador,flautista,cazador de queso,nadador sincronizado,andador en zancos,llamador de cerdos,acordeonista,buceador",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Uber",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "jugador de tenis de Wii",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El CEO de Uber, Travis Kalanick, tiene otro reclamo a la fama, aunque no paga tan bien. Fue clasificado como el segundo mejor <BLANK> del mundo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "400796_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "400793_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

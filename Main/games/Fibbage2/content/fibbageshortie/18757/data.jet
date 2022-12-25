@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "realizando una felación,apuntando una pistola a su cabeza,orando al diablo,tomando dinero,limpiándose sangre,mostrando el dedo del medio,vomitando en un inodoro,siendo penetrada,limpiando el piso,sosteniendo un cuchillo,al lado de un agujero de gloria,mostrando dos pulgares abajo,golpeando munchkins,masturbándose,sacándose sus ojos,ahorcando a un perro,abrazando aliens,disparando críticos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "arrodillada",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "esnifando cocaína",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Antes de los Oscar de 2015, un artista callejero llamado Plastic Jesus inauguró una provocativa estatua del Oscar de tamaño real en Hollywood Boulevard. La estatua estaba arrodillada y <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "esnifando cocaina,inhalando cocaína,inhalando cocaina,consumiendo cocaína,consumiendo cocaina,aspirando cocaína,aspirando cocaina",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "379319_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

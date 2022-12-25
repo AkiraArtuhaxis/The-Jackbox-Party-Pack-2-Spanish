@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "¡10000 maníacos!,baile de luz,isla maníaca,hombre de la mancha,Lunes Maníaco,10000 loquitos,un puñado de maníacos,ciudad maníaca,10000 días de horror,mil zombis,7 maníacos,¡corre, tonto, corre!,mani-pedis para maníacos,un millón de maníacos,mac y yo,uno voló sobre el nido del cuco,manzilla,locura sin fin",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "maniacs",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "2000 maníacos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre de la película que dio nombre a la banda 10,000 Maniacs (10.000 maníacos).",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "2000 maniacos,Two Thousand Maniacs!,2000 Maniacs,2,000 Maniacs,2000 Maniacs!,2,000 Maniacs!,Dos Mil Maníacos,Dos Mil Maniacos,2.000 Maníacos,2.000 Maniacos,¡2000 maníacos!,¡2000 maniacos!,¡Dos Mil Maníacos!,¡Dos Mil Maniacos!,¡2.000 Maníacos!,¡2.000 Maniacos!,2000 maníacos!,2000 maniacos!,Dos Mil Maníacos!,Dos Mil Maniacos!,2.000 Maníacos!,2.000 Maniacos!",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "430111_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "430108_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "el espacio,un congelador,pudín,un aeropuerto,desnudez,aislamiento,agua,Canadá,una aspiradora,humus,el desierto,la cárcel,tinas calientes,una cámara de oxígeno,pareja,un elevador,centros comerciales,McDonald's",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "experimento",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cama",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Como parte de un experimento financiado por la NASA, a Andrew Iwanicki se le pagó $18.000 por pasar 70 días en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "376424_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

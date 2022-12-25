@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cartero,chofer,mesero,granjero,representante de servicio al cliente,repartidor,cocinero de mariscos,músico de jazz,prostituta,instructor de baile,joyero,panadero,guía turístico,pescador,meteorólogo,vendedor de perros calientes,paseador de perros,pintor",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "license",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "florista",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Louisiana es el único estado de los EE. UU. que requiere una licencia emitida por el gobierno para tener esta ocupación.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un florista,una florista",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "423885_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

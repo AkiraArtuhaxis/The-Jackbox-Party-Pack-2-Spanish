@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un tigre,un jacuzzi,una barra de papas,una mesa de tejo,una letrina,un glotón,una escopeta,una mesa de billar,una máquina para hacer pasta,una máquina elíptica,una bolsa de frijoles,un horno de juguete,una casa de muñecas,un muñeco de sí mismo,una lámpara de lava,una piscina para niños llena con espagueti,burros,Santa inflable de jardín",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "jazz",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una olla de gumbo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Lo inusual que el músico de jazz Bill Wharton es conocido por tener en el escenario durante sus conciertos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "gumbo,olla de gumbo,tazón de gumbo,tazon de gumbo,un tazón de gumbo,un tazon de gumbo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "423860_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

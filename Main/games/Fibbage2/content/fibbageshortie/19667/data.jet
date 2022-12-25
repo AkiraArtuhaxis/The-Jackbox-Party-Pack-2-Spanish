@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "orugas,una tumba,lindos cachorros,niños llorando,cómics,caca,gente estornudando,animales disfrazados de personas,su propio reflejo,gente grosera,ovnis,ropa interior,gente cortándose el pelo,la factura de su teléfono celular,pájaros volando,nieve cayendo,una rata,un show de comedia stand-up",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "síndrome",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "grandes obras de arte",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "StrangeAilments",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Quienes padecen el síndrome de Stendhal pueden marearse e incluso desmayarse cuando ven <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "arte hermoso,gran arte,buen arte,arte,obras maestras de arte,una obra maestra de arte,una obra maestra,geniales obras de arte,una gran obra de arte,obras maestras,obras maestras hermosas,grandes obras maestras,obras maestras buenas,unas obras maestras,unas obras maestras hermosas,unas grandes obras maestras,unas obras maestras buenas,una obra maestra,una obra maestra hermosa,una gran obra maestra,una obra maestra buena",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "414224_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "391391_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

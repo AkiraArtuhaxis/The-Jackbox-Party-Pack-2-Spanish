@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "botas,paraguas,pedos,axilas,bebés,lechugas,pobres,baños portátiles,billetes,pintalabios,camisetas sucias,gatos,microondas,sábanas,rosquillas,jardines,bolsas de comida rápida,contenedores de basura",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "olor",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pañales",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "“Me encanta el olor de los/as <BLANK>. Incluso me gusta cuando están mojados/as y huelen calientes como productos horneados”. - Sarah Jessica Parker siendo realista",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "425672_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "405285_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

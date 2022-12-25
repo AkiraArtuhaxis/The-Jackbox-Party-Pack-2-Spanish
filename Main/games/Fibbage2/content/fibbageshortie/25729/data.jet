@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hisopos de algodón,algodón de azúcar,cera para los oídos,gotas para los ojos,patas de mono,cejas,leche,aspirinas,malvaviscos,mantequilla de maní,otros papeles,excremento de perro,cabello humano,plumas,sopa,cubitos de hielo,tocino,llantas de goma de bicicletas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "goma",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "migajas de pan",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Antes de la invención de la goma de borrar, la gente se deshacía de las marcas accidentales de lápiz frotándolas con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "migas de pan,pan,pan rallado,pedazos de pan,pedasos de pan,corteza de pan,cortesa de pan",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "431571_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

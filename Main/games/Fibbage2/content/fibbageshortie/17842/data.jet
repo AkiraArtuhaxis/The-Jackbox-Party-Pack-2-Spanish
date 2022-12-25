@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pelotas de ping pong,cecina de pavo,labios de cera,revistas de Penthouse,bongs,ojos humanos,gelatina,cuerpos de alien,canicas,billetes de cien dólares,cartas para Santa,ácido,abejas,cerebros humanos,uranio,yogur griego,sangre de Willie Nelson,jarabe de chocolate",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "greyhound",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "semen de toro",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En agosto de 2011, se cerró una carretera de Nashville después de que un autobús Greyhound derramara cuatro contenedores de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "esperma de toro,esperma,semen",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "373196_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "373193_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "la basurera,la idiota del pueblo,un pato,un maniquí,un fantasma,una niña de tercer grado,una estatua,un árbol,la cazadora de perros,una astronauta,la prima de Lady Gaga,la jefa de policía,la cuidadora del zoológico,la campeona de comer perros calientes,alguien atrapada en un pozo,el muñeco de un ventrilocuo,un Little Rascal original,la CEO de Ford",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Nebraska",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la única residente",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Saluda a Elsie Eiler cuando pases por Monowi, Nebraska, porque no solo es la alcaldesa, sino también <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "la unica residente,la única persona ahí,la unica persona ahí,la única persona ahi,la unica persona ahi,la única ciudadana,la unica ciudadana,la única ahí,la unica ahí,la única ahi,la unica ahi,la residente solitaria,la ciudadana solitaria,la única mujer,la unica mujer,la única mujer allí,la unica mujer allí,la única mujer alli,la unica mujer alli,la única persona en la ciudad,la unica persona en la ciudad,la única persona allí,la unica persona allí,la única persona alli,la unica persona alli,la única mujer ahí,la unica mujer ahí,la única mujer ahi,la unica mujer ahi",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "412687_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "388409_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "388406_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

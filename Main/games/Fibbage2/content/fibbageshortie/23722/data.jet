@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "su propia cabeza,la letra “H”,J.Lo,una cabra,una copa de martini,un corazón humano,un televisor,una pelota de fútbol,la Esfinge,una gallina,una pirámide,un caballo,un biberón,un piano de cola,un perrito caliente,una montaña,Shirley MacLaine,Dogbert",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "casa rodante",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la Tierra",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El jeque conocido como Rainbow Sheikh, un miembro multimillonario de la familia gobernante en Abu Dhabi, construyó una casa rodante enorme e inusual con la forma exacta de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un globo,el mundo,Tierra,el planeta tierra,el planeta",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "417720_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

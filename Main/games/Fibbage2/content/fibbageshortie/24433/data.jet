@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Dedo Dedo,Vello,Cankles,Melbourne,Manscape,Wayne,Schwarzenegger,Belushi,Cusack,Jacob Jingleheimer Schimdt,Yoda,Nieve,Terminator,Farteknocker,Dingleberry,Lazertag,Nerf,Instagram",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Fundador",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Batman",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El fundador de la pequeña colonia australiana que finalmente se convirtió en Melbourne, Australia, era un hombre llamado, lo creas o no, John <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "423251_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "423248_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

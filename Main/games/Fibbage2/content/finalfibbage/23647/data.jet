@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ding Dong Muchas piernas,Succionador de nueces de Tanzania,Salchicha gateando,Salchicha deslizante,Carne de hombre orgulloso,Pepino afeitado,Gusano espeluznante,Gusano Dingle,Ron Jeremías,Larry calvo,Monstruo de carne fálica, Bestia de dedo sin cuerpo,Milpiés sugestivo,Zanahoria dura,Perro Caliente Flexionando,ciempiés erecto,ciempiés humano,masticador de trasero tropical",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "millipede",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Salchicha De Pierna Errante",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre común (traducido) un tanto sugerente de Crurifarcimen vagans, un gran milpiés que se encuentra en Tanzania.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Salchicha errante de pierna",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "415937_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

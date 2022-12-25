@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un payaso,Marge Simpson,Frankenstein,punks,mimos,un buho,Don King,un laberinto de setos,Garfield,un proxeneta,un enano,el diablo,Pie Grande,Ed Grimley,cabritos,Batman,piñas,un unicornio",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "barbería",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ancianos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La barbería A-1 Kutz cerca de Atlanta ayuda a los padres a disciplinar a los niños que se portan mal cortándoles el pelo para que se vean como <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "viejos,tipos viejos,hombres viejos,calvos,hombres calvos,un hombre calvo,un viejo,un tipo viejo,un hombre viejo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "375536_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

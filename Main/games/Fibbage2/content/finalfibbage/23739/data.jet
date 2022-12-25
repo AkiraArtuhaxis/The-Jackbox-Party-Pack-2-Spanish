@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "corcho de champán,un pepinillo,una goma de borrar,un pico de codorniz,una llave de máquina de escribir,pasto,un diamante,una chincheta,una aspirina,un centavo,un malvavisco,un anillo,un cojinete de bolas,una llave de la casa,un reloj de pulsera,un chicle masticado,una almohada,algodón de azúcar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "death",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una tapa de botella de gotas para los ojos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El artículo aparentemente inofensivo con el que el dramaturgo Tennessee Williams murió ahogado en una suite de hotel de Manhattan.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "una tapa de botella de gotas de los ojos,una tapa de botella de colirio,una tapa de una botella de gotas de los ojos,una tapa de una botella de colirio,tapa de botella de gotas para los ojos,tapa de botella de gotas de los ojos,tapa de botella de colirio,tapa de una botella de gotas de los ojos,tapa de una botella de colirio,una tapa de frasco de gotas para los ojos,una tapa de frasco de gotas de los ojos,una tapa de frasco de colirio,una tapa de un frasco de gotas de los ojos,una tapa de un frasco de colirio,tapa de frasco de gotas para los ojos,tapa de frasco de gotas de los ojos,tapa de frasco de colirio,tapa de un frasco de gotas de los ojos,tapa de un frasco de colirio",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "418145_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "migraciones de mariposas,el bourbon,las formas de las nubes,elefantes apareándose,hongos silvestres,estrellas fugaces,barbas,uñas,gritos de cabra,hielo derritiéndose,rocas,vello púbico,gritos,plantas rodadoras,pájaros muertos,aliento humano,vómito,ropa",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "futuro",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "caca",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "S.S. Singh practica el arte perdido de predecir el futuro analizando <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "heces,materia fecal,mierda,mierda humana,heces humanas,caca humana,materia fecal humana,la caca,las heces,la materia fecal,la mierda,la mierda humana,las heces humanas,la caca humana,la materia fecal humana",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "398630_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "398627_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

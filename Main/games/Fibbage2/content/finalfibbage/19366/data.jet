@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Yoshi Yoshi Yoshi,Yoshert Cummingsworth III,Yoshusaki Toryama,Nathan Yoshi Roberts,Spencer Yoshua McLaney,Super Yoshio Lickamite,William Farnsworth,Yoshiiiiiiiiiiiiiiiiiiiii,Yoshford Billingsly,Yoshi Binks,Señor Yoshi,1er Almirante de Hongos Yoshi,Yoshi Nintendosaurio,El Yoshmeister,Fred,Yoshi Toshi Moshi,Yoesha,Yoshisaurus Rex",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Nintendo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "T. Yoshisaur Munchakoopas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según la Guía oficial de personajes de Nintendo de 1993, el nombre real del amigo dinosaurio de Super Mario, Yoshi.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "383834_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

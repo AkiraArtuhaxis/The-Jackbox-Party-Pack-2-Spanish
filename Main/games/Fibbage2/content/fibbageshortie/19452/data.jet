@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "gritan,vomitan sangre,se unen para formar una hormiga gigante,se van volando,se vuelven invisibles,disparan láseres de sus traseros,se besan,huelen como tocino,se congelan a ellas mismas,brillan de color verde,se vuelven radioactivas,se encojen,empiezan a bailar,hacern que el depredador estornude,empiezan a llorar,se comen sus propias cabezas,intentan hacer que el depredador se ría,ignoran el peligro",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "defensa",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "explotan",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Las hormigas de Malasia tienen un mecanismo de defensa único. Cuando se sienten amenazadas, <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "detonan",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "386237_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Prostituto,Desnudo,Fascista,Alcohólico,Boca Sucia,Cigarrillo,Mirón,Sobredosis,Educación Sexual,Desempleado,Dominatrix,Tío Borracho,Anti-Vacunas,En Rehabilitación,Vacaciones de Verano,Lupus,Triple X,Dingleberry",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Vermont",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Cincuenta sombras de Grey",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El producto KK0015958 del catálogo Vermont Teddy Bear es un oso que parece inapropiado para los niños, llamado Oso <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Cincuenta sombras de Gray,50 sombras de Grey,50 sombras de Gray",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "375326_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

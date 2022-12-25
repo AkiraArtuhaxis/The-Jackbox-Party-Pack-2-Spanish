@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "fantasmas,Ron Howard,George W. Bush,Will Ferrell,su perro,Hugh Jackman,la NASA,Levar Burton,Jay Leno,Madonna,Howard Stern,Stephen Colbert,un vampiro,su abuelo,George Clooney,Tina Fey,Kim Jong-Un,Vladimir Putin",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "broma",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Michael Jackson",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según Russell Crowe, durante años fue extrañamente acosado por llamadas telefónicas de broma infantiles de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396536_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

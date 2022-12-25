@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "se hace en parejas,se hace afuera,no daña a las aves acuáticas,involucra maíz,no menciona a Canadá,contiene el himno canadiense,se hace después de la medianoche,se hace bajo tierra,los strippers son aficionados,los strippers tienen licencias,los strippers son masculinos,no muestran sus traseros,se hace con música clásica,no hay postes presentes,no es erótico,dura menos de un minuto,se burla de América,termina con un apretón de manos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Saskatchewan",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "es por caridad",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Desde 2015, desnudarse en Saskatchewan solo es legal si <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "es con fines benéficos,es con fines beneficos,es caritativo,es sin fines de lucro,se hace sin lucrarse",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "403943_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "403940_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

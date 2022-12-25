@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bolsas plásticas,cortaúñas,Doritos,alfombras,cuellos de tortuga,puertas,cometas,envoltorios,ladridos,campanas de viento,calabazas,pelotas de tenis,cremas para afeitar,aspiradoras,chancletas,flotadores,tazas de café",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Tyra",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "delfines",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Luchando por contener las lágrimas, Tyra Banks una vez admitió audazmente en su programa de entrevistas que sufre de miedo a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "386600_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "386597_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

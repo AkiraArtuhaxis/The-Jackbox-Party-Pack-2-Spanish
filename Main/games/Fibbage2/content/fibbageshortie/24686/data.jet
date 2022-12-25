@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "beber chocolate caliente,hablar por teléfono,jugar videojuegos,gritarle a las plantas,usar camisetas sin mangas,tomar helado,mirar el sol,tomar el ascensor,escuchar Nickelback,darle un pulgar arriba a la gente,usar sandalias con calcetines,jugar juegos de trivia,comprar ropa,chocar los cinco,mirar aves,la pizza,el resfriado común,el pastel",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "bueno",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ver videos de gatos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un estudio de 2015 realizado por la profesora asistente de la Universidad de Indiana, Jessica Gall Myrick, demostró de una vez por todas que <BLANK> es bueno para ti.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ver vídeos de gatos,mirar videos de gatos,mirar vídeos de gatos,ver videos de gatos en youtube,ver vídeos de gatos en youtube,mirar videos de gatos en youtube,mirar vídeos de gatos en youtube,ver videos de gatitos,ver vídeos de gatitos,mirar videos de gatitos,mirar vídeos de gatitos,ver videos de gatitos en youtube,ver vídeos de gatitos en youtube,mirar videos de gatitos en youtube,mirar vídeos de gatitos en youtube",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "424614_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

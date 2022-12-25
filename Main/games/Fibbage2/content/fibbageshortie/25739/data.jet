@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "vayan al DMV,prueben su comida,vayan a citas,lloren,vayan a funerales,reciban palizas,sirvan en el ejército,vean películas,salten en paracaídas,coman cosas asquerosas,esperen en fila,hablen con familiares,reciban un disparo,finjan ser su hijo,dramaticen noticias,se vistan como parientes muertos,sean enterradas,insulten a la gente",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "inquietante",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "vayan a la cárcel",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En China, existe una práctica inquietante llamada “ding zui”, en la que los ricos pagan a alguien para que <BLANK> por ellos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "vayan a la carcel,vayan a prisión,vayan a prision,sean encarcelados",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "431821_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

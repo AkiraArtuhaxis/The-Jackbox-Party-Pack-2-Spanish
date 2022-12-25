@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cadera,ronquido,manada de gatos,perorata contra su esposo muerto,telenovela,pesadilla,comida que horneaba,reproductor de VHS,lavadora antigua,Modelo T,refrigerador,manera de tejer,oso mascota,flatulencia,disco de Frank Sinatra,whisky,olla a presión,toque de tuba",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "ruido",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "mecedora",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A principios de 2015, una mujer de 91 años en Quebec recibió una multa de $148 dólares porque su <BLANK> hacía demasiado ruido.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "silla mecedora",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "406140_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "406137_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "una canasta de gatitos,un grano,globos medio desinflados,una cama de tamaño doble,mal aliento,un peine encima,agujeros en sus calcetines,un desayuno en la cena,pesadillas,brazos peludos,una pequeña charla con extraños,una licencia de conducir vencida,queso cottage vencido,dolores de cabeza,siestas de gatos,fisioterapia,un baño de burbujas,dentaduras postizas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "fetiche",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tener la vejiga llena",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "“Omorashi” es un extraño fetiche en el que una persona se excita con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "una vejiga llena,tener ganas de orinar,querer orinar,tener que orinar,la necesidad de orinar,realmente tener que orinar",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "384290_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "oren,iglesia,vengan,dios,hola,infierno,jesús,pecados,arrodíllense,canten,Wilkommen,pow,donen,arrepiéntanse,miau,yahoo,¡bazinga!,¿hola?",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Catedral",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "dong",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "@koelner_dom, el usuario de Twitter de la Catedral de Colonia en Alemania, tuitea solo una palabra a sus miles de seguidores. Esa palabra es <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "377723_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "377720_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dormir,comer,un abrazo,hablar,ropa,orinar,tirarse pedos,tocar humanos,hacer sonreír a alguien,reír,perder un diente,eructar,escuchar la risa de un niño,salir de su cueva,hacer caca,decir algo hiriente,escuchar un chiste,estornudar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "sesenta",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bañarse",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Amou Haji, un hombre iraní de 80 años, ha sido noticia por pasar sesenta años sin <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un baño,una ducha,ducharse,limpiarse,baños,duchas,baño,ducha,baños,duchas,tomarse un baño,tomarse una ducha,tomarse baños,tomarse duchas,unos baños,unas duchas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "387053_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

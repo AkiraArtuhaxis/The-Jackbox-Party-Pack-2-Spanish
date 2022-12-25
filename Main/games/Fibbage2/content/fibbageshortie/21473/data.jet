@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dar a luz,hacer hula hoop,hacer un muñeco de nieve,tocar el saxofón,tomarse una selfie,usar un teléfono celular,rasurar a un gato,tejer un suéter,ver la trilogía de Star Wars,disparar una bazuca,escribir una novela,realizar una cirugía,fumar,usar una freidora,celebrar la Navidad,graduarse de la universidad,casarse,bautizarse",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "espacio",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hacer café expreso",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La astronauta Samantha Cristoforetti, la primera mujer italiana en el espacio, también tiene la distinción de ser la primera persona en <BLANK> en el espacio.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hacer cafe expreso,beber café expreso,beber cafe expreso,preparar café expreso,preparar cafe expreso,usar una máquina de expreso,usar una maquina de expreso,utilizar una máquina de expreso,utilizar una maquina de expreso",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "406290_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "406287_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

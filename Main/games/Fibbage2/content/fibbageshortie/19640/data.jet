@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "atascándose en la bañera,atragantándose con burritos enormes,cayéndose por un pozo,haciéndose caca en los pantalones,atascándose en la rueda de la fortuna,comiendo en exceso en un buffet,peridendo las llaves del auto,viendo aliens,pensando que ve dinosaurios,cayendo en el mismo sumidero,dejando al cerdo de la ciudad suelto,atascándose sus cabezas en las cercas,teniendo llantas pinchadas,peleándose por Star Wars,pavoneando desnuda,necesitando un abrazo,pegando sus lenguas congeladas en un poste,cantando en la biblioteca",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "911",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "perdiéndose en un laberinto de maíz",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La policía en Dixon, CA, a menudo tiene que responder a las llamadas al 911 por la misma razón tonta. La gente del pueblo sigue <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "perdiendose en un laberinto de maíz,perdiéndose en un laberinto de maiz,perdiendose en un laberinto de maiz,atascándose en un laberinto de maíz,atascandose en un laberinto de maíz,atascándose en un laberinto de maiz,atascandose en un laberinto de maiz,perdiéndose en el laberinto de maíz,perdiendose en el laberinto de maíz,perdiéndose en el laberinto de maiz,perdiendose en el laberinto de maiz,atascándose en el laberinto de maíz,atascandose en el laberinto de maíz,atascándose en el laberinto de maiz,atascandose en el laberinto de maiz",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "390743_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

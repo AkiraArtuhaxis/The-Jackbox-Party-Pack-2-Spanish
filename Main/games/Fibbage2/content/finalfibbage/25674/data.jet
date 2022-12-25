@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Curitas,recortes de uñas,tallos de piña,salsa tártara,chanclas,tazas de té,salmonetes,juguetes de McDonald’s,anteojos de sol,postales,fotos de monos,equipaje,muñecos Furby,monedas de chocolate,auriculares,ratas muertas,latas de cerveza vacías,ollas de barro",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "currency",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "dientes de delfín",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El objeto inusual que los aldeanos de las Islas Salomón usan como moneda.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dientes de delfin,diente de deflín,diente de deflin,los dientes de delfín,los dientes de delfin,el diente de delfín,el diente de delfin,dientes de un delfín,dientes de un delfin,diente de un deflín,diente de un deflin,los dientes de un delfín,los dientes de un delfin,el diente de un delfín,el diente de un delfin,dientes de delfines,diente de delfines,los dientes de delfines,el diente de delfines,dientes de los delfines,diente de los delfines,los dientes de los delfines,el diente de los delfines",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "430832_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

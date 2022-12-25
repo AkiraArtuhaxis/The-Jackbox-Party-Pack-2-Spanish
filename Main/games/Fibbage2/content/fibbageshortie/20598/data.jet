@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "lata,camioneta,tanque de gasolina,robot de juguete,computadora vieja,caravana,tortuga,veleta,armadura de caballero,azada,refrigerador roto,señal de alto,tractor,casco de fútbol,televisión,pomo de puerta,micrófono,techo de hojalata",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "bala",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "armadillo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un hombre en el condado de Lee, Georgia, le disparó accidentalmente a su suegra después de que su bala rebotó en el/la <BLANK> al que le estaba intentando dar.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "armadilo,armedillo,armedilo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "401081_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

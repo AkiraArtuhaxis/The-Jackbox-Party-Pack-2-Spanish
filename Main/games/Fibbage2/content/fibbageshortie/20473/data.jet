@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "descargando su aplicación,siendo el Papa en Halloween,escuchando su podcast,bebiendo agua fluorada,conduciendo un híbrido,teniendo una casa inteligente,viendo su serie web,deshaciéndose de su roomba,ordenando velas religiosas en línea,lavando su auto,llamando a su mamá una vez a la semana,comiendo más col rizada,donando $20 dólares al año,evitando los cigarrillos electrónicos,usando el transporte público,comiendo menos carbohidratos,inscribiéndose en un gimnasio,comprando un periódico",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "purgatorio",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "siguiendo al Papa en Twitter",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, el Vaticano hizo el inusual anuncio de que los católicos devotos ahora pueden reducir su tiempo en el purgatorio simplemente <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "siguiendo al Papa Francisco en Twitter",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "398363_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

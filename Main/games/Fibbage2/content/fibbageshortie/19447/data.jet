@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bailaran con música pop,vomitaran,comieran tacos,se aparearan con las jirafas,patinaran en hielo,jugaran fútbol,se disfrazaran como concursantes de belleza,montaran triciclos,tomaran cerveza,usaran bikinis,besaran ratones,pintaran un león,se visieran como bebés,pelearan con espadas,cantaran canciones de Madonna,se pintaran los labios,patinaran,jugaran básquetbol",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "elefantes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "se hicieran la pedicura",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un programa de reality chino llamado <i>Wonderful Friends<\/i> recibió críticas por un extraño truco en el que hicieron que los elefantes <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "se hagan una pedicura,se hagan pedicura,se hicieran pedicura,se pitaran las uñas,se pinten las uñas,se pinten las uñas de los pies,se pintaran las uñas de los pies",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "386117_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

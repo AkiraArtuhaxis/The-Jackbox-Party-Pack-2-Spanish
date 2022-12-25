@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "las turtugas,el rock ‘n’ roll,el Fluffernutter,Hello Kitty,Zumba,las novelas de vampiro,Nueva York,los desfiles,a Lucy,One Direction,las camisetas de temporada,cultivar frijoles,acolchar,los bombones,una buena manicura y pedicura,el bádminton,ahorrar,dormir en mi Hummer",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Schwarzenegger",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "las selfies",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "9:56 AM - 11 de octubre de 2014 @Schwarzenegger tuiteó: “Es verdad. Adoro <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "412685_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "388145_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "388142_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

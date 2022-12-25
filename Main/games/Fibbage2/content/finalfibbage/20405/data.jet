@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hojaldre rosa,nube de caramelo,almohada dulce,polvo de hadas,esponjosita,remolidulce,cosas suaves,plumas comestibles,pachonchitus,conejitos de polvo,pelusa de azúcar,relleno de ñam,caramelo de lana,arcoírish,remolino de mis sueños,zumbidillo,partes rosas,comida de circo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "cotton",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Hilo de hadas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre original (traducido) del algodón de azúcar.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "396755_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396752_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

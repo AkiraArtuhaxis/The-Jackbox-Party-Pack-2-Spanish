@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "justa de delfines,corte de queso,lanzamiento de bebés,tragar salsa picante,lanzamiento de refrigerador,atascar el inodoro,fútbol canguro,rugby,lucha de elefantes,pato pato ganso extremo,malabares con cadáveres,clasificación de cupones,cirugía ciega,trineo de cohetes,estornudos competitivos,tenis de coco,escaleras y toboganes humanos,lanzamiento de pasteles",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "bizarros",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "polo en Segway",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡Los fanáticos de los eventos deportivos bizarros se regocijan! El 15 de abril de 2015, la ciudad inglesa de Rugby acogió el primer torneo internacional de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "polo de Segway,polo en segweigh,polo de segweigh,pollo en segway,pollo de segway",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "404183_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "404180_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

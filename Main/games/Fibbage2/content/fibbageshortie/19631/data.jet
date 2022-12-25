@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "comer helado,comer jabón,escanear sus genitales,sentarse en sillas de jardín,probarse bikinis,cubrirse con Skittles,nadar en una piscina para niños,encerrarse en un congelador,recoger su receta,trabajar en el registro,comprar tarjetas de regalo de Outback,beber té helado de Arizona,comer Peeps,comprar tarjetas de cumpleaños,fregar los pisos,hacer anuncios con un megáfono,comer protector solar,cantar melodías de espectáculos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "desnudarse",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "dormir en camas para perros",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un hombre de 22 años en Lutz, Florida, fue arrestado a principios de 2015 por desnudarse y <BLANK> en una tienda CVS local.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dormir en camas de perros,acostarse en camas para perros,acostarse en camas de perros",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "390530_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "390527_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

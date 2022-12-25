@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Jugo de remolacha,jugo de naranja,cerveza,agua hirviendo,café,leche,alcohol,salmuera,helio,puré de sanguijuela,hidromiel,agua helada,vino,jabón,vodka,perfume,jerbos,mazorcas de maíz",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "traseros",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Humo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los médicos europeos de los siglos XVII y XVIII intentaban revivir a las personas que se habían ahogado metiéndoles <BLANK> en el trasero.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Humo de tabaco,tabaco,umo,umo de tabaco",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "417390_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "417387_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

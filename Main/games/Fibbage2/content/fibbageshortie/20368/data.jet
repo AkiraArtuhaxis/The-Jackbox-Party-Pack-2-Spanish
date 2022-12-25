@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Derramé leche,tuve que hacer caca,empezó a llover,vi mis propias películas,estaba triste,se equivocaron en mi pedido de comida,vi Diario de una pasión,alguien me retó a hacerlo,mi papá me abrazó,vi una mariposa,era la semana del tiburón,pensé en todo mi dinero,estaba aburrido,comí una galleta,vi mi propio reflejo,era martes,quería ver si podía,había una ráfaga de viento",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Keanu",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "No sentía nada",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "“Lloré por la belleza, lloré por el dolor y la otra vez lloré porque <BLANK>”. - Keanu Reeves sobre emociones crudas",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "414231_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "395867_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "395864_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

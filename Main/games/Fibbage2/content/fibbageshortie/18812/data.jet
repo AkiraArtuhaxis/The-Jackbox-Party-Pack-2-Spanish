@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hombres viejos,sopa,caramelos,brillantina,serpientes,pequeños molinos de viento,aliens,queso,monedas de oro,pañales sucios,multas de estacionamiento,pelo del pecho,jabón,pelotas de goma,zapatos de madera,pelucas,espejos,lágrimas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "BonBon",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ratas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando estés en Holme Olstrup, Dinamarca, consigue un boleto para BonBon-Land, un extraño parque de diversiones donde puedes viajar en una bañera llena de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "roedores,ratones,ratonas,un montón de ratas,un monton de ratas,muchas ratas,un montón de roedores,un monton de roedores,muchos roedores,un montón de ratones,un monton de ratones,muchos ratones,un montón de ratonas,un monton de ratonas,muchos ratonas,",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "419727_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "379949_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "379946_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

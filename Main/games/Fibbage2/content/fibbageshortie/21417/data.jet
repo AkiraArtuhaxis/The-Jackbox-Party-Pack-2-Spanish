@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cher,los velocirraptores,Channing Tatum,los New York Yankees,los modelos de Victoria’s Secret,los ganadores del Oscar,las Rockettes,Jay Leno,las estrellas de reality,los mafiosos,One Direction,los hipsters,las sirenas,Smash Mouth,Lebron James,Louis CK,los bajistas,Jennifer Lawrence",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "ADN",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Ozzy Osbourne",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2010, una empresa de biogenia llamada Knome emprendió un interesante estudio científico. Querían saber qué hacía que el ADN de <BLANK> fuera tan especial.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Ozzy",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "404950_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "404947_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

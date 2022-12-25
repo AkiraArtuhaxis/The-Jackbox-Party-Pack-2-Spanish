@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Floppy Willie,Milli Vadickie,Vanidosa Dan,Mason Dick,Moby Richard,Dick Peligro,Soja Ventisca,Monstro,Mante Quilla,Monsanto,Cocoa Peligro,Cronos Grey,Kraken de Zeus,La Blanca Maravilla,La Enterradora,Mordo Nick,Compa,Richard la Ballena",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "whale",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Mocha Dick",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre de la ballena real que inspiró a Herman Melville a escribir <i>Moby Dick<\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "moka dick,mocha dic,Moka dic,Moca Dick,Moca Dic",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "415537_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

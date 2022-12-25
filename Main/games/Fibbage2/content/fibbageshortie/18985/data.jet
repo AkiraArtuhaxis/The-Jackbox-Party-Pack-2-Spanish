@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "gluten de trigo,lechuga,pollo de imitación,chocolate negro,fideos,pañales de tela,brócoli,salsa,hamburguesas vegetarianas,lápiz labial,suéteres pequeños para ardillas enfermas,comida para mascotas,pasta de dientes,enjuague bucal,goma de mascar,condones,jugo Clooney,proteína en polvo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Clooney",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tofu con sabor a Clooney",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una vez, a Personas por el Trato Ético de los Animales se le ofreció la toalla usada de George Clooney por un seguidor que la tenía. PETA luego le escribió a Clooney para preguntarle si podían usarla para hacer <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tofu,clofu,tofu clooney,tofu de george clooney,tofu con sabor a george clooney",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "381140_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "381137_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

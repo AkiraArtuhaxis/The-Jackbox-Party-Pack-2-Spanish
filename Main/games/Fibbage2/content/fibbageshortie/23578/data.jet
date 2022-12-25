@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "personas en coma,unicornios,cadáveres,testículos de animales exóticos,perritos de peluche,prisioneros,comunistas,reclusos condenados a muerte,paraguas,monos afeitados,esqueletos humanos,trabajadores de talleres clandestinos,comida podrida,personas expuestas a la radiación,animales de dos cabezas,prisioneros de guerra,miles de tarántulas,mujeres barbudas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Coney Island",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Bebés prematuros",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una exhibición un poco espeluznante en el Luna Park de Coney Island, que se inauguró en 1903, puso <BLANK> en exhibición.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bebes prematuros,prematuros",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "414351_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "414348_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

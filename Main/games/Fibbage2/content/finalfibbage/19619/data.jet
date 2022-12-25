@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Camisas de los Philadelphia Eagles,cadenas de billetera,peines de navaja,tatuajes temporales,ropa interior,gel para el cabello,camas de bronceado,máquinas de casino,placas de matrícula,nudillos de bronce,jeep wranglers,máscaras de hockey,aceite de oliva,DVDs de Jersey Shore,libros de sopa de pollo para el alma,plantillas de zapatos,mini neveras,barriles vacíos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Jersey",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "colonia",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según eBay, el artículo de eBay más popular vendido en Nueva Jersey.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "coloña,fragancia masculina,fragancia de hombre,colonia de hombre,coloña de hombre",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "390239_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

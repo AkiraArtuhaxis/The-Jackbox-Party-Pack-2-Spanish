@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ted Danson,Albert Einstein,un relámpago,un t-rex,los arcos dorados de McDonald’s,Steve Buscemi,Wally de Dónde está Wally,la cara de su padre,una mano,un logotipo de Nike,un perro,un robot,la Esfinge,un logo de la NBA,la Mona Lisa,pi,su nombre,Bart Simpson",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "marca de nacimiento",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un número doce",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 11 de noviembre de 2014, un bebé especial en Johannesburgo, Sudáfrica, vino al mundo con una extraña marca de nacimiento que se parecía a <BLANK> en el medio de su frente.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un numero doce,el número 12,el numero 12,12,el número doce,el numero doce,un número 12,un numero 12,doce,un doce,el doce",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396176_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

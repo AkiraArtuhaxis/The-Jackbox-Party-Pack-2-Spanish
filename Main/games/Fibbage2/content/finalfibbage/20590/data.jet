@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chico del Vestíbulo,Héroes Hilton,Aventuras de Hotel,El Hombre de la Bolsa,Gran Hotel Robado,Llamada del Deber del Hotel,Súper Conserjes,Botones 7,Recorrido por el Servicio de Habitaciones,Tiradores de Hilton,Quejas de los Clientes,Servidor de Invitados,Trabajando Juntos,Acción con Sonrisas,Gerente Nocturno,Juego del Personal del Hotel,Pasillos Desgarradores,El Ascensor Espeluznante",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "hotels",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Juego en equipo definitivo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El título (traducido) del súper genial videojuego de Sony PSP que Hilton Hotels hizo para capacitar a sus empleados.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "400892_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "400889_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

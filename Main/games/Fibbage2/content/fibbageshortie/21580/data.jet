@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "chupete,semilla de calabaza,Lego,collar de perlas,borrador,adorno navideño,escarbadientes,papel de aluminio,esponja,frijol,percha,protector bucal,confeti,juguete para perros,huevo de plástico,abeja,varita de baño,uña falsa",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "estornudar",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "dardo de juguete",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Sorprendentemente, Steve Easton pudo estornudar parte del/de la <BLANK> que se había alojado en su conducto nasal durante casi 44 años.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dardo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "408616_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

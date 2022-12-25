@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Jack Nicholson,Marilyn Monroe,Richard Nixon,Ted Kennedy,Timothy Leary,Ted Bundy,Manuel Noriega,David Berkowitz,Fidel Castro,Martin Scorsese,John F. Kennedy,Steven Spielberg,Moe Howard,Abraham Lincoln,Mel Brooks,Ayn Rand,un niño de 4 años,un David Letterman joven",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Los Beach Boys",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Charles Manson",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La canción de los Beach Boys “Never Learn Not to Love” (Nunca Aprendas a No Amar) fue en realidad una reescritura de una canción llamada “Cease to Exist” (Deja de Existir), que fue escrita por, curiosamente, <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Charlie Manson,Manson",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "415962_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

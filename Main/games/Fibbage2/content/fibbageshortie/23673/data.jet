@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bebé,Negocio,Pollo,Bar,Auto,Garaje,Computadora,Sótano,Ataúd,Declaración de Impuestos,Teléfono Celular,Humidor,Perrera,Refrigerador,Tostadora,Lápiz,Cerebro,Amante",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "premio",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Caballo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2004, el premio Diagram al título de libro más extraño otorgó el gran premio a un libro llamado “Tu <BLANK> a prueba de bombas”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "caballito,equino,yegua",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "416587_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

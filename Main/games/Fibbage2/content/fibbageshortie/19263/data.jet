@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "una selfie,hurgarse la nariz,un calzón chino,una guardería infantil,fotos de compromiso,una foto de último año,un anuncio de bebé,letreros de pandillas,una competencia de comida,fotos de vacaciones familiares,comedia en vivo,una reunión sindical,una boda,un cheque gigante,una foto del equipo deportivo,servicios de valet,sarcasmo,patinaje",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "maya",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "photobombing",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los arqueólogos en 2015 descubrieron un antiguo mural maya que creen que representa la primera instancia registrada del mundo de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un photobomb,una photobomb,photo bombing,un photo bomb,una photo bomb",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "383066_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "383063_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "El Señor de los Anillos,fichas,ferias del condado,silencios incómodos,oídos,caries dentales,largos viajes en escaleras mecánicas,mimos,quioscos de centros comerciales,Tokio,ver a alguien estornudar,perderse un programa de televisión,propinas excesivas,animé,hombres invisibles,sudoración pública,cafeína,idiomas extranjeros",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "afraid",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "embarazo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A lo que le tienen miedo los tokófobos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dar a luz,los embarazos,el embarazo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "430686_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "430683_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

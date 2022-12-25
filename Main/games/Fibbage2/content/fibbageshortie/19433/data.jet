@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "adivino,asesino a sueldo,payaso de cumpleaños,boxeador aficionado,imitador de Cher,pescador de cangrejos,Santa Claus de centro comercial,vendedor de enciclopedias,masajista,cantante de blues,jardinero de ligas menores,portero de hockey,ladrón de poca monta,detective privado,asistente de Adam West,cobrador,vagabundo,miembro de una banda de motociclistas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Christopher Walken",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "domador de leones",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Antes de convertirse en una gran estrella, Christopher Walken pasó su adolescencia viajando por el país como <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "artista de circo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "385760_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "385757_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

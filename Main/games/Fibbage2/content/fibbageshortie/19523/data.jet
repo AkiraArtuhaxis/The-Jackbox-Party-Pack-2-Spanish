@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sentimiento,nuez,tiburón,pasante,tipo,dinosaurio,dios,jarrón,culto,micrófono,actor,crítico,fantasma,calzoncillo,árbol,animal tierno,pantalón,barbero",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "herido",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Judío",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los créditos finales de la película de los hermanos Coen <i>A Serious Man<\/i> incluyen el extraño aviso de que “Ningún <BLANK> fue herido en la realización de esta película”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "387926_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

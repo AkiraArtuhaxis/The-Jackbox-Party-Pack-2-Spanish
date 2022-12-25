@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "música,cuchillos,aspirinas,palos de selfie,teléfonos inteligentes,zapatos que se iluminan,zanahorias,spray para el cabello,desodorante,muñecos de vudú,llaves,cinturones,maquillaje,granola casera,leche sin pasteurizar,lechuzas,Roombas,computadoras de escritorio",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "proyecto de ley",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "protector solar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Quién dice que el gobierno no logra nada? En 2015, el Senado de Oregón aprobó por unanimidad un proyecto de ley que permite a los estudiantes llevar <BLANK> a las escuelas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bloqueador solar,crema solar,crema de sol,crema para el sol,bloqueador para el sol,protector para el sol",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "408787_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "408784_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

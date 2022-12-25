@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Kardashian,doctor de divinidad,Comanche,Klingon,caballero británico,alcalde de Roma,Georgia,amo de casa,santo de Nueva Orleans,capitán de la Copa Davis,cirujano de corazón,ciudadano de Israel,director de la sinfonía de Londres,presidente del comité olímpico,whoviano,bailarín de ballet bolshoi,miembro del elenco de Friends,gran mariscal de NASCAR,personaje de Padre de Familia",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "papa",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Harlem Globetrotter",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el año 2000, ante una multitud de 50.000 personas en la Plaza de San Pedro, el Papa Juan Pablo II fue nombrado <BLANK> honorario.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Globetrotter,Globe trotter,Harlem Globe trotter",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "435364_2",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "382091_3",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "382088_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

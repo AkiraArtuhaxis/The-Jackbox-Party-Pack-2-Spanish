@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tu cerebro,asientos de inodoro,iglesias,preescolares,el dormitorio,otro cartel publicitario,animales del zoológico,revestimientos de ataúdes,salas de operación,el cielo,los traseros de los perros,anteojos de sol,parabrisas,la cima del monte Everest,los baños de la Casa Blanca,pastillas urinarias,autobuses escolares,bolsas de suero",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "publicidad",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "en los muslos de las mujeres",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una empresa japonesa de relaciones públicas, Absolute Territory, lleva la publicidad a un nuevo nivel al colocar carteles publicitarios en un lugar poco probable. Los carteles se encuentran en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "muslos de mujeres,muslos de las mujeres,los muslos de mujeres,los muslos de las señoritas,muslos de señoritas,muslos de las señoritas,los muslos de señoritas,muslos femeninos,los muslos femeninos,las piernas de las mujeres,piernas de mujeres,las piernas de mujeres,piernas de las mujeres,piernas de chicas,las piernas de las chicas,piernas de las chicas,las piernas de chicas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "384413_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "384410_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

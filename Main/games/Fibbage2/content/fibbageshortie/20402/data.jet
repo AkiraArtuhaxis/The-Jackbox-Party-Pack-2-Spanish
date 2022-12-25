@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "almohadas,lluvia,un baile,camisas planchadas,agua,sofás,crucigramas,preguntas de matemáticas,malvaviscos,goma de mascar,caramelos,paternidad,cubitos de hielo,nueces,albóndigas,aceras,rocas,cabello",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "duro",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "picatostes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un hombre en Harriman, Tennessee, recibió $2.400 de los tribunales cuando fue herido por “<BLANK> de mucha dureza”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "picatostes de pizza hut,crutones,crutones de pizza hut,crotones,crotones de pizza hut",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396680_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

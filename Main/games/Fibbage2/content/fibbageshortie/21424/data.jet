@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Trasero Grande,Eructo Maloliente,Pene de Búfalo,Secuestro Extraterrestre,Derrame de Petróleo,Salvación,Trasero con Fugas,Agujero de Hielo,Patata Gigante,Napoleón Dinamita,Testículo de Pavo,Monstruo Metálico,LSD,Callejón de Pesadilla,Sexo con Serpientes,Tetas Grandes,Hombre Trasero,Lavado de Lengua",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "acampar",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Pene de Castor",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La próxima vez que estés cerca de Rexburg, Idaho, y busques un lugar para acampar, haz un viaje por la autopista 33 y monta una tienda de campaña en el lugar con el nombre extraño que se traduce a Parque <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "425677_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "405115_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pie,jarrón de cenizas de su papá,anillo de bodas,pastel de cumpleaños,anuario de la escuela secundaria,roomba,esposa maniquí,colmena,premio Nobel de la paz,camiseta de hockey,acuario,refrigerador,inodoro,ropa interior,pastel de carne,Santa Claus inflable,Honda Civic,tablero de dardos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "citación",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "computadora",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En abril de 2015, un hombre de Colorado Springs recibió una citación después de que se molestó y le disparó a su <BLANK> ocho veces.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "PC,laptop,computadora de escritorio,notebook,netbook",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "403706_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

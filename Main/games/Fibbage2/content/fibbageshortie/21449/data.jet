@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "llamarla “Sally”,vomitar,tirar botellas de ketchup,eructar ruidosamente,usar un megáfono,sacar una pistola,fingir atragantarse,hacer un sonido de “¡Eeeeeee!”,arrojar dinero,hacer sonar un silbato,gritar su propio nombre,quitarse la camisa,patear una pelota de fútbol,usar una pistola de bengalas,pararse en su mesa,reproducir música fuerte,golpear la mesa con los puños,hacer ruidos de burro",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "disculparse",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tirarle del pelo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El primer ministro de Nueva Zelanda, John Key, se vio obligado a disculparse extrañamente con una camarera de Auckland. La camarera reveló que, en una visita a su restaurante, el primer ministro no paraba de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tirar de su pelo,tirar su cola de caballo,tirar su colita de caballo,tirar de su cola de caballo,tirar de su colita de caballo,tirarle su cola de caballo,tirarle su colita de caballo,tirarle de su cola de caballo,tirarle de su colita de caballo,tirarle del cabello,tirar de su cabello",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "405696_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

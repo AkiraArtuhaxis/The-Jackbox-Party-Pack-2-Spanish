@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "las cenizas con sabor,las escamas de piel,los ojos,el espíritu,los pulgares amputados,las muela del juicio,los labios,la glándula pituitaria,el globo ocular,el dedo meñique,los glóbulos blancos,el gato,la verruga eliminada,el piano,las uñas cortadas,el cerebro,la peluca,el calcetín sucio",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Thomas Edison",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el último aliento",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Súbete a tu auto y visita el Museo Henry Ford en Detroit, que cuenta con un vial que extrañamente contiene <BLANK> de Thomas Edison.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "el ultimo aliento,el aliento,aliento,el aliento final,el respiro final,el respiro,el último respiro,el ultimo respiro",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "415217_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "415212_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

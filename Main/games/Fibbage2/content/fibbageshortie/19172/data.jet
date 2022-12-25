@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un voto extra en las próximas elecciones,los derechos de Alaska,una letrina,un arroyo,un asiento en el Congreso,pelucas,un oso pardo,derechos de la luna,medicina,un balde de pescado,una novia,cuernos de alce,una columna en el periódico,una parcela de entierro,tortugas muertas,un águila muerta,una tarjeta para salir de la cárcel,un par de globos oculares",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "rifa",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un bebé",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La Alaska-Yukon-Pacific Exposition de 1909 llevó a cabo una rifa de un premio muy inusual. Las personas que compraron un boleto tuvieron la oportunidad de ganar <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un bebe,un huérfano,un huerfano",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "382415_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "382412_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

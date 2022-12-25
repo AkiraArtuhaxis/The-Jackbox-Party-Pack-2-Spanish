@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "amor,matemáticas,música,cinta adhesiva,amigos y familiares,un martillo,un baño caliente,un buen sándwich,un destornillador,un viaje a la tienda,ver Family Feud,la paz,canciones,Netflix,un cinturón de herramientas,comprensión,terapia,medicina",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Clarkson",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un gran masaje",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "10:49 a. m., 23 de junio de 2015 @Kelly_clarkson tuiteó: “Estoy segura de que la mayoría de las cosas en el mundo se pueden arreglar con <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un masaje,un buen masaje,un muy buen masaje,masajes,grandes masajes,buenos masajes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "424519_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "424514_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

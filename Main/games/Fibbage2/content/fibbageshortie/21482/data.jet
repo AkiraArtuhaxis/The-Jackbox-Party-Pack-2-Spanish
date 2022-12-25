@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "lo confundieron con pepperoni,se lo afeitó por accidente,le salió mal un piercing,lo tiró demasiado fuerte,le hicieron una pezon-ectomía,se despertó sin él,se lo quemó un fuego artificial,se lo cortó por caridad,tuvo un accidente con una motosierra,lo apostó en el Derby de Kentucky,se bronceó demasiado,hubo un percance con la cera caliente,hubo una confusión quirúrgica,se enganchó en una cremallera,la frotó con ácido sulfúrico,su perro se lo comió,hubo un percance con el superpegamento,se atascó en un asta de bandera fría",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "pezón",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una cebra se lo mordió",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A principios de 2015, un hombre en Muskogee, Oklahoma, perdió su pezón cuando <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "una cebra de lo mordio,fue mordido por una cebra,fue comido por una cebra,una cebra se lo comió,una cebra se lo comio",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "406506_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "406503_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

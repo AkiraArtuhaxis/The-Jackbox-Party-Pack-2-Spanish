@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "estofado de ternera,kimchi,goulash,picadillo de carne en conserva,haggis,pierogi,sopa de almejas,trucha,tabulí,remolacha,chucrut,gambas,foie gras,hígado,pichón,BLT,lengua de vaca,sándwich de atún",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "barf",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pizza de cuatro quesos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El sabor experimental que Jelly Belly no pudo hacer bien, por lo que finalmente se convirtió en un sabor “vomitivo”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pizza de queso,pizza de 4 quesos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "384482_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

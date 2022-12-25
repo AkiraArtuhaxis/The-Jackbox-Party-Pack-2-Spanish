@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "come un pollo,resuelve un rompecabezas,hace volteretas,lee la telaraña de Charlotte,se masturba,hace lasaña,canta el Himno Nacional,come Oreos,se toma una siesta,juega ajedrez,se cambia de ropa,empaca las compras,defeca,hornea un pastel,viste a un espantapájaros,planta un jardín,pinta un cobertizo,hace un examen SAT",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "vuelta",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bebe una cerveza",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "James Nielsen tiene el récord de tiempo más rápido corriendo una milla (1,6 km) en un circuito mientras <BLANK> entre cada vuelta.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bebe cerveza,traga serveza,se bebe una cerveza,se traga una cerveza,se traga cerveza,se bebe cerveza,traga una cerveza",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "377675_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "377672_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

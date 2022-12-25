@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "en una cueva,en un baño,debajo de una cascada,en un edificio abandonado,en una nube,en medio del bosque,en medio de un estanque,junto a un volcán,en un centro comercial,en la cima de una montaña,junto a una bomba activa,en un árbol,dentro de un tanque,en un búnker,bajo el agua,junto a una prisión, en un campo minado,en un ático",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "loco",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "en una barcaza",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "No estás loco. El hospital psiquiátrico dirigido por el Hopitaux de Saint-Maurice en París realmente está ubicado <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "en el río,en el rio,en la Sena,en una barcaza flotante",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "404611_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "los vinos,volar,los esmóquines,correr,los autos rápidos,las serpientes,las mujeres,la tecnología,las peleas,los besos,las aceitunas,los geles para el cabello,estar bajo el agua,hablar en público,las alturas,estar en películas,las películas,la riqueza",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "James Bond",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "las armas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El actor Roger Moore, que interpretó a James Bond en siete películas, admitió que sufría de un miedo paralizante a <BLANK> que casi le cuesta el papel.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "armas,las armas de fuego,armas de fuego,las pistolas,pistolas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "417562_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

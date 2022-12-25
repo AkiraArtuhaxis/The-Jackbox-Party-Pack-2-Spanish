@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "vestido de novia,bikini de piel de tigre,traje de Iron Man,traje de prisión,monitor de tobillo,chaleco antibalas,camiseta transparente,par de chaparreras de cuero,casco de Stormtrooper,uniforme de policía,disfraz de ninja,disfraz de Gatúbela,uniforme del ejército,disfraz de cazador de venados,traje de Big Bird,traje de zombi,uniforme del FBI,traje de hombre lobo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "graduación",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bomba falsa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un estudiante en La Center, Washington, fue suspendido por su forma única de invitar a una chica al baile de graduación. Llevaba un/a <BLANK> para llamar su atención.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bomba,explosivo,explosivo falso,dinamita,dinamita falsa",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "404422_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "404419_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

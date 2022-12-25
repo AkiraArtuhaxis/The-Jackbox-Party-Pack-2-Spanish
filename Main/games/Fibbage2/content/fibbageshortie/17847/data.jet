@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bistec de queso de Filadelfia,tupé,esposa,pantalón,hijo,buey almizclero,perro caliente,cocaína,ametralladora,amigo imaginario,plan de robo de banco,sombrero de balde,hummus,saco de boxeo de Mark Sanchez,traje de payaso,cartel de puesto de limonada,cerveza,perro",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "borracha",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pierna prostética",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante un juego de los Philadelphia Eagles de 2014, un hombre afuera del estadio llamó a la policía después de que una mujer borracha se escapó con el/la <BLANK> del hombre.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "prótesis,pierna falsa,pierna,pierna artificial,pierna prostetica,protesis",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "373340_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "373337_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

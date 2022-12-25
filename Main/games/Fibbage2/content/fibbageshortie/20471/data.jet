@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hacía malabares,tejía,servía aperitivos,daba un discurso,volaba una cometa,daba la mano a varias personas,cantaba una canción,paseaba a un perro,hacía trucos de cartas,tocaba el arpa,pintaba un retrato,hacía burbujas,disparaba una pistola,se maquillaba,mandaba besos,daba de comer a un burro,se servía champán,esculpía",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "disfraces",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tocando el violín",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1760, el hombre que inventó los patines hizo una entrada espectacular en una fiesta de disfraces en Londres patinando y <BLANK> al mismo tiempo. Desafortunadamente, resultó que se estrelló contra un gran espejo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tocando el violin,tocando un violín,tocando un violin,tocando violín,tocando violin",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "398315_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sexo oral,sexo en seco,la poligamia,canto a la tirolesa,kick boxing,la guerra de pandillas,el infanticidio,la anticoncepción,deportes acuáticos,tallado en hielo,suicidio ritual,el acicalamiento de plumas,la homosexualidad,golpes en el pecho,bailar,fútbol,orar,la democracia",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "pingüinos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la prostitución",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La zoóloga británica Fiona Hunter hizo el extraño descubrimiento de que los pingüinos Adelia en la Antártida a veces practican <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "comercio secual,comercio de sexo por piedras,comercio de piedras por sexo,comercio de sexo por piedras de anidación,comercio de sexo por piedras de anidacion,ser prostitutas,ser putas,la profesión más antigua,la profesion más antigua,la profesión mas antigua,la profesion mas antigua",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "384026_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

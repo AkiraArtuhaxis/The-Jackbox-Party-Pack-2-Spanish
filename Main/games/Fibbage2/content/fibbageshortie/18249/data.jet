@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "burro,hogaza de pan,bolsa de velas,puf,malvavisco,pila de campesinos muertos,costilla de cordero,nuez,calabaza,corona,bola de grasa,castillo inflable,danés,reloj de arena,flan,Biblia,saco de estiércol,tazón de pasta",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "boda",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "rueda de queso",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Para su boda en 1840, la reina Victoria de Gran Bretaña recibió el regalo bastante inusual de un/a <BLANK> de 1000 libras (453 kilos).",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "rueda quesera,bloque de queso,queso,rueda de qeso,rueda qesera,bloque de qeso,qeso",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "376022_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

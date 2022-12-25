@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un tiburón,500 baguettes,una cantidad desmesurada de boinas,Paula Deen,un bloque de queso de 50 libras,Jimmy Hoffa,ladrillos de oro,salchichas polacas,patos,serpientes,un budín de chocolate,10000 superbolas,dedos de manos y pies amputados,un mimo,bolsas de espaguetis,mil millones dólares en billetes de un dólar,un esqueleto,un cachorro de león",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Polacos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "su esposa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En marzo de 2015, los guardias fronterizos polacos detuvieron a un hombre francés después de que al registrar su maleta descubrieran a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "su novia,una mujer,su nueva esposa,su nueva novia",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "387614_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "387611_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

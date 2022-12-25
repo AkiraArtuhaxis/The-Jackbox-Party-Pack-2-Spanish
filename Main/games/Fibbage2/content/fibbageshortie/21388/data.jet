@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "fue secuestrada,fue arrollada por un camión,tropezó con cemento húmedo,se perdió,chocó con un vidrio plano,fue entrevistada por un equipo de noticias,fue asaltada,murió congelada,ganó la lotería,fue recogida por un búho,causó un accidente automovilístico masivo,recibió un disparo con una bola de pintura,fue arrestada,se tragó una araña gigante,fue atacada por abejas,tropezó con un rastrillo,estalló en llamas,tuvo un ataque al corazón",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "agorafobia",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "se cayó en una alcantarilla",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, una mujer de West Sussex, Reino Unido, que sufre de agorafobia severa, el miedo a salir, finalmente se atrevió a salir de su casa. Y, por supuesto, una vez que estuvo allí afuera, ella <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "se cayo en una alcantarilla,se cayó en un pozo,cayo en un pozo,cayó en una alcantarilla,cayo en una alcantarilla,cayó en un pozo,cayo en un pozo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "404238_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

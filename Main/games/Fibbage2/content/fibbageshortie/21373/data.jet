@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "rata de alcantarilla,bola de pelo,caimán mascota,tallo de frijol,nenúfar,anaconda,isla de basura,submarino,avión de pasajeros,pila de huesos de pollo,civilización flotante,dragón,estatua de tortuga ninja,pez dorado,pila de murciélagos muertos,pila de monedas,mapache,rosa",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "alcantarillado",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "trozo de grasa pura",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los trabajadores de alcantarillado de Londres se sorprendieron cuando al inspeccionar los túneles debajo de Chelsea, se encontraron con un/a <BLANK> de 11 toneladas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bola de grasa,bulto de grasa,fatberg,trozo de grasa,pelota de grasa",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "403841_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "403838_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

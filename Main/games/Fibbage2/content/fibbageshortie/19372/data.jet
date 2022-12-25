@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "colección de uñas de los pies,chicle masticado,lista de firmas de fanáticos,botella vacía,camiseta ensangrentada,diente,pelo suelto,saco de vómito,buen recuerdo,boleto de bebidas,salchicha empanizada,taza de sudor,micrófono caído,grava,luz del escenario,gran arrepentimiento,agua de lluvia,frasco de sol",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "eBay",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bolsa de aire",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un usuario de eBay de Pensilvania sin duda se sorprendió un poco cuando vio que tenía más de $60.000 dólares en ofertas por el/la <BLANK> que recolectó en un concierto de Kanye West.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "aire,saco de aire,bolsa de plástico de aire,bolsa con aire,saco con aire,bolsa de plástico con aire,bolsa con aire en ella,saco con aire en él,saco con aire en el,bolsa de plastico de aire,bolsa de plastico con aire,bolsa llena de aire,saco lleno de aire,bolsa de nada,saco de nada",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "383981_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "383978_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

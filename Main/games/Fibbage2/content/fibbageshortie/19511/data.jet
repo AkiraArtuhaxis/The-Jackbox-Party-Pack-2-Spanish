@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bebé,Pastor Alemán,VW Beetle,Nazi,iPhone,botella de aguardiente,pintura de un knackwurst,hombre,tortuga,acordeón,tarro de chucrut,par de lederhosen,televisión,auto,televisión,monopatín,rollo de papel higiénico,tazón de cereal",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "arqueólogos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pretzel",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los arqueólogos en Ratisbona, Alemania, descubrieron recientemente algo que dicen que es lo más antiguo de su tipo: un/a <BLANK> de 250 años.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pretzle",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "387662_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "387659_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

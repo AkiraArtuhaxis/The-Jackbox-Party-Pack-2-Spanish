@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "los enfriadores de agua,los cubículos,los teléfonos con altavoz,los pescados en el microondas,los recordatorios,las fiestas de oficina tristes,la jerga empresarial,las máquinas de fax,los pantalones de gala,los memes,las copiadoras,los retiros de la empresa,las evaluaciones de empleados,los temporales,los ejercicios de creación de equipos,el género de rock suave,los escritorios de pie,las sillas de pelota",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "oficina",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "PowerPoint",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En representación de los trabajadores de oficina de todo el mundo, Matthias Poehm está organizando un movimiento internacional y un partido político centrado en desterrar a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "power point,las presentaciones de Powerpoint,presentaciones de Powerpoint,las presentaciones de Power point,presentaciones de Power point,",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "382604_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "382601_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

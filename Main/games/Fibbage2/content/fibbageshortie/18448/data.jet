@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "monstruos,murciélagos,flamencos,sarampión,adolescentes,piojos,hippies,hombres de negocio,brujas,cuervos,pie grande,bravucones,tiendas artesanales,nieve radioactiva,carteles falsos,spoilers de internet,vacas cayendo,esquemas ponzi",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Oregón",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "búhos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, la ciudad de Salem, Oregón, publicó algunos carteles inusuales que advertían a las personas sobre <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "los búhos,buhos,los buhos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "377354_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

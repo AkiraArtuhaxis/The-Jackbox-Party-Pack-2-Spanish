@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "rata,trombón,Twinkie,cojín de pedos,prótesis de mano,caballo de juguete,cigarro,iPhone,serpiente,bala,diente,nido de pájaro,diamante,bolsa de té,dedo del pie,micrófono,álbum de Los Beatles,plato de cena",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "pulmón",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cuchara de plástico",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "StrangeAilments",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un hombre de Carolina del Norte que había experimentado continuos ataques de tos y neumonía se sintió aliviado cuando los médicos extrajeron parte de un/a <BLANK> de su pulmón.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cuchara,utensilio de plástico,utensilio,cuchara de plastico,utensilio de plastico",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "373292_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "373289_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

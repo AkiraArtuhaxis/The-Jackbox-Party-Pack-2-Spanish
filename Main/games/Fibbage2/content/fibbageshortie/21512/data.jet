@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "micrófonos cerrados,comediantes desnudos,trampillas,comediantes robot,Weird Al,pistas de risa,un mínimo de diez tragos,gas de la risa,pasteles para lanzar,una cárcel adjunta,servicios de fianza,abucheadores pagados,solo comediantes de títeres,solo comediantes australianos,comediantes en el baño,risas obligatorias,solo tres asientos,pufs",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "comedia",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hologramas de comediantes muertos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Centro Nacional de Comedia, un nuevo club de comedia que se inaugurará en el norte del estado de Nueva York en 2016, tiene un plan de negocios único. A diferencia de otros clubes de comedia, contarán con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hologramas de comediantes,comediantes en holograma,comediantes muertos en holograma",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "407226_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407223_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

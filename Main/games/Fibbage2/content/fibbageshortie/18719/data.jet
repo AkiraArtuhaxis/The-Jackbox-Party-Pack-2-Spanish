@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hacha,muerte de osos,pelo del pecho,puñetazo,salmón,almizcle,barba,bayoneta,panqueque,cabeza de venado,rifle,bañera,comedor de zarigüeyas,retrete,bigote,pachulí,jardín de hierbas,barba del cuello",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "campaña",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "sidra fermentada",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El eslogan de William Henry Harrison para su campaña presidencial de 1840 decía con audacia que él era el candidato de “la cabaña de troncos y el/la <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "379010_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "379007_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

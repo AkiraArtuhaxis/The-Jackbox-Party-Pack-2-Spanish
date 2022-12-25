@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hicieron ala delta,estuvieron en calzoncillos,lamieron sapos,jugaron a la rayuela,vieron El Señor de los Anillos,se casaron,dieron a luz,rescataron a una ballena varada,robaron un auto,gritaron cada hora en punto,irrumpieron en un McDonald’s,accedieron ilegalmente al Pentágono,asrruinaron una boda,los secuestraron,irrumpieron en la casa de Michael Jordan,corrieron un maratón,los enterraron,se encontraron con Henry Winkler",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "100",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "comieron Chipotle",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Lo alucinante que dos hombres, uno de Colorado y otro de California, hicieron todos los días durante más de 100 días, a partir de 2015.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "comer Chipotle,Chipotle,comieron Chipolte,comer Chipolte,Chipolte",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "430033_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

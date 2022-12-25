@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "levantamiento de monociclos,malabares de maridos,lucha libre con vacas,levantamiento de automóviles,escultura de pudín,hurgarse la nariz,competencia de chocar los cinco,concurso de parecidos a Conan O’Brien,karaoke al revés,lucha libre con el pene,sumergir al blanco Guinness,Golpea-Un-Bono,afeitado de ovejas,el jengibre más pálido del mundo,atrapar al duende engrasado,hacer rodar pelusas en el ombligo,el pedo más agudo del mundo,vencer al detector de mentiras",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Festival",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Escupir estiércol de oveja",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La competencia realmente extraña agregada al Festival Lady of the Lake de Irlanda en 2015.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Escupir estiercol de oveja,estiércol de oveja,estiercol de oveja,Escupir mierda de oveja,Escupir caca de oveja,caca de oveja,Escupir heces de oveja,heces de oveja,Escupir estiércol de ovejas,Escupir estiercol de ovejas,estiércol de ovejas,estiercol de ovejas,Escupir mierda de ovejas,Escupir caca de ovejas,caca de ovejas,Escupir heces de ovejas,heces de ovejas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "430008_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un BLT,un tutú,cortapelos para la nariz,contraseña de HBO GO,rebanador de mango,ropa interior limpia,cámara Polaroid anticuada,pantalones de cuero,crema para hemorroides,helado Moose Tracks,controlador de PS4,cómic de The Walking Dead,Furby de trabajo,masaje de espalda,Doritos extra picantes,taquígrafo de Life,pequeño traje de marinero,nariz de payaso que suena",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "se busca",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cortaúñas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "1:08 AM - 25 de febrero de 2014 @JohnMayer tuiteó “Se busca: <BLANK>. Pagaré $600 dólares. Esto es por ahora”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cortauñas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "426901_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "407995_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407992_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

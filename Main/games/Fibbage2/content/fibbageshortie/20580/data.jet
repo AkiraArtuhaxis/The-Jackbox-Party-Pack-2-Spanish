@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "ver televisión,comer zanahorias,mirar hacia arriba,tomar una siesta,hacer crucigramas,jugar a los dardos,tocar el saxofón,ducharse,beber leche,trotar,hacer puzles de sodoku,pasear perros,jugar Monopoly,sentarse en sillas de puff,usar caleidoscopios,soñar,usar gafas de sol,usar jacuzzis",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "vista",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "jugar al ping pong",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Debido a que se pensaba que perjudicaba la vista, los líderes rusos de principios del siglo XX prohibieron a las personas <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "jugar ping pong,jugar al tenis de mesa,jugar tenis de mesa,jugar al ping-pong,jugar ping-pong,jugar al pimpón,jugar pimpon,jugar al pimpon,jugar pimpon,jugar al pim-pón,jugar pim-pon,jugar al pim-pon,jugar pim-pon,jugar al pin-pon,jugar pin-pon,jugar al pinpon,jugar pinpon",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "400649_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

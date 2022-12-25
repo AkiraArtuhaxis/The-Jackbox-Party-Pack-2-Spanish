@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "libros de crucigramas,trampolines,carne de almuerzo,cestas,futones,computadoras,cinturones,medicación para la alergia,neumáticos,helado,sombreros de vaquero,globos,perros,papel higiénico,clarinetes,talco para los pies,col rizada,historietas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "recesiones",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "productos de belleza",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un estudio completo de 2012 publicado en el <i>Journal of Personality and Social Psychology<\/i> encontró que la venta de <BLANK> en realidad aumenta durante cada recesión económica de EE.UU.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "maquillaje,lápiz labial,lapiz labial",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "375455_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

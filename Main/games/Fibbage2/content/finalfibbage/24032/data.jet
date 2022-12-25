@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Patada Puño,patadas timoneras,peligro de guardabosques,judo de texas,taekwondon't,hung fu,bofetada de judo,jiu-jiu-jitsu,aikido,karate extremo,karate go-go,lucha libre a puño limpio,magulladuras de chico malo,corte corte karate corte,Puñito Puño,kata caliente,nor-don chuck,jazzer",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Chuck Norris",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Chun Kuk Do",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre del estilo de karate fundado por Chuck Norris.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "421297_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

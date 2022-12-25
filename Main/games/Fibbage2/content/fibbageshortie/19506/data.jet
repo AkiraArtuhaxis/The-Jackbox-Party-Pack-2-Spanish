@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "oro,una casa,un gallo,un aire acondicionado,una esposa,cerveza,diamantes,un asistente personal,un auto,un masaje,joyas,zapatos,dinero,boletos para un concierto,su propio programa de radio,una televisión,un celular,un caballo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "vasectomía",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una licencia de armas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2008, en Shivpuri, India, se introdujo un incentivo para atraer a los hombres a hacerse la vasectomía. A cambio de hacérsela, un hombre recibiría <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "una lisensia de armas,licencia de armas,lisensia de armas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "387542_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "387539_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

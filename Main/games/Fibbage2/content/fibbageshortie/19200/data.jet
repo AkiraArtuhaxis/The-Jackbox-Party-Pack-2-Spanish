@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "las cinturas,el olor corporal,la artritis,las caries,la calvicie,la ira,la pérdida de memoria,la soledad,la flatulencia,la pérdida de visión,el crecimiento del vello corporal,los cambios de humor,las pesadillas,los dolores de cabeza,el estrés,el deseo de siestas,el daltonismo,los gases",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Cambridge",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "las arrugas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los científicos de un laboratorio derivado de la Universidad de Cambridge han creado una barra de chocolate revolucionaria que se ha demostrado que ayuda con <BLANK> de las personas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "arrugas,la piel flácida,la piel flacida,piel flácida,piel flacida",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "382667_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "382664_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

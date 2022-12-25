@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "montaba un ventilador,enviaba mensajes de texto,empujaba un cochecito,escribía una novela,recitaba pi,hacía malabares,se hacía un tatuaje,cantaba una ópera,se sacaba un diente,tocaba la guitarra,tenía una videollamada con la ONU,resolvía un cubo de Rubik,realizaba una cirugía,recitaba la Biblia,estaba esposado,giraba una pelota de básquetbol en su dedo,comía un sándwich gigante,tocaba un trombón",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "maratón",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tejía una bufanda",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Como si las carreras de larga distancia no fueran lo suficientemente difíciles, en 2013, David Babcock extrañamente estableció un récord por correr el maratón de Kansas City mientras también <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tejia una bufanda,hacía una bufanda,hacia una bufanda,tejía,tejia,estaba tejiendo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "397811_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

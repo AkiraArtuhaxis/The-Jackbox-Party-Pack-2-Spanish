@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "comediantes,niños,gatos,estadounidenses,viejos,espantapájaros,payasos,pingüinos,ciegos,palomas,jueces,patinadores de hielo,luchadores de sumo,teléfonos,sonámbulos,perros,polacos,conductores de go karts",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "camareros",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "robots",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando estés en Chengdu, China, asegúrate de comer en el restaurante donde todos los camareros son <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "robóticos,roboticos,todos unos robots,unos robots",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "419724_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "375755_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "375752_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

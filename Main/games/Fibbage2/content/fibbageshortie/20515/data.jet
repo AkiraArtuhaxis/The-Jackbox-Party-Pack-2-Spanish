@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sangre de dinosaurio,savia de árbol antiguo,caca de pingüino,lágrimas de ballena,todos los gérmenes de la Tierra,comida chatarra mezclada,aceite de motor usado,residuos de desodorante,desinfectante de manos usado,nieve sucia de la calle,piel humana muerta,Coca Cola vieja,carne de momia,cerveza vieja,saliva de George Washington,barras de chocolate derretidas,aguas residuales sin tratar,grasa de liposucción",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "sustancia",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pájaros golpeados por aviones",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Smithsonian tiene un equipo especial de científicos que estudian una sustancia llamada “snarge”. ¿Qué es “snarge”? Es <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pájaros muertos,partes de pájaros,pedacitos de pájaro,pajaros golpeados por aviones,pajaros muertos,partes de pajaros,pedacitos de pajaro,partes de pájaro,partes de pajaro,pedacitos de pájaros,pedacitos de pajaros",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "399467_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

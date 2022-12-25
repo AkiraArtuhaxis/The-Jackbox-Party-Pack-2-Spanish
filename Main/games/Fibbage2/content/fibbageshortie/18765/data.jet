@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "vodka,jugo de almejas,calabaza,whiskey,jarabe,V8,agua de perros calientes,coco,salsa barbacoa,jugo de pepinillos,Kool-Aid,sidra dura,Pepsi,café,chocolate caliente,kimchi,margaritas,Tang",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "carbonatada",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "leche",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Por alguna extraña razón, los científicos de alimentos de la Universidad de Cornell ayudaron a crear una bebida carbonatada de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "lactosa",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "379469_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

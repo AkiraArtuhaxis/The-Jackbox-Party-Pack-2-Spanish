@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "una lámpara,un fantasma de Charles Dickens,su títere de calcetín favorito,su amigo imaginario,una niña de cinco años,Samuel L. Jackson,una botella de whisky escocés,su pez dorado mascota,Darth Vader,su peluquín,un juez,Paul Simon,Seth Rogen,Kool-Aid Man,una bolsa de canicas,una muñeca Bratz,La Luna,Tyrion Lannister",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "abogado",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un búho de peluche",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un hombre de Aspen sorprendió a toda la sala del tribunal cuando, durante una audiencia el 19 de mayo de 2015, anunció que nombraría a <BLANK> como su abogado defensor.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un buho de peluche",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "410573_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "410570_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

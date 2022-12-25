@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "empujar una roca grande,hablar élfico,pasear perros,hacer malabarismos con latas,hacer yoga,nadar desnudo,estar en IKEA,jugar Call of Duty,eructar,besar a un perro,jugar Candy Crush Saga,montar un toro mecánico,vivir en la alcantarilla,ser una Kardashian,andar en patineta,dormir,poner paneles de yeso,comer pudín",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "caridad",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "escuchar Nickelback",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En un valiente intento de recaudar fondos para la caridad, el podcaster estadounidense Jesse Carey accedió a <BLANK> durante 168 horas seguidas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "escuchar Nickel Back,escuchar solo Nickel Back,esuchar solo Nickelback,solo escuchar Nickelback,solo escuchar Nickel Back,escuchar canciones de Nickelback,escuchar canciones de Nickel Back,escuchar música de Nickelback,escuchar musica de Nickelback,escuchar música de Nickel Back,escuchar musica de Nickel Back",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "377771_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "377768_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

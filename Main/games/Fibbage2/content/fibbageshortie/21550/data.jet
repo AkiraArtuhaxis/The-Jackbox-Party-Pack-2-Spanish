@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "estar en prisión,ser del sexo opuesto,viajar al espacio,el núcleo de la Tierra,tener un bebé,estar bajo los efectos del LSD,una invasión extraterrestre,tener superpoderes,vivir en la antigua Roma,ser secuestrados,tener sexo con ellos mismos,la desnudez en público,dar un discurso,ser presidente,ser una celebridad,ser un perro,explorar el fondo del océano,ser un bebé",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "simulador",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la cremación",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Buscas unas vacaciones divertidas? Echa un vistazo al parque de atracciones Window of the World (Ventana del Mundo) en Shenzhen, China. Allí, puedes montar The Samadhi Game (El Juego Samadhi), un simulador que permite a los visitantes experimentar <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "la cremacion,su fumeral",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "426898_1",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407872_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

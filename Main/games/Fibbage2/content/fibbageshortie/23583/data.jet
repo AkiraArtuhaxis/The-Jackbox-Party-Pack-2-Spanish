@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tenedor,Pata de plástico,Silla de jardín,Zapato,Monopatín,Ovillo de hilo,Estatua de Superman,Réplica de la Torre Eiffel,Neumático,Tobogán de agua,Naranja,Torre LEGO,Molino de viento,Archivador,Farola,Navaja suiza,Papel en blanco,galleta salada",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "vista",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Termómetro",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Para un poco de emoción real, dirígete a Baker, California y maravíllate con la vista del/de la <BLANK> más alto/a del mundo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "termometro",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "414478_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "414473_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

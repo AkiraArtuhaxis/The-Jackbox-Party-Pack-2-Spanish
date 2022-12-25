@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "lluvia ácida,polvo de Júpiter,un meteorito radiactivo,una luna de Venus cayendo,una pieza del transbordador espacial Discovery,la vaca que saltó sobre la luna,una estrella entrando en la órbita de la Tierra,Santa Claus,un satélite cayendo,un agujero en la capa de ozono,un OVNI,una explosión de la Estación Espacial,un misil nuclear,la Estrella de la Muerte,abejas,nieve radiactiva,un globo meteorológico,un cadáver de astronauta",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "brillante",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "orina de astronauta",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los observadores de estrellas informaron haber visto un extraño rayo de luz brillante en el cielo nocturno el 9 de septiembre de 2009. La NASA informó que en realidad era <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pis de astronauta,pipí de astronauta,pipi de astronauta,orina de astronautas,pis de astronautas,pipí de astronautas,pipi de astronautas,pis de un astronauta,pipí de un astronauta,pipi de un astronauta,orina de los astronautas,pis de los astronautas,pipí de los astronautas,pipi los de astronautas,el pis de astronauta,el pipí de astronauta,el pipi de astronauta,la orina de astronautas,el pis de astronautas,el pipí de astronautas,el pipi de astronautas,el pis de un astronauta,el pipí de un astronauta,el pipi de un astronauta,la orina de los astronautas,el pis de los astronautas,el pipí de los astronautas,el pipi de los astronautas,desechos de astronautas,orna de astronauta del transbordador espacial",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "417487_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

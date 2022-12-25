@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "panteras negras,personas jóevenes,a tus padres,las conversaciones triviales,lavar los platos,una relación significativa,la edad adulta,embarazarse,a los hippies,a los trabajadores de fábrica,a los osos hormigueros,el baile de graduación,el contacto visual,conseguir un trabajo,a las avispas,el helado,las trampas para osos,votar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "evitar",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la hiedra venenosa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1969, la editorial de juegos de mesa Ideal publicó un juego extraño en el que el objetivo es evitar <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "386477_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

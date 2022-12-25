@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un avión explosivo,un sombrero de copa,un bastón,tiza,un teléfono,ropa interior,una toalla,un inodoro,una pluma,una lámpara,un monóculo,una banana,un patín,un mapa,una bandera,un cigarrillo,un loro,un pez dorado",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Nazis",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "chocolate",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según una carta descubierta recientemente, los Nazis habían planeado matar a Winston Churchill y miembros de su gabinete de guerra con <BLANK> explosivo/a.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un chocolate,una barra de chocolate",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "375383_4",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "375380_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

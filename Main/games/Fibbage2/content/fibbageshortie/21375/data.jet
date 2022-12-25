@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "está hecha de cáñamo,está llena de tabaco,está hecha en Cuba,tiene más de cien años,técnicamente es whisky,está hecha por prisioneros,es demasiado alcohólica,está hecha de granos en escasez,es un secreto del gobierno,está hecha por evasores de impuestos,no está pasteurizada,técnicamente no es cerveza,tiene una etiqueta pornográfica,es propiedad de Vladimir Putin,es solo para niños,está llena de uranio, es demasiado lupulada,tiene un nombre engañoso",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Cerveza",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "solo se permite en Wisconsin",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un bar en Maple Grove, MN, fue atrapado por vender ilegalmente cerveza “Spotted Cow”. La razón por la que Spotted Cow es ilegal es porque <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "solo está en Wisconsin,solo esta en Wisconsin,solo se vende en Wisconsin,solo puede venderse en Wisconsin,solo es legal en Wisconsin,se vende solo en Wisconsin,solo está permitida en Wisconsin,solo esta permitida en Wisconsin",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "403888_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

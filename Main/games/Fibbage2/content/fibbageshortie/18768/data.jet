@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "jugo de ciruela,papas y salsa,una cebolla,sushi,aspirinas,Red Bull,golpes de tripa,spray de pimienta,una gaseosa,jugo de zanahoria,insultos,enjuague bucal,un maní,un consejo de salud,helado suave,un cigarrillo encendido,crema para la piel,abrazos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "mochila",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un tomate",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La compañía japonesa Kagome inventó una mochila mecánica bastante inusual que, con solo tirar de una palanca, dispensará <BLANK> al usuario.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tomates",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "379544_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "379541_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

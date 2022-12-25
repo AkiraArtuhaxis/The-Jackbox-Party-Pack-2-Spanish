@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cazar con arco,correr diez millas,comer Crisco,enterrarse en la arena,construir casas de naipes,jugar a la Batalla Naval,cortarse el pelo,escuchar a Garth Brooks,montar a caballo,oler colillas de perro,apostar,nadar desnuda,bailar tap,comer barbacoa,hacer paracaidismo,ir de compras a Wal-Mart,colgarse boca abajo,clasificar calcetines",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "104",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "beber Dr Pepper",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una mujer de 104 años de Fort Worth, Texas, fue noticia cuando atribuyó su longevidad a <BLANK> tres veces al día.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "beber Dr. Pepper,beber Doctor Pepper,tener Dr Pepper,tener Dr. Pepper,tener Doctor Pepper,tomar Dr. Pepper,tomar Dr Pepper,tomar Doctor Pepper,tomarse Dr. Pepper,tomarse Dr Pepper,tomarse Doctor Pepper,beberse Dr Pepper,beberse Dr. Pepper,beberse Doctor Pepper",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "390311_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

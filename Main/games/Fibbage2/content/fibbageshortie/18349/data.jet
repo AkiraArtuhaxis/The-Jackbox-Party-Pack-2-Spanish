@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "chicle,libros,cerebros,costales,novias,armas,cinturones,lentes,sangre,comida,caramelos,pelo,cascos,gorros,hermana,billetera,pan,auto",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "intercambio",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "zapatos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una edición de 1947 de la revista <i>Life<\/i> presentó una historia sobre el intercambio de <BLANK>, una moda que se extendió por las escuelas secundarias de todo el país.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "zapatillas,calzado",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "376829_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "376826_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

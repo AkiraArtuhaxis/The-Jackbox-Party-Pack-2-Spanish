@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cianuro,pastillas para dormir,pimientos fantasma,dedos de muertos,renacuajos,metanfetamina,pastillas anticonceptivas,peces dorados,diamantes,vello corporal,wasabi,cenizas de Carl Yastrzemski,laxantes,aguas de alcantarilla,jabón para platos,sangre de pollo,mocos,orina de caballo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Compañeros",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Viagra",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El ex lanzador de los Red Sox, Pedro Martínez, afirmó que en 2004, su compañero de equipo Manny Ramírez una vez les hizo una broma al poner <BLANK> en sus bebidas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pastillas para la erección,pastillas para la ereccion,Cialis,pastillas de viagra",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "407615_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407612_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un montón de serpientes saliendo,a nadie dentro,al hombre vestido de mujer,al hombre vestido de payaso,otro ataúd,al cuerpo en llamas,cenizas,una nota de disculpa,un maniquí,ardillas,rocas,un espantapájaros,una foto de él una sorpresa,algunas personas diferentes,a una pareja, besándose,flores,un cartel que decía “relleno temporal”",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "ataúd",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "a un extraño",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En abril de 2015, una familia de Seattle presentó una demanda contra una funeraria después de que abrieron el ataúd de un miembro de la familia y encontraron <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a alguien más,a alguien mas,a la persona equivocada,al cuerpo equivocado,al hombre equivocado,al tipo equivocado,a la persona equivocada,a una persona diferente,a un hombre diferente",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "405166_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "405163_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

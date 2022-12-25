@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "kilómetros de nieve,asesinos entrenados,kilómetros de cercas electrificadas,tanques robotizados,caballos blindados,águilas portadoras de bombas,serpientes venenosas,osos,cantantes jubilados,pies de goma,bisontes,ametralladoras automáticas,reductores de velocidad,alas delta,autos oxidados,contadores,camiones de comida,baristas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "nuclear",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "delfines entrenados por militares",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Estamos más seguros que nunca, porque el almacén nuclear más grande de los Estados Unidos cerca de Seattle está protegido en parte por 85 <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "marsopas,narices de botella,delfines,delfines militares,marsopas militares,narices de botella militares,tursiops,tursiops militares,marsopas entrenados por militares,narices de botella entrenados por militares,tursiops entrenados por militares",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "406238_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "406235_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

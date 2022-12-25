@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pecezuelo,billy bocagrande,serpiente loca,pez wupi,pez trasero,tiburón caca,anguila perezosa,trucha pedo,tirón saltador,pez cereal,pez Hannibal Lecter,estrella de mar eléctrica,pez payaso triste,willie mojado,calzón chino,pez uretra,pez acosador,teta chiquita",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Fish",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "doncella rayada",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre común que suena divertido de la especie de pez Halichoeres bivittatus.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "398963_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

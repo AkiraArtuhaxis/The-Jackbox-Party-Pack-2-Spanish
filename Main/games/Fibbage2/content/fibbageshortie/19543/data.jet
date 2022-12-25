@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "La Isla,Los Trópicos,Isla Fantástica,La Playa,La Miseria del Avión,¿Qué?,Misterioso,Los Otros,Trópico de Capricornio,?,Adivíname Esto,Eso Acaba de Pasar,Amigos de la Isla,Desconfianza,Sexo en la Playa,Movimiento en el Océano,Naufragados,Varados",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "LOST",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "En ningún lugar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El exitoso programa <i>LOST<\/i> casi se llama a lo que se traduce como <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "En ningun lugar",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "388430_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

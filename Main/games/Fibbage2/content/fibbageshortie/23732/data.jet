@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "PS3,armadillo de peluche,bolsa de papel,peluca de payaso,biberón,cubo de Rubik,mano falsa,réplica de la pistola de “Blade Runner”,libro titulado “La agonía y el éxtasis”,piña hueca,club de malabares,modelo del cerebro humano,casco de fútbol,muñeco cabezón de Abraham Lincoln,Elmo Cosquilloso,jamón enlatado,cerdo mascota,urna de persona muerta",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "éxtasis",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Sr. Cara de Papa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los agentes de drogas australianos atraparon a un contrabandista en 2007 que intentó introducir a escondidas 300 gramos de éxtasis en el país escondiéndolos hábilmente en un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Sr Cara de Papa,Señor Cara de Papa",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "417973_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "417970_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cabello humano,bandas elásticas,seda de araña,latas de refresco,teléfonos celulares viejos,grillos,bolsas de supermercado,colmenas,libros,hielo seco,uñas,botellas de cerveza,huesos de pollo,Game Boys antiguas,tarjetas de cumpleaños usadas,DVDs de Shrek,calcetines,azúcar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Ford",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tomates",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En junio de 2014, Ford anunció que estaban tratando de desarrollar nuevas piezas para automóviles hechas de, lo creas o no, <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un tomate,unos tomates,fibras de tomate,fibras de tomates,plástico de tomates,plastico de tomates",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "426011_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

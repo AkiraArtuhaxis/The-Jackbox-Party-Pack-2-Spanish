@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "la pelotita,los palos chinos,caminar sobre la cuerda floja,las carreras en saco,la fraternidad,el golf en miniatura,mirar pintura secándose,flip cup,los colonos de Catán,saltar la cuerda,llorar,mandar mensajes de texto,el quidditch,las peleas de almohada,dejarse crecer la barba,hacer twerking,las matemáticas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "oficial",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "los videojuegos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, la Universidad de Pikeville, una pequeña universidad de artes liberales en Kentucky, anunció que un nuevo deporte oficial sería <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "video juegos,gaming,el gaming,el video gaming,jugar videojuegos,jugar video juegos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "374564_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "374561_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

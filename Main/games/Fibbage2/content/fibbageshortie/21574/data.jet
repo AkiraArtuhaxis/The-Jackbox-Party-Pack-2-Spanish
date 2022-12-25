@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bolsas de plástico,cabezas de serpiente,matrículas,estuches de discos compactos,cortaúñas,camisetas de bandas de chicos,calcetines,caparazones de tortuga,marcadores,teléfonos plegables,juegos de Atari,caramelos vencidos,libros para colorear,ositos de peluche,cuellos de tortuga,clips de cola de caballo,Crocs,riñoneras",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "buena suerte",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un billete de $2 dólares",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Las personas que viven en Ecuador tienen un amuleto de buena suerte inusual. Sienten que, para la buena suerte, es muy importante tener <BLANK> en todo momento.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un billete de $2 dolares,un billete de 2 dólares,un billete de 2 dolares,un billete de dos dolares,un billete de dos dolares,unos billetes de $2 dólares,unos billetes de $2 dolares,unos billetes de 2 dólares,unos billetes de 2 dolares,unos billetes de dos dólares,unos billetes de dos dolares,billetes de $2 dólares,billetes de $2 dolares,billetes de 2 dólares,billetes de 2 dolares,billetes de dos dólares,billetes de dos dolares",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "408475_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "408472_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

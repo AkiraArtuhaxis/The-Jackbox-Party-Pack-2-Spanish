@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Roomba,cuchillo cayendo del espacio,bebé,muñeca animatrónica,glotón,cabra,drone,espantapájaros,maniquí,auto a control remoto,mapache,almohada de cuerpo,guía turístico,árbol de aguacate,murciélago,lagarto,doctor,armadillo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "apuñalado",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "gallo con un cuchillo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2011, un hombre en el condado de Kern, California, murió de la manera más inusual después de ser apuñalado por un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "gallino,gallo,gallina con un cuchillo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "382331_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "382328_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

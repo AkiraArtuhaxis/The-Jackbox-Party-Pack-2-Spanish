@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pintura,un sándwich,una escultura rellena,comida para perros,papel tapiz,tapicería de muebles,un marco de fotos,caucho para llantas,arena para gatos,un par de zapatos,una lámpara,un esmoquin,un crucifijo,páginas para un libro,un bistec,aceite de motor,una carreta,joyas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "arte",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "comida para peces",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El asesino convicto Gene Hathborn, que fue condenado a muerte en Texas, pidió que su cuerpo se convirtiera en <BLANK> después de su muerte como parte del proyecto de arte de un artista danés.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "comida de peces,comida de pescado,comida para pescado,comida para el pescado,comida para los peces,alimento para peces,alimento de peces,alimento de pescado,alimento para pescado,alimento para el pescado,alimento para los peces",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "417845_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

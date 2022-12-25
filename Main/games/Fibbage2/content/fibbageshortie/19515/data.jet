@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cerdo,Caca,Cónyuge,Enfermedad,Grito,Sentimiento,Hombre Lobo,Leotardo,Insulto,Pedo,Tumba,Nube,Nombre,Cigarrillo,Cuchara,Émbolo,Coartada,Abogado",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "mercado",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Pollo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Leslie Suitor de Traverse City, Michigan, ocupa un nicho de mercado con su empresa que se traduce a Rente-Un/Una-<BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Gallina",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "387758_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "387755_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

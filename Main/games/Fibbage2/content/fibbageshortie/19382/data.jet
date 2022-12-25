@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "carritos de compras,paraguas,taxis,scooters,una brújula,patines,auriculares,un mapa,sillas de ruedas,triciclos,un perro guía,bastones,autos a control remoto,tacones altos,patinetas,asistencia,un Walkman,un radioaficionado",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "acera",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "celulares",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Chongqing, China, es un lugar inusual ya que tiene un carril en la acera dedicado específicamente a las personas que usan <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "teléfonos celulares,telefonos celulares,sus celulares,sus teléfonos celulares,sus telefonos celulares,un celular,un teléfono celular,un telefono celular,móviles,moviles,sus móviles,sus moviles,un móvil,un movil,teléfonos móviles,teléfonos moviles,telefonos móviles,telefonos moviles,sus teléfonos móviles,sus teléfonos moviles,sus telefonos móviles,sus telefonos moviles,un teléfono móvil,un teléfono movil,un telefono móvil,un telefono movil",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "384218_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

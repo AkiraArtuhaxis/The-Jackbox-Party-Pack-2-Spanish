@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "baños,hospitales,McDonald’s,teléfonos públicos,salones de belleza,Starbucks,duchas,televisores,veterinarios,zapaterías,máquinas de hielo,sopladores de nieve,restaurantes,oficinas de correo,iglesias,Walmarts,Subways,estudios de arte",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Antártida",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "estaciones de bomberos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si vas a 77 grados 51 minutos S, 166 grados 40 minutos E en la Antártida, encontrarás uno/a de los/as dos <BLANK> en todo el continente.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "departamentos de bomberos,casas de bomberos,cuarteles de bomberos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "385136_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "385133_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

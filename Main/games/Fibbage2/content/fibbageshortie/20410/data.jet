@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "circo,sala de champán,fábrica de salchichas,jet privado,jirafa,dormitorio mixto,estación de bomberos de interiores,escaleras mecánicas,anillo de gladiadores,asador brasileño,esqueleto de dinosaurio completo,prisión,buque de guerra,sala de videojuegos,guardería para bebés,línea directa a la Casa Blanca,campo de fútbol interior,teatro de 5000 asientos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Secundaria",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "momia real",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La Escuela Secundaria Central de Naperville, ubicada en las afueras de Chicago, tiene el inusual honor de ser la única escuela secundaria en los Estados Unidos que tiene un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "momia,momia egipcia,momia egipcia real,momia de verdad,momia egipcia de verdad",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396872_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

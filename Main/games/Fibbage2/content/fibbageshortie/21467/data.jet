@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Rodeo,Mago,Fabricación de Dulces,Observación de Aves,Carpintería,Espeología,Carrera de Caballos,Reparación de Automóviles,Esquí Acuático,Cerámica,Emborracharse,Quema de Libros,Compra de Antigüedades,Pesca con Mosca,Decatlón,Paseo En Globo Aerostático,Playero,Caritativo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Sábado",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Jardinería",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡¡¡¡Wuuuuu!!!! El primer sábado de mayo es oficialmente el “Día Mundial del/de la <BLANK> Estando Desnudo”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Horticultura",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "406116_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "406113_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

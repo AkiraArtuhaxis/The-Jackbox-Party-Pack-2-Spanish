@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "guarida,biblioteca médica,parque acuático,sala de operaciones,zoológico interactivo,Blockbuster Video,castillo inflable,Chuck E. Cheese’s,flota de taxis,tren bala a Canadá,cápsula de realidad virtual,lago para nadar,comprador en Macy’s,cabina para mirar desfiles,transporte a los partidos de los Yankees,estudio de televisión,baño,cafetería",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "desconocido",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "entrada a Whole Foods",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Desconocido para la mayoría de la gente, Katie Holmes tenía su propio/a <BLANK> secreto/a en el corazón de Manhattan.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "entrada de Whole Foods",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396704_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

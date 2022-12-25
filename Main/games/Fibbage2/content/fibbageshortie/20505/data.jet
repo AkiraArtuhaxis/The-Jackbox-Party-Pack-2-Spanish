@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "una minihamburguesa con queso,una alita de pollo,Doritos con queso nacho,una barra de Snickers,fideos ramen,una cola de langosta,una pelota de béisbol autografiada,ositos de goma,un huevo frito,boletos para el próximo juego,macarrones con queso,tartas de crema,un burrito de Taco Bell,papas fritas,palitos de mozzarella,avena,puré de papas,un sándwich de mantequilla de maní y jalea",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "cóctel",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una porción de pizza",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Target Field, hogar de los Minnesota Twins, ofrece un cóctel muy singular: el College Daze Bloody Mary. En tu bebida encontrarás aceitunas, apio y, sobre todo, <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "una porcion de pizza,una rebanada de pizza,un pedazo de pizza,pizza",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "399227_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "uranio,dinero,chocolate,tabaco,cerveza,tocino,chicle,luciérnagas,sal,un mapa del tesoro,mariquitas,polvo de hadas,gas pimienta,repelente de osos,alcohol,granos de palomitas de maíz,salsa sriracha,diamantes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "reloj",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hormigas vivas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Claro, en realidad no da la hora, pero de todos modos vale la pena usar el “reloj” único fabricado por Analog Watch Co. porque tiene <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hormigas,bichos,insectos,bichos vivos,insectos vivos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396152_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "robots,frutas de plástico,carne humana,ropa interior comestible,estiércol de caballo,solo caramelos,zarigüeyas,aire,criaturas imaginarias,tierra,gusanos,vidrio,uranio,fósiles de dinosaurio,cartón,ojos de pescado,madera,plumas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "recetas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "condones",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un extraño libro de cocina japonés publicado en 2014 presenta íntegramente recetas hechas con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un condón,un condon,preservativos,un preservativo,forros,un forro",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "373412_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "373409_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

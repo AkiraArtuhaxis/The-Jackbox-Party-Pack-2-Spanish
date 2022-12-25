@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "provocar un incendio,encender un automóvil,curar el asma,drogarse,hacer dulce de azúcar,reanimar un corazón,drenar sangre,desinflar globos aerostáticos,respirar en el espacio exterior,fumar un cigarro fino,robar gasolina,diseñar un pastel,limpiar una grieta,salvar a una víctima de asfixia,quitar una astilla,destapar un desagüe,relajarse durante el parto,limpiar una trompeta",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "chuparía",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "atrapar insectos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si se usara un “pooter” para el propósito previsto, alguien chuparía ese pooter para <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "atrapar bichos,capturar insectos,capturar bichos,atrapar un bicho,atrapar a un bicho,atrapar un insecto,atrapar a un insecto,capturar un bicho,capturar a un bicho,capturar un insecto,capturar a un insecto",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "422317_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "422314_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

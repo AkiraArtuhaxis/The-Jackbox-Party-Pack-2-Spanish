@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "muñecos vudú,monos,software de reconocimiento facial,asientos eyectores,ajos,púas,hojas de sierra,jaulas de tiburones,vidrio a prueba de balas,ropa interior usada,sirenas de policía falsas,fotos de Robocop,DVDs de la Academia de Policía,calaveras de perro,patas de conejo,aguas residuales,espejos,pájaros de ataque",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "luck",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "fotos de Al Pacino",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La cosa muy extraña que los automovilistas en Tailandia colocan en sus vehículos como buena suerte, para defenderse de los policías corruptos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Al Pacino,Pacino,imágenes de Al Pacino,imagenes de Al Pacino,las fotos de Al Pacino,las imágenes de Al Pacino,las imagenes de Al Pacino,una foto de Al Pacino,una imagen de Al Pacino,una fotografía de Al Pacino,una fotografia de Al Pacino,fotografías de Al Pacino,fotografias de Al Pacino,las fotografías de Al Pacino,las fotografias de Al Pacino,unas fotografías de Al Pacino,unas fotografias de Al Pacino,unas imágenes de Al Pacino,unas imagenes de Al Pacino,unas fotos de Al Pacino,una imagen de Al Pacino,una foto de Al PAcino,una fotografía de Al Pacino,una fotografia de Al Pacino",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "430558_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

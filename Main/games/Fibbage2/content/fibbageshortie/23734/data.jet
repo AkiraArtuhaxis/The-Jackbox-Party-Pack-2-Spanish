@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sirvieran tarta de queso de Nueva York,pidieran comida para llevar,sirvieran hamburguesas vegetarianas,sirvieran pelícano,sirvieran a clientes insatisfechos,sirvieran pulpo,sirvieran tocino falso,usaran aire acondicionado,sirvieran a personas de Irak,sirvieran manteca de cerdo como guarnición,sirvieran a los cienciólogos,sirvieran postre,sirvieran mimos,sirvieran brunch,sirvieran a clientes sin dientes,abrieran los domingos,tuvieran máquinas de chicles,contrataran camareros masculinos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Mississippi",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "sirvieran a personas obesas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La legislatura de Mississippi presentó un proyecto de ley en 2008 que, de ser aprobado, habría hecho ilegal que los restaurantes <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sirvieran a los obesos,sirvieran a personas gordas,sirvieran a las personas obesas,sirvieran a las personas gordas,sirvieran a las personas que son gordas,sirvieran a personas que son gordas,sirvieran a personas que son obesas,sirvieran a las personas que son obesas,sirvieran a personas con sobrepeso,sirvieran a las personas con sobrepeso",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "418020_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

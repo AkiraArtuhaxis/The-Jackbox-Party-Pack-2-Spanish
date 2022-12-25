@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sentido del olfato,coeficiente intelectual,papilas gustativas,cabello,pies,percepción de profundidad,audición,capacidad para soñar,capacidad para tragar,capacidad para dormir,lengua,velocidad de escritura,riñones,tarjeta de crédito Home Depot,imaginación,ojos cruzados,llaves del auto,atractivo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "cayó",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Poderes psíquicos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una mujer en Miramar, Florida, demandó a Home Depot en 1991 alegando que una tabla que cayó y la golpeó en la cabeza le hizo perder su/s <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "poderes psiquicos,habilidades psíquicas,habilidades psiquicas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "416865_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "416862_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

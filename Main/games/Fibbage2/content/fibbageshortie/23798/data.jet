@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "adoptar un niño,romper el par en Augusta National,navegar alrededor del mundo,volar en ala delta,volar un avión,dirigir una película,leer todo el canon de Shakespeare,hacer malabarismos con 10 pelotas,nadar en el Canal de la Mancha,competir en los Juegos Olímpicos,cruzar la cuerda floja en el Gran Cañón,hacer pensa de banco con 45 kilos,un juego de bolos perfecto,resolver un cubo Rubik en menos de un minuto,alistarse en el ejército,escalar el monte Everest,comer 50 perros calientes en 10 minutos,postularse para un cargo electo y ganar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "más joven",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "terminar un maratón",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nativo de la india Budhia Singh tiene la fama de ser la persona más joven en <BLANK>, a la edad de tres años.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "terminar un maraton,terminar una maratón,terminar una maraton,completar un maratón,completar un maraton,completar una maratón,completar una maraton,hacer un maratón,hacer un maratón,hacer una maratón,hacer una maraton,correr en un maratón,correr en un maraton,correr en una maratón,correr en una maraton",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "418801_3",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "418798_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "montar un león,hablar francés,tocar el bajo,hacer un risotto,hacer lenguaje de señas,programar computadoras,domar animales,construir un explosivo,andar en motocicleta,luchar con espadas,lanzar hechizos,leer el futuro,diseñar castillos,resolver un Cubo Rubik,hacer una volcada de básquetbol,hacer películas premiadas,crear sitios web,hablar klingon",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Un",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "conducir",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un manual de enseñanza que se distribuyó a los maestros de escuela de Corea del Norte en 2015 afirma que el líder norcoreano, Kim Jong Un, sorprendentemente, aprendió a <BLANK> a los tres años.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "conducir un auto,manejar,manejar un auto,conducir un coche,manejar un auto",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "400721_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

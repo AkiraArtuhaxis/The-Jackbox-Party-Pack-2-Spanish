@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Somos el número uno,Abajo la vulgaridad,Abrimos hasta tarde,Vale 2 centavos,He aquí,Satanás,Donde hay humo hay fuego,Primeros en lo increíble,Bebe y diviértete,Cuidado con el mal,No Consumir,El amor lo conquista todo,Mantener Fuera del alcance de los niños,Puedes hacerlo,No te quemes,El hedor británico,Cree en ti mismo,¡Mira hacia arriba!,LOL. ¡Te hablo más tarde!",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "monedas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Ocúpate de tus asuntos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Las primeras monedas de un centavo hechas en 1793 por la Casa de la Moneda de EE. UU. en realidad tenían la frase “<BLANK>” antes de que la frase fuera reemplazada por “En Dios Confiamos”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Ocupate de tus asuntos,métete en tus asuntos,metete en tus asuntos,métete en tus cosas,metete en tus cosas,ocúpate en tus cosas,ocupate en tus cosas,métete en lo tuyo,metete en lo tuyo,ocúpate en lo tuyo,ocupate en lo tuyo,encárgate de tus asuntos,encargate de tus asuntos,encárgate de lo tuyo,encargate de lo tuyo,encárgate de tus cosas,encargate de tus cosas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "417920_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tontín,Spam,Tanga,Sarpullido,Hershey,Pañal,Pierna,Fei-to,Pinga,Robo,Buu-Buu,Malvavisco,Gordito,Macho,Twitch,Pepsi,Amazon,Elon",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "burlas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Nutella",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Debido a que “solo daría lugar a burlas o pensamientos despectivos”, un juez francés dictaminó en 2014 que una pareja no podía nombrar a su hijo recién nacido <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "382187_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "382184_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

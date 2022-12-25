@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Pumba,Ned el Narisón,King Kong,Georgie Porgie,El Mono Molesto,Jorge el Furioso,Spot,Charles Darwin,Rabias,Señor Chimpancé,Snoopy,Esponjosito Wuzzorth,Tom Problemas,Pequeño César,Zeus,Tin Marín,Raffy,Gato Stevens",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "George",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Fifi",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre original de Jorge el curioso.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "410019_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cazador de Manteca,Viaje Frito,Horneador de Galletas,Cocina de Ensueño,Sous Chef,Ayudante de Cocina,Operación Especial,Rodillo de Amor,Portal del Horno,Pollo Rrito,Tierra de Salsa,Opciones de Mantequilla,Guerreros Poco Saludables,Encanto Sureño,Gran Juego Viejo,Contradanza,Fábrica de Granjas,Juego Gente",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Deen",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Aventura de Recetas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Paula Deen tiene su propio videojuego, que se traduce a <i>El\/La <BLANK> de Paula Deen<\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "387710_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "387707_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

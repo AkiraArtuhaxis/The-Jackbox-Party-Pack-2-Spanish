@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "América,aliens,California,el oxígeno,el océano,una luna,la música,el género femenino,la levitación,el transporte en autos,un periódico con crucigramas,una ardilla,la tirolesa,el béisbol,la cucaracha,el aborto,un perro presidente,el dormir en camas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "peas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el atún",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Mientras hablaba con la revista británica <i>Hello!<\/i>, se citó a will.i.am de los Black Eyed Peas diciendo: “Avancemos rápidamente hasta 2060: tendré como 90 años, el mundo es diferente, no sé si existe <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "413054_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "389687_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

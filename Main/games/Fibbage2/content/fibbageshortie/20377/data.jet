@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "comer carne,fumar,usar una riñonera,ir a Brasil,hurgarse la nariz,hablar como un bebé,bañarse,caminar por la calle,declarar tus impuestos,comer col rizada,decir “genial”,ver hockey,mirar televisión,correr maratones,beber cerveza,ir a la iglesia,golpear a las ancianas,ir al cine",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "geniales",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tirar basura",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "“No hay muchas cosas que sean universalmente geniales, y es genial no <BLANK>. Yo nunca lo haría”. -Matthew McConaughey en 2005",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tirar residuos,tirar desechos,arrojar basura,arrojar residuos,arrojar desechos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "414234_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "396083_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396080_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

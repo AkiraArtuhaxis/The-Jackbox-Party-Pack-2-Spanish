@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "en el cielo,en el costado de su auto,en Klingon,en la frente de su esposa,con fuego,en el inodoro,con pájaros muertos,en sushi,en tinta que desaparece,en una valla publicitaria,en sus papeles de divorcio,en una película de los Vengadores,al revés,con tinta invisible,en sangre,con cocaína,en su corbata favorita,en pentámetro yámbico",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "renunciar",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "en un pastel",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Mark Herman, director de noticieros de KOLD-TV en Tucson, Arizona, tuvo una forma única de renunciar a su trabajo. Su carta de renuncia de tres párrafos fue escrita <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "en pastel,en una torta,en torta",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "406455_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

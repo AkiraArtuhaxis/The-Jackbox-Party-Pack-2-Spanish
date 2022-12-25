@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "caca,caca,perros fornicando,cirugías fallidas,sonogramas,perros jugando al póquer,tus padres teniendo sexo,desastres naturales,Bea Arthur,autobuses,Gary Busey,gatos con esmoquin,fans de fútbol borrachos,salchichas,leiderhosen,celebridades muertas,monstruos de cuentos de hadas,avistamientos de Pie Grande,osos malabaristas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Alemán",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tetas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Para ganar el juego de memoria alemán “Busen Memo”, debes unir con éxito las imágenes de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bubis,senos,pechos,dos pechos,dos tetas,dos bubis,dos senos,dos pechos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "385949_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

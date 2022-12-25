@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tóxicos,juanetes,perros,gays,enfermedades,drogas,momentos de tiempo,heces,hongos mágicos,penes,zanahorias,pegamentos,hierbas,venenos,moscas,papás,zurullos,sentimientos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "pasta",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "personas negras",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La editorial Penguin tuvo que destruir 7.000 ejemplares de <i>La Biblia de la Pasta<\/i> debido a un error tipográfico. Una de las recetas requería “<BLANK> recién molidos\/as”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "405262_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "405259_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

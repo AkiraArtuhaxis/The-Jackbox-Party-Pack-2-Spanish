@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Srta. Bolsasdedinero,Ere Sunim Bécil,Anita Tosca,Maya Traseroto,Isabella Voyairme,Madison Tuvehija,Aria Ola,Nora Prestamesta,Lame Mitra Sero,Debbie Dallas,Judy Flores,Pezones Felices,Nosir Ves,Amanda Llamanda,Soyre Bomba,Señora Erecciones,Fonda Pedos,Ivava Pipí",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "name",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Soyun Cerdo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El extraño nombre (traducido) real de la famosa filántropa a la que llamaban “La Primera Dama de Texas”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "429686_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "429683_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

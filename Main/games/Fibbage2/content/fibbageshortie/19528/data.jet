@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cabina telefónica,enana de jardín,tigresa,Apple II gs,cabina de radio,cama de bronceado,fregadora de pisos,pelota de básquetbol,tienda de Blockbuster,sala de autocine,reserva de pingüinos,cadena de Pizza Hut,consesionaria de autos,pantalla gigante jumbotrón,elefanta,J.C. Penney,academia de payasos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "albergue",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hamburguesa y papas fritas de McDonald’s",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un albergue en Islandia transmite una transmisión de video en vivo de 24 horas de la última <BLANK> conocida del país.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hamburguesa y papas fritas de McDonalds,hamburguesa y papas de McDonald’s,hamburguesa y papas de McDonalds,comida de McDonald’s,comida de McDonalds,hamburguesa de McDonald’s,hamburguesa de McDonalds",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "388046_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

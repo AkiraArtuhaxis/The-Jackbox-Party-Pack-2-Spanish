@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "conejos,Barack Obama,caballos sonrientes,cubos transparentes,caras sonrientes,bombas de dibujos animados,poutine,Bullwinkle,símbolos religiosos,osos andando en bicicleta,la Reina Isabel,logos de deportes,Nicolas Cage,grumpy cat,dinosaurios,bigotes,Superman,Harry Potter",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "banco",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Spock",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En marzo de 2015, el banco central de Canadá envió un correo electrónico solicitando oficialmente que la gente dejara de hacer dibujos de <BLANK> en los billetes de $5 dólares.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Mr. Spock,Leonard Nimoy,el Sr. Spock,Sr. Spock",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "383858_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

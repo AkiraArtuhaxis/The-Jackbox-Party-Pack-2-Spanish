@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "rábanos,tarros de arenque,cabezas de ganado,abrecartas,plantas de opio,galones de gasolina,sombreros de fieltro,balones de fútbol,tazas de café gratis,rollos de papel higiénico,botellas de vodka,barras de pan,pepinos,televisores,huevos de caviar,relojes de bolsillo,monociclos,abejas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "karaoke",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "dumplings",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El ganador del Campeonato Mundial de Karaoke de 2010 en Moscú se llevó a casa el gran premio inusual de 1 millón de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bolas de masa hervida,bolas de masa",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "416062_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

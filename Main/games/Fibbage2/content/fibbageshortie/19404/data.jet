@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "$20000,un elefante,un jet,fantasmas amistosos,electrodomésticos de oro,guardaespaldas,tiburones mascota,un abogado,10000 cabras,drogas gratis,un suministro de por vida de yogur congelado,un trabajo,lecciones de piano,un niño,un harpa,un poema personal,un autobús,un DJ",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "incentivo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ella",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando puso su casa en el mercado en 2015, una mujer indonesia les dio a los compradores potenciales un incentivo único. Si compras la casa, viene con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Wina Lie,su mano en matrimonio,migo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "384989_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

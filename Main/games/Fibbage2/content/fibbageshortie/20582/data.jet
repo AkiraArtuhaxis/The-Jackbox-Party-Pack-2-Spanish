@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cowabunga,Tabla de Surf,Pueblo Retorcido,Radical,Rubia Enclorada,Ciudad Nenas,Tubular,Pulgar Arriba,Ciudad Blanca,Esos Cinco,Ciudad Hoy Rod,Ciudad Modelo Flaca,Viñedo Mocoso,St. Falso,Pez Gordo,Sueños Fallidos,Virtuoso,Sequía",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "grita",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Cool",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el condado de El Dorado, California, hay un pequeño pueblo cuyo nombre simplemente grita “costa oeste”. Se llama <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "400697_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

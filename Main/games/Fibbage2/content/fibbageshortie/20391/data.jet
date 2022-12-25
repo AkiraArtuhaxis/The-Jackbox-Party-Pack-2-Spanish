@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "acariciar gatos,las astillas de madera,beber saliva de camello,abofetear esclavos,revolcarse en la arena,orejas de perro,fumar hojas de higuera,bañarse en lágrimas,quemarse los pies,ponerse cenizas en la nariz,comer lengua,nunca usar jabón,las alas de libélula,dormir día por medio,lavarse con agua sucia,los sombreros de carne,vomitar sobre sí misma,los baños de barro",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "belleza",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "comer pepinillos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Aunque hoy en día no se considera una ayuda de belleza, Cleopatra atribuyó su buena apariencia a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "comer muchos pepinillos,tener una dieta de pepinillos,tener una dieta con pepinillios,los pepinillos,pepinillos,encurtidos,los encurtidos,tener una dieta con encurtidos,teenr una dieta de encurtidos,comer muchos encurtidos,comer encurtidos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "396419_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396416_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

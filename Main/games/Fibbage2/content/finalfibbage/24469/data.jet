@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Atrapa.com,abrazos de perrito,ok perro cupido,días perrunos de verano,estilos de perrito,meneos,colas de amor,Cástrame y me amas, caliente debajo del cuello,patas para un beso,cosas guau,ponme un bozal,lassie con clase,buen chico,perrera del amor,libera tu amor,ladra una vez para amor,buscadores de huesos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Holidog",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Perro de hojalata",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre (traducido) de la aplicación creada por Holidog que ayuda a los perros a encontrar otros perros.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "423810_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

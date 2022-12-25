@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "botella de soda de 2 litros,inodoro,resorte,ranura de buzón,pajita,aro de básquet,puerta de prisión,chimenea,ojo de una aguja,manija de taza de café,desagüe de bañera,bazuka,cortador de galletas,varita de burbujas,telescopio,manguera de aspiradora,rosquilla",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "circo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "raqueta de tenis",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Capitán Frodo, un contorsionista del circo La Clique, puede exprimir todo su cuerpo a través de un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "raqueta,raketa de tenis,raketa",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "373556_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "373553_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Máscara de My Little Pony,pistola de goma,muñeca inflable,mochila propulsora,trozo de kryptonita,capa de invisibilidad,bola de humo,garfio,disfraz de anciana,libro de Robando para tontos,disfraz de Hamburglar,mapa de su guarida secreta,diario de sus otros robos,DVD de Mi pobre angelito,carta de salir de la cárcel gratis,par de zapatos saltadores,flor de chorro de ácido,cinturón multiusos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Robo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bolsa con un signo de dólar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando la policía en Olympia, Washington, detuvo a un ladrón de un restaurante Subway a principios de 2015, se divirtieron cuando descubrieron que entre sus suministros de robo había un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bolsa con un signo de dolar,saco con un signo de dólar,saco con un signo de dolar,bolsa con signo de dólar,bolsa con signo de dolar,saco con signo de dólar,saco con signo de dolar",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "400523_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "400520_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "el presidente,los zapatos de madera,la marihuana,el poi,la cerveza,estar solo,todo,los líquidos,los huevos,la ropa interior,tu propio pelo,las almohadas,los papeles,París,la hierba,la luz,los quesos,mentir",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "alergia",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "su propio semen",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "StrangeAilments",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un estudio holandés de 2015 atribuyó los síntomas similares a los de la gripe en 45 hombres a algo llamado P.O.I.S., que es una alergia a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "su semen,su esperma,su propio esperma,su propia eyaculación,su propia eyaculacion,su eyaculación,su eyaculacion",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "412676_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "387590_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "387587_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

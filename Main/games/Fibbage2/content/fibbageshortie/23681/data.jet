@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cine,bolera,guardería,tienda Po’boy, banco,escuela pública,parque acuático,hospital,granja de cocodrilos,club de jazz,fábrica de cigarrillos,zapatería,destilería de whisky,peluquería,fábrica de salsa Tabasco,pista de hielo,tienda de quesos,sala de juegos arcade",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "prisioneros",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Campo de golf",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando estés en Lousiana, sal de los caminos trillados y visita la Penitenciaría Estatal de Luisiana, también conocida como Angola. La prisión cuenta con un/a <BLANK> en pleno funcionamiento dirigido/a por prisioneros y abierto/a al público.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "campo golf",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "416792_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "416787_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

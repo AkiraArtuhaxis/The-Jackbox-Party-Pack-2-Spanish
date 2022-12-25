@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "masajes,un carruaje tirado por caballos,máquinas de conos de helado,comederos para pájaros,depilaciones de pecho,un concierto de Kanye West,jeans ajustados,un sistema de defensa contra dragones,recrear escenas de Juego de tronos,música de jazz,una piscina de 14 niveles,pintar el centro de la ciudad de morado,escaleras a ninguna parte,molinos de viento,perritos para cada ciudadano,árboles falsos,observación de ballenas,lecturas psíquicas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Turquía",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una gran estatua de un robot",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El alcalde de Ankara, Turquía, enfureció recientemente a los contribuyentes tributarios cuando gastó una gran parte del presupuesto de la ciudad en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un robot,un Transformer,un androide,un robot grande,un gran robot,un robot enorme,un enorme robot,una estatua de robot gigante,una estatua de robot enorme,una estatua de robot gigantesca,un robot gigantesco,un androide grande,un gran androide,un androide enorme,un androide gigantesco,un Transformer grande,un Transformer gigante,un Transformer gigantesco,un Transformer enorme",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "400238_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

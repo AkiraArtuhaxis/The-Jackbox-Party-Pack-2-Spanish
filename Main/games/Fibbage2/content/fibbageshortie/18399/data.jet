@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "gasolina,etanol,fertilizante,oro,cerveza,agua,acero,aluminio,lluvia ácida,medicina para la tos,whisky,WD-40,pegamento,monóxido de carbono,metanfetamina,pintura,gotas para los ojos,cocaína",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "tequila",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "diamantes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2008, científicos de la Universidad Nacional Autónoma de México lograron convertir el tequila en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un diamante,dimante,un dimante",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "377060_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

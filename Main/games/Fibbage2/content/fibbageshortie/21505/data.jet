@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "refrigerador,auto,marca de nacimiento,televisión,camión,agujero en la ropa interior,pasaporte,pantalón de chándal,pub irlandés cerca de su casa,trabajo,descanso para fumar,dirección de correo electrónico,teléfono inteligente,mascota,sofá,consola de videojuegos,cabeza de ciervo montada,pistola",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "sufrir",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "esposa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un estudio presentado en el Congreso de la Sociedad de Cardiología del Pacífico Asiático de 2015 concluyó que los hombres tienen más probabilidades de sufrir problemas cardíacos si tienen más de un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "407058_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407055_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

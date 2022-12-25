@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bourbon,golf,caballo,hospital,pasto,empresa de contabilidad,oficina,casa de retiro,carpintería,góticos,fábrica de galletas,YMCA,griegos,clima,desierto,caqui,alfombra,amish",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "minigolf",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "La Biblia",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando conduzcas por Lexington, Kentucky, asegúrate de detenerte en el Lexington Ice and Recreation Center y diviértete jugando al minigolf con temática de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "422606_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "400625_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

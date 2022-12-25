@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "monóculo,pistola,cuerno,bastón,cuchillo,monedero,telescopio,parche en el ojo,tatuaje,nudillo de bronce,taparrabos,cofre del tesoro,guante de boxeo,sombrero de granjero,garra,granada,pitbull,esmoquin",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Finlandia",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "espada",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si estás pensando en obtener un doctorado, ve a Finlandia porque sus estudiantes que se gradúan no solo obtienen un elegante sombrero de copa de doctorado, sino que la mayoría también obtiene un/a <BLANK> de doctorado.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "386669_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "en ropa interior,en una góndola,en un zoológico,siendo pintado por un artista,en llamas,con Drácula volando por encima,debajo de una cascada real,colgando boca abajo,en un ataúd,fingiendo que es 1492,en temperaturas bajo cero,haciendo yoga,en una caminadora,viendo un Dalai Lama animatrónico,en televisión nacional,en una jaula,en una réplica del transbordador espacial,durmiendo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "hambre",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "en la oscuridad",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Tienes hambre? Quizás considera reservar una cena en O.Noir en Toronto, Canadá, donde podrás disfrutar de tu comida mientras estás <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ciego,sin luz,completamente en la osucridad,en completa oscuridad,sin luces,a oscuras,en la oscuridad en el restaurante,ciego en el restaurante,sin luz en el restaurante,completamente en la osucridad en el restaurante,en completa oscuridad en el restaurante,sin luces en el restaurante,a oscuras en el restaurante",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "398603_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

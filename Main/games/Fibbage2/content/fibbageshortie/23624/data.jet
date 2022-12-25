@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "perro,criminal,jirafa,león,caca,tigre,cobra,hámster,gato,rata,loro,cucaracha,caballo,babosa,anguila,ballena,toga,uva",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "resaca",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "canario",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los antiguos romanos que se emborrachaban demasiado y se despertaban con resaca a menudo intentaban una extraña cura. Se comerían un/a <BLANK> frito/a.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "canaria",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "415362_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

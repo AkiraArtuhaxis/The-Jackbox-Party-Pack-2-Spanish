@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pluma,pañal,pelota saltarina,sandía,nalga,taza,hombre de nieve,beso,prostituta,hombre pequeño,gorila de peluche,olla a presión,manzana verde,salmón,temporizador de huevo,grano,ampolla de sangre,lluvia de meteoritos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "granada",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "granado",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La palabra “granada” proviene de una palabra en francés antiguo para algo que en realidad no es un arma: un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pomegranate,pomagranate,pomegranite,pomme-grenade,punica granatum",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "378983_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "378980_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

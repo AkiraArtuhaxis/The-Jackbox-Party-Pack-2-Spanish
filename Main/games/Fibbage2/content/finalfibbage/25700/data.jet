@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Abrazadores,Ropitas,Detienetraseros,pantalones cortos de bebé,caqueros,bombas fétidas,portador de accidentes,cambiadores,sagrados,cacones,popodas,desechables,presa del cuerpo humano,agarradores,sujetadores,pantapipís,salvadores,casitas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "diapers",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Embarcaciones",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre de marca (traducido) dado a los primeros pañales desechables.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "431298_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

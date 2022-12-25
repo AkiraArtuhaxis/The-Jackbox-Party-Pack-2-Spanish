@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "no se lavan el cabello,no comen comida picante,se afeitan el pecho,conducen autos aburridos,les gustan las comedias románticas,pueden nombrar los 50 estados,se especializan en sociología,juegan al ajedrez,no tienen televisor,comen mucho sushi,viven en Canadá,escuchan jazz,viven con sus padres,hacen yoga,trabajan en la industria aeronáutica,usan sandalias,piensan que son malas en el sexo,practican medicina",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "sexo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "aman los sándwiches de queso asado",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un estudio de 4.600 personas realizado por el servicio de citas en línea Skout encontró que, extrañamente, las personas que <BLANK> tienen más sexo que las personas que no.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "aman los sandwiches de queso asado,aman los sándwiches de queso a la parrilla,aman los sandwiches de queso asado,comen queso asado,comen queso a la parrilla,aman el queso asado,aman el queso a la parrilla,comen sándwiches de queso asado,comen sándwiches de queso a la parrilla,comen sandwiches de queso asado,comen sandwiches de queso a la parrilla,aman los sándwiches de queso fundido,aman los sandwiches de queso fundido,comen queso fundido,aman el queso fundido,comen sándwiches de queso fundido,comen sandwiches de queso fundido,aman los sándwiches de queso derretido,aman los sandwiches de queso derretido,comen queso derretido,aman el queso derretido,comen sándwiches de queso derretido,comen sandwiches de queso derretido",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "399971_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

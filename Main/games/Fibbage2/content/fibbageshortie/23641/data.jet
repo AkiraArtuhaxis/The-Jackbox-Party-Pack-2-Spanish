@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dar la mano,llorar,masticar chicle,hacer twerking,maldecir,susurrar,comerse un murciélago muerto,enviar mensajes de texto,besar,leer,patinar,hacer tirolesa,hacer flexiones,sonarse la nariz,hablar en oraciones incompletas,chocar los cinco,armonizar,jugar a la rayuela",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "protesta",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "abrazarse",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2006, la policía de Shanghái arrestó extrañamente a 11 personas por <BLANK> en público como parte de una protesta.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dar abrazos,abrazarse unos a otros,darse abrazos,abrazarse los unos a los otros,dar abrazos a gente,dar abrazos a la gente,abrazar,abrazar a la gente,abrazar a gente",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "415787_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

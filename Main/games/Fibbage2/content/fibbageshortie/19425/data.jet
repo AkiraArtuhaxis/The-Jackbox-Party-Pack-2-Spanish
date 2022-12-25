@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "manoseado por una estatua de Madonna,convertido en momia,abusado por un calzón chino,seducido por Ayn Rand,vestido como drag,forazdo a ver Little Orphan Annie,bañado pro su madre,montado como un caballo,abofeteado por Ronald Reagan,mordido por un perro rabioso,disparado por Joseph Stalin,seducido por Marilyn Monroe,pisoteado por un desfile,atacado por cosquillas,comido por un par de labios gigantes,perseguido sexualmente por burros,gritado por su esposa,cegado por una mucama",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Putin",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "lamido por un oso",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En celebración del Día Internacional de la Mujer, la revista rusa <i>Moct<\/i> publicó una imagen de portada de Vladimir Putin siendo <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "lamido por un oso pardo,lamido por un pardo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "385520_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "385517_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

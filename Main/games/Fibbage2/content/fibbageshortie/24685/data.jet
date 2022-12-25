@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "beber,quedarse dormidos,insultar,hacer dibujos de gatos,vomitar,jugar con juguetes,usar sandalias,golpear a los maestros,hurgarse la nariz,tirar basura,usar lentes de sol,pararse en escritorios,romper sillas,comer huevos,llorar,patearse,quitarse los zapatos,pasar notas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "profesores",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hacer caca",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En junio de 2015, los profesores de una escuela ubicada en Ghana amenazaron con boicotear las clases si los alumnos no paraban de <BLANK> en el aula.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "defecar,cagar",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "424589_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

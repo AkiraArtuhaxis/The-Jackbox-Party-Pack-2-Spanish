@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sobrevivir en los Andes,dar de comer a un venado,empapelar la casa,hablar como un bebé,aprender alemán,ver películas caseras,reparar un auto,ir al Campamento Espacial,criar un bebé chimpancé,pilotar un avión,jugar al Monopoly,pegarse cinta adhesiva,decir solo la palabra azul,unirse a una obra de teatro,pasar un fin de semana en Nueva Escocia,asistir al campo de entrenamiento del ejército,cocinar una cena de Acción de Gracias,construir un robot",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "terapeuta",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ensamblar muebles de IKEA",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El terapeuta innovador Dr. Ramani Durvasula ayuda a las parejas a mejorar sus habilidades de comunicación haciéndoles <BLANK> juntos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ensamblar muebles IKEA,fabricar muebles IKEA,fabricar muebles de IKEA",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "405892_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

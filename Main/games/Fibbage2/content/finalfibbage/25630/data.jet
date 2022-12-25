@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Pinos de Piel de Cerdo,Futboliche,Peloteando,Bolotas,Boliche en Espiral,Cuarto de Boliche,Apisonamiento,Lanzamiento Bolar,Brunswicking,Golpe de Pie,Bolichebol,Semiplenobol,Touchuza,Bolosdown,Pieliche,Retaguardia Resistente,Revienta Pinos,Pino Abajo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "bowling pins",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Fowling",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre del deporte en el que los participantes derriban bolos con una pelota de fútbol.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "430583_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

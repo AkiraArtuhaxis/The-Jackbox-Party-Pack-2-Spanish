@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sonajero,capó,pañal desechable,cochecito,biberón,chupete,cassette,comedor de bebé,traje de superhéroe,idioma,corte de pelo,anillo de dentición,tema musical,pijama,certificado de nacimiento,dormitorio,cachorro,retrato de payaso",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "bebé",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "nombre",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Por la baja tarifa de $35.000, la empresa suiza Erfolgswelle encontrará un <BLANK> completamente único y exclusivo para tu bebé.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "nonbre",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "375647_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "375644_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "ser su esposa,dominar el mundo,saber lo que es el amor,resucitar a los muertos,hablar inglés,tomar su trabajo,arruinar Las Vegas,formar una pandilla,jugar al fútbol,destruir la economía mundial,jugar al ajedrez,ganar la Segunda Guerra Mundial,encontrar su hijo perdido,luchar contra el crimen,explotar Francia,construir una bomba,robar un banco,encontrar el sentido de la vida",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "delfín",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "matar al Presidente de los Estados Unidos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El thriller de 1973 <i>El día del delfín<\/i> tenía la frase memorable: “Sin saberlo, entrenó a un delfín para <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "391322_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "391319_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

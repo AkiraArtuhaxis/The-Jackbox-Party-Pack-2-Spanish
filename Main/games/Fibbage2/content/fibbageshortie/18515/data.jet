@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Concientización sobre las ETS,medicamentos para el corazón,crema para el eczema,Vagisil,un limpiador de chimeneas,desodorante,cenas congeladas,una crema de hiedra venenosa,mantas eléctricas,Visine,un concierto de rock,chaquetas Columbia,dermatitis del pañal,productos para teñir el cabello,un recorrido por un volcán,Annie,adopción de mascotas,un crematorio",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Cash",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "crema para hemorroides",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2004, la BBC informó que los herederos de Johnny Cash rechazaron una oferta para usar su canción “Ring of Fire” en un comercial. El comercial era para <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pomada para hemorroides,crema para hemoroides,pomada para hemoroides,crema para emorroides,pomada para emorroides,crema para emoroides,pomada para emoroides",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "377996_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

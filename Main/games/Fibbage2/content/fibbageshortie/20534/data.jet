@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "disfrazado de unicornio,afeitándose el pecho,dormido,comiendo un pavo completo,viajando con un oso,usando solo un pañal,persiguiendo a un ladrón de bancos,disfrazado como el Príncipe Carlos,muerto,escuchando canciones de ballenas,imitando a Weird Al,cubierto de sanguijuelas,filmando una película de James Bond,vistiendo una armadura,con un bebé de dos años,en llamas,sin poder parar,comiendo un sándwich de 6 metros",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "camioneta",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "viendo El Señor de los Anillos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En abril de 2015, la policía de Surrey, Inglaterra, detuvo una camioneta que viajaba a 96 kph y se sorprendió al descubrir que el conductor estaba <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "viendo “El Señor de los Anillos”,mirando El Señor de los Anillos,mirando “El Señor de los Anillos”,mirando una película,mirando una pelicula,viendo una película,viendo una pelicula,viendo una peli,mirando una peli",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "399926_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "399923_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

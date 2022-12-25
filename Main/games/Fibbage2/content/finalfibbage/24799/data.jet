@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "nachos de pimiento de fieri,nachos de nacho mamá,guychos,quezozos nachos,papitas y guyso,arrepentimiento,nachos machos,nach 5,’cho sí,caderas y patatas,nacho te enojes hombre,especial de gafas de sol al revés,papas esmeriladas,cubo de agua,nachos guy-fi fuera de este mundo,nachos ñami ñam,papas quesosas,los ‘chos de mi mamá",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Guy",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Nachos Guy-talianos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre (traducido) de los nachos que se sirven en el restaurante del famoso chef Guy Fieri en la ciudad de Nueva York.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Nachos Guytalianos,Guytalianos,Guy-talianos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "425364_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

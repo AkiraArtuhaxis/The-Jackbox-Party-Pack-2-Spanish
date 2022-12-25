@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "disparar a las ardillas,confundir a un anciano,orinar en los muñecos de nieve,gastar gasolina,comer nubes,robar tallos de maíz,estornudar en un topo,arrojar piedras a los autos estacionados,patear cabras ancianas,recolectar animales atropellados,interferir con aviones comerciales,quemar una colonia de hormigas,arrojar caramelos por todas partes,desfigurar una valla publicitaria,embestir a un pirata animatrónico,molestar a los espíritus de los muertos,hacer caca en una gárgola,molestar a un cortejo fúnebre",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Televisión",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "acosar a un búho",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El ex presentador de televisión de Utah, Dell “Super Dell” Schanze, fue juzgado por el delito de <BLANK> mientras montaba su parapente motorizado por el aire.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "acosar a un buho,acosar un búho,acosar un buho,acosar búhos,acosar buhos,acosar a búhos,acosar a buhos,acosar a una lechuza,acosar una lechuza,acosar lechuzas,acosar a lechuzas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "401009_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

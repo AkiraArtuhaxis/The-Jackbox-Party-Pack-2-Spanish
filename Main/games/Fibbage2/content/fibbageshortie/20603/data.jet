@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Svenghouli,Elvira,Kruegeronia,Banshee,Desdemona,Voldemort,Zorak,Fogesota,Frankenstein,Wolfdakota,Ravenzona,Quasimodo,Nyx,El Estado de Boo Gras,Ripperton,Jardines Nebulosos,Ginnungagap,Fester",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "espeluznante",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Transylvania",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si el hombre de la frontera Daniel Boone se hubiera salido con la suya, le habría dado a Kentucky un nombre que sonara espeluznante. Quería que se llamara <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Transalvania,Translvania",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "401204_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "401201_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

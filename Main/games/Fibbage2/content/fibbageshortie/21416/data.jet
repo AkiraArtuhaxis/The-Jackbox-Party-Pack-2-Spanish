@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "nos importa una caca,todo el mundo hace caca,el evento anual de los zurullos,el estiércol que conoces,esto no va a oler bien,tápate la nariz,la exposición más emocionante del mundo,hablemos de estiércol,hora de lidiar con algo de basura,excrerimenta una emoción,hora de la caca,prende el estiércol,ensuciémonos,esto se va a descontrolar,estiercolizados,hacemos crecer los jardines,directamente del trasero para ti,el fin de semana del fertilizante",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "estiércol",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "mastiércol de lo que puedes manejar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El eslogan oficial de la Exposición de estiércol de América del Norte de 2015 celebrada en Chambersburg, Pensilvania, fue: “¡Exposición de estiércol de 2015: <BLANK>!”",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mastiercol de lo que puedes manejar",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "404926_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "404923_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

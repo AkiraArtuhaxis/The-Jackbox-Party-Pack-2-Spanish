@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "a Vladimir Putin,a Rocky IV,a Seinfeld,al canibalismo,la flatulencia,el vello en el pecho,los terceros pezones,las circuncisiones,a The Legend of Zelda,el blanqueamiento anal,a Buscando a Nemo,el strip poker,al abominable muñeco de nieve,a Larry King,la artritis,la lucha en el lodo,los fiambres,las metanfetaminas de cristal",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Gastos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "los enemas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La ciudad de Zheleznovodsk, Rusia, gastó $42.000 dólares para erigir una estatua de bronce de 360 kilos que, curiosamente, celebra <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "enemas,las lavativas,lavativas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "408976_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

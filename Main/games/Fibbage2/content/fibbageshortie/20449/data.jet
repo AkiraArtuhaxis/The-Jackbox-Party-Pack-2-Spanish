@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "eructa,besa a un extraño,dice hola,se hurga la nariz,corre una milla,lame la pantalla,lo derriba,atrapa a un ladrón de bolsos,cuenta una historia vergonzosa,está amamantando,tiene un sombrero divertido,jura lealtad,cambia su nombre,da un paseo a cuestas,se ve como Vladimir Putin,está intoxicado,se hace una prueba de embarazo,puede decir un trabalenguas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Cosas Gratis",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hace treinta sentadillas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una máquina especial de boletos del metro en la estación Vystavochnaya de Moscú le dará a un pasajero un boleto gratis si <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hace 30 sentadillas,hace sentadillas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "397787_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

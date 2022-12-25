@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "teleféricos,estatuas históricas,postes de luz antiguos,contenedores de reciclaje,puestos de perritos calientes,olmos,astas de banderas,quioscos de periódicos,bicicletas,vehículos recreativos,focas,muelles,puestos de comida vegana,motocicletas,vallas publicitarias,veleros,camionetas,gnomos de jardín",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "oleada",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "autos inteligentes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante la primavera de 2014, San Francisco experimentó una extraña oleada de delitos en los que los vándalos volcaban específicamente <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "400469_5",
+            "n": "QuestionAudio"
+        }
+    ]
+}

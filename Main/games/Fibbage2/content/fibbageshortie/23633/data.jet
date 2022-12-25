@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pino de boliche,centro comercial,hotel,hidrante,jardín de infantes,consultorio dental,teléfono público,auditorio,auto,conservatorio,gasolinera,supermercado,cibercafé,cuartel de policía,hospital,parque de bomberos,parque de atracciones,campo de golf",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "profundo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Buzón",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La próxima vez que estés cerca de la bahía de Susami en Japón, sumérgete 10 metros bajo la superficie del agua y echa un vistazo al <BLANK> bajo el agua más profundo del mundo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Buzon,buzón de correo,buzon de correo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "415592_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "415587_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Telefonía a casa,Día del Juicio Final,Secuestro,Temporada de apareamiento,Guerra en la Tierra,Día de la Independencia,El despertar,El sondeo,Fiesta en casa,Autopsia alienígena,¡Invasión!,Campeones de Bicicleta Voladora,Hora de la Venganza,Basado en la novela Push de Sapphire,Vacaciones Locas,Incluso más Extra,Madre Tierra,La Secuela",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "secuela",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Miedos nocturnos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Steven Spielberg estuvo a punto de hacer una secuela de su megaéxito <i>E.T.<\/i> titulada <i>E.T. II: <BLANK><\/i>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "401225_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

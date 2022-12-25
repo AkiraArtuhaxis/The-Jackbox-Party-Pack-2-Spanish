@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "eructar,crujir los nudillos,saltar en paracaídas,caminar sobre fuego,tragar espadas,luchar contra un oso,estar muerto,estar cubierto de serpientes,tener barba de abeja,tragarse Mt. Dew,montar toros,escuchar jazz,no respirar,vivir dentro de una ballena,correr hacia atrás,jugar al Pac Man,comer chiles fantasmas,pasar el rato en un aro de básquetbol",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "tres",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el sexo panda",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 3 de abril de 2015 se estableció un nuevo y emocionante récord mundial. Dieciocho minutos y tres segundos es ahora el tiempo más largo registrado para <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "el apareamiento de pandas,el sexo de pandas,sexo de pandas,sexo panda",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "398246_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "398243_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

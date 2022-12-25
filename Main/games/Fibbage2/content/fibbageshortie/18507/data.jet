@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "abrazos,pasta,ropa,canciones,poecía,cable de cobre,fotos reveladoras,libros,masajes,semillas,cartas de béisbol,autógrafos,bicicletas,recetas,un cumplido,flores,vino,violines",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "barato",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Queso parmesano",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Banco Credem en Italia tiene una política única. A cambio de un préstamo barato, piden <BLANK> a los clientes.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "queso,parmesiano,parmesano,queso parmesiano,quesos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "377954_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "377951_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

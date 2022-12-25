@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "alcohol,oro,gasolina,uranio,miel,azúcar,madera,metano,imaginación,caramelo,electricidad,nieve,baba,perla,ácido sulfúrico,unobtanium,cristal,hueso",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "30%",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "diamante",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los científicos creen que más del 30% del distante planeta 55 Cancri e está formado por <BLANK> puro/a.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "diamantes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "387173_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

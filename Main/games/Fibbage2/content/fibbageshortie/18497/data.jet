@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "símbolo de anarquía,hurón vivo,vestido del baile de graduación,traje de baño,sostén,tanga,diana,camisa de bin Laden,disfraz de Kanye West,vestido de carne,casco de cerveza,jersey de prisionero,traje de minero,piel de oso,collar de perro,casco antidisturbios,abrigo de visón,condón",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "atuendo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "chaleco antibalas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el desfile de modas Adidas de Kanye West en 2015, se vio a su hija de 20 meses, North West, con un atuendo controversial. Llevaba puesto un/a pequeño/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "chaleco a prueba de balas,chaleco anti-balas,chaleco anti balas,chaleco contra balas,chaleco blindado,traje antibalas,traje a prueba de balas,traje anti-balas,traje anti balas,traje contra balas,traje blindado",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "377819_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "377816_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

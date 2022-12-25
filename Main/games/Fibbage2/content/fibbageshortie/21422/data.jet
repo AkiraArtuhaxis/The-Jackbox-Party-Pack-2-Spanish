@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un iPod,un sombrero diminuto,una bola mágica,un perro,un bebé,un frisbee,un collar,un peluquín,una hebilla de cinturón,un reloj de bolsillo,una pelota de béisbol,un pastillero,un DVD de Predator,un pastel,un marcapasos,un par de auriculares,un libro de autoayuda,un yo-yo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "contrabando",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una hamburguesa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, un viajero chino en el Aeropuerto Internacional de Guangzhou Baiyun intentó pasar de contrabando a su tortuga mascota a bordo de su vuelo disfrazándola de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hamburguesa,amburguesa,una amburguesa,una hamburguesa de queso,hamburguesa de queso,amburguesa de queso,una amburguesa de queso",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "405067_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Barco,enano,cerdo,hueso,balón de fútbol,mesa de billar,casa,payaso,algodón de azúcar,horno,tocino,estiércol,piano,mimo,berenjena,puercoespín,científico,taxi",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Año Nuevo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Zarigüeya",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La próxima víspera de Año Nuevo, haz un viaje a la ciudad de Brasstown, Carolina del Norte, y recibe el año nuevo con su “Caída de <BLANK>” anual.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Zarigueya,pósum,posum",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "417117_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "417112_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

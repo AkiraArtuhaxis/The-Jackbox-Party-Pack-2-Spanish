@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "enfermedad de los pies bailarines,síndrome del trasero apestoso,trastorno de los labios ensanchados,fiebre del baile,síndrome de la nariz podrida,pelo de Trump,colmillos de hombre lobo,síndrome de Superman,oso hormiguero,pelogranditis,rodilla de supermodelo,oreja de gaita,dedos de fideos,ojos láser,enfermedad del helado,Sandrabullockfobia,elefantitis inversa,ojos de correo electrónico",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "disorder",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "síndrome de la cabeza explosiva",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El trastorno de nombre extraño que fue descubierto por el médico británico John M.S. Pearce en la década de 1980.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sindrome de la cabeza explosiva,síndrome la cabeza explosiva,sindrome de cabeza explosiva",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "429658_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

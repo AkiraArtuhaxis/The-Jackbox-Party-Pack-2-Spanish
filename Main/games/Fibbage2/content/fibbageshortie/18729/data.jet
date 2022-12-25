@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pura suerte,rendirse,plagiar,dormir,ser un buen escritor,ponerse plazos,la salsa de manzana,no tener hijos,estar solo,el desprecio por uno mismo,dejar de preocuparse,ser pretensioso,tener zapatos cómodos,soñar,estar bajo la cúpula,usar adverbios,comer bocadillos,ser pobre",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "secreto",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un té bien preparado",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "9:43 PM - 22 de noviembre de 2014 @StephenKing tuiteó: “Cada vez más creo que el secreto para escribir con éxito es <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "419706_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "379175_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "379172_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

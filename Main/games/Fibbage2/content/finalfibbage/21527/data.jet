@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "General idiota,capitán imbécil,siempre se rinde a ridgway,general pito drogado,general pantalones de pedos,viejo cara de moco,señor sin medallas,Dwight D. Nuncasebaña,viejo sauce,capitán canguro,sangre vieja y tripas y flores,la letrina de hierro,el hombre con el trasero dorado,el soldado que canta suavemente,ridgway agradable a la vista,general bolas de bronce,viejo perforador de tanques,ridgway caca ruidosa",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "hero",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Viejas tetas de hierro",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El extraño apodo que sus hombres le dieron al héroe de la Guerra de Corea, el general Matthew Ridgway.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Viejo tetas de hierro,Viejos pechos de hierro,Viejas bubis de hierro",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407583_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

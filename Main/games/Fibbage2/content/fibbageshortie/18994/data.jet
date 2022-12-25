@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "enanos,vacas,perros,gatos,niños,huevos,muñecas sexuales,serpientes,osos,latas de cerveza,sujetadores,botellas de agua,lagartos,perezosos,brownies de olla,ratones,verrugas,bananas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "supermercado",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "mapaches",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, llamaron al Departamento de Salud del Condado de Los Ángeles a un supermercado en Temple City después de que descubrieron que la tienda vendía <BLANK> congelados/as.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mapache",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "381356_3",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "381353_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

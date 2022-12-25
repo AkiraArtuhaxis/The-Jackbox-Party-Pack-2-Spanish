@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "ricas donas,¿Quién es?,pepinillo líquido,estoy embarazado,Acábenme ya,Carpe Diem,repetición instantánea,Pepino molido,Sin Secretos,Muérdeme ya,amor veraniego,¡Holi Hola!,Hail Caesar,De nada,chocolate suave,Caso cerrado,Papá Pitufo,quiero almorzar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "ejecución",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Vamos Raiders",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Las últimas palabras que pronunció el asesino convicto Robert Charles Comer antes de su ejecución mediante inyección letal no fueron tan conmovedoras, pero fueron únicas. Sus últimas dos palabras fueron, simplemente, <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Vamos Raders",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "417537_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

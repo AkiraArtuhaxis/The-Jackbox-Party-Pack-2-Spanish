@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "grillos,fantasmas,bebés,perros,tumbas,estatuas,hombres de pan de jengibre,robots,gigantes,magos,muñecas inflables,monos,niños actores,muñecos de nieve,muñecas Barbie,ex convictos,peces dorados,globos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "35",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "espantapájaros",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando estés en Nagoro, Japón, tómate una foto con uno de los 35 residentes, o uno de los/as 150 <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "espantapajaros,espantajo,espantapájaros,espantapajaros",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "419707_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "386768_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "386765_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

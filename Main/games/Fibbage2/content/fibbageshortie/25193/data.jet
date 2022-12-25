@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "no lo arrestarían,le dejaran llamar a sus padres,lo dejaran en paz,no le dirían a nadie,le darían $10 dólares,lo llevarían a McDonalds,lo llevarían a casa,le harían los mandados,lo llamarían Shirley,cerrarían los ojos,se quitarían la camisa,harían su tarea,le darían entradas para un partido de béisbol,le comprarían una pepsi dietética,no le dispararían,dejarían de hablar por el megáfono,le comprarían una Xbox,tomarían una siesta mientras se escapaba",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "enfrentamiento",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "le darían un burrito",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Después de un enfrentamiento de 14 horas, la policía finalmente convenció a un hombre de San José para que bajara de una grúa. Para que bajara, simplemente tenían que prometerle que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "le darian un burrito,le den un burrito,lo alimenten con un burrito,le dejen comer un burrito,le den de comer un burrito,le dieran de comer un burrito",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "426913_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

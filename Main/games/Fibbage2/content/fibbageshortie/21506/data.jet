@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "mordeduras de serpientes,heridas de bala,divorcios,estampidas de rinocerontes,apuñalamientos,combates de boxeo profesional,ataques de cáncer,ataques de hipopótamos,ahorcamientos,envenenamientos,accidentes de tren,disparos de balas de cañón,pianos cayendo sobre él,ataques de malaria,ataques con ácido,asfixias,lanzallamas,edificios colapsando",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Hemingway",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "accidentes aéreos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Dato real: Ernest Hemingway era tan varonil (o afortunado) que sobrevivió a dos <BLANK> diferentes en días consecutivos en 1954.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "choques de avion,accidentes aéreos,accidentes aereos,accidentes de avión,accidentes de avion,accidentes de aviación,accidentes de aviacion",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407079_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

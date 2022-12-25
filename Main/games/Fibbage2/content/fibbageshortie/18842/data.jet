@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "apostar en hipódromos,pulseadas,un partido de fútbol de bandera,bañarse desnudos,peleas a puñetazos,un concurso de chile,una película de patio trasero,una partida de Twister,elaboración artesanal,ensayar con la banda,Pac Man,hacer brownies,un partido de básquetbol,un concurso de moda,clavados en la piscina,las escondidas,hacer una fogata,Tinder",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "monjes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una pelea de bolas de nieve",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El miembro de YouTube IMRANEWSVIDEO subió algunas imágenes de monjes franciscanos haciendo una actividad muy poco parecida a la de un monje. Estaban comprometidos en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pelear con bolas de nieve,pelear en la nieve,una pelea en la nieve,peleas con bolas de nieve,peleas en la nieve,unas peleas con bolas de nieve,unas peleas en la nieve",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "380078_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

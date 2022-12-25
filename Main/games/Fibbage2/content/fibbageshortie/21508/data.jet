@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "palo,cuerno,tronco de queso,bola de arroz,lengua,tentáculo,cabeza de pollo,pata de caballo,asta de bandera,lanza,pergamino en llamas,molinete,trompeta,tocón de árbol,brazo verde,cara de anciano,garra de cangrejo,pilar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "mítica",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "globo ocular",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La próxima vez que estés en Japón, busca una aterradora criatura mítica conocida como Shirime. Es fácil de identificar por el/la <BLANK> que sobresale de su ano.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ojo,glóbulo ocular,globulo ocular",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407127_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

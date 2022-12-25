@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "león marino deprimido,bebé fuerte,cabra obesa,Abe Lincoln,P.T Cruiser,comedor de hormigas,saltamontes pensativo,oso confundido,bomba explosiva,tope de burbuja,Groucho Marx,mofeta alta,abdominales marcados,guitarra eléctrica,marciano enojado,ombligo,campana de caldera,pequeño elefante",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "orquídea",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hombre desnudo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Debido a su extraña forma, la flor Orchis italica recibe el sobrenombre de orquídea <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "389006_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "malaria,sardina,ju-jah,hocus pocus,reebok,varicela,zales,satélite,pokémon,pedo,hobbit,vacuna,nike,vámonos,vichyssoise,lárgate,¡wiii!,cerdo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "collar",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Abracadabra",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El antiguo médico romano Quintus Serenus Sammonicus tenía una recomendación inusual para tratar la malaria. Escribió que la persona enferma debe usar un collar con la palabra “<BLANK>” escrita en él durante nueve días.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "abrakdabra,abrocadabra,arbrokadabra",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "416165_5",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "416162_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

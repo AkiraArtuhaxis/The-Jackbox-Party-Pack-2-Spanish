@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "terroristas,enfermos de gripe porcina,palabras,bombas nucleares,pistolas,puñetazos en la cara,granadas,ollas de agua hirviendo,asesinos en serie,extraños,dulces,cuchillas de afeitar,cruces peatonales,traficantes de drogas,tigres,serpientes,bumeranes,canguros",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Peppa Pig",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "arañas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La Australian Broadcasting Company prohibió un episodio de la popular serie infantil <i>Peppa Pig<\/i> porque transmitía el mensaje de que no había que temer a los\/as <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "araña,aranias,arania,mordiscos de araña,mordiscos de aranias,mordiscos de arania,mordiscos de arañas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "377090_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "377087_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

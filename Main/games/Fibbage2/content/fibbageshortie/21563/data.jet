@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "comprar drogas,escalar el monte Everest,participar en un concurso de comida,casarse con una modelo de traje de baño,comprar un orangután,hacer una audición para una sitcom,postularse para presidente de EE. UU.,obtener un diploma de Harvard,bailar en Broadway,obtener una tarjeta de crédito,unirse a un club de fans de Buffy,donar esperma,obtener pastillas para agrandar el pene,ir al espacio,visitar una colonia nudista,comprar un pingüino,adoptar un niño huérfano,cazar una ballena",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "medio hermano",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ir a Tokyo Disneyland",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El medio hermano mayor de Kim Jong Un, Kim Jong-nam, era el favorito para obtener el título de Líder Glorioso si no hubiera estado involucrado en un escándalo. En 2001, fue arrestado usando documentos falsificados para poder <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ir a Disneyland,visitar Disneyland,visitar Tokyo Disney Land,visitar Tokyo DisneyLand,viajar a Tokyo Disney Land,viajar a Tokyo Disneyland,viajar a Disneyland,ir a Tokyo Disneylandia,ir a Disneylandia,visitar Disneylandia,visitar Tokyo Disney Landia,visitar Tokyo DisneyLandia,viajar a Tokyo Disney Landia,viajar a Tokyo Disneylandia,viajar a Disneylandia",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "408208_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

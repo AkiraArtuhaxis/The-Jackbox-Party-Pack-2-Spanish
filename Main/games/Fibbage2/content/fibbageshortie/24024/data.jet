@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "broncearse,poner un cartel de en venta,sacar a pasear al perro,cortar el césped,hacer una barbacoa,jugar al básquetbol,podar los arbustos,alimentar a las ardillas,plantar algunas flores,revisar el correo,volar una cometa,quitar las malas hierbas,pintar el garaje,dar de comer a los pájaros,broncearse,lavar el auto,jugar al fútbol,jugar a la rayuela",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "papa",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "rastrillar las hojas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un hombre de Nuevo México fue arrestado después de que supuestamente ingresó a la casa de un extraño, hizo una papa al horno y luego, después de que lo descubrieron y le pidieron que se fuera, salió a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "rastrillar hojas,rastrillar el césped,rastrillar el cesped,rastrillar el jardín,rastrillar el jardin",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "421212_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

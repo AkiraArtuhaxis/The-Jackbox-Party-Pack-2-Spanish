@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "lavarle la barriga,cortarle el pelo de las orejas,hacer impresiones,hacerlo eructar,capturar gatos,hacer castillos de arena,masticar su comida,lavarle la espalda,escribirle notas de amor,tomarle la mano,ser un saco de boxeo,halagarlo,ser una silla humana,matar moscas,probar la comida en busca de veneno,desvestirlo,usar un pañal,acariciar a sus gatos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Tutankamón",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hurgar su nariz",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Por el precio razonable de tres cabezas de ganado y alojamiento y comida gratis, el rey Tutankamón contrató a un asistente especializado cuyo trabajo principal, curiosamente, era <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "431796_4",
+            "n": "QuestionAudio"
+        }
+    ]
+}

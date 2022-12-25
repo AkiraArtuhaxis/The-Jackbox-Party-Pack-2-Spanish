@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "clásica,hip-hop,rápida,sobre Francia,deprimente,pegadiza,de al menos 10 minutos de duración,aclamada por la crítica,de Madonna,“con mucho violonchelo”,completamente nueva,ofensiva,sin sentido,política,sudamericana,ruidosa,PG-13,de menos de 3 minutos de duración",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Franceses",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cantada en francés",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los franceses tienen una ley que establece que el 40 por ciento de toda la música reproducida en la radio nacional debe ser <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cantada en frances,en francés,en frances,en el idioma francés,en el idioma frances,interpretada en francés,interpretada en frances,interpretada en el idioma francés,interpretada en el idioma frances,cantada en el idioma francés,cantada en el idioma frances,francesa",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "408427_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "408424_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

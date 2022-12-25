@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un horno de juguete,una bombilla,su secador de pelo,un burrito,un ganso,una katana,una rebanada de pizza,una estatua de cera,un volcán,queso derretido,una fogata,un machete,una ardilla,una barandilla falsa,Matthew McConaughey,un rizador,una silla sin brazos,una doncella de hierro",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "brazo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una parrilla en Benihana",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Tori Spelling experimentó un accidente bastante vergonzoso en 2015 cuando se lastimó al apoyar su brazo sobre <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "una parrilla hibachi,la parrilla de Benihana,una parrilla",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "401129_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

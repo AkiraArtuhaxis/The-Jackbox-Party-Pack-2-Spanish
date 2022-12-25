@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "perros calientes,lágrimas,gatos,almohadas,uñas,heces,tu primogénito,suéteres,la comida de tu bebé,intestinos de cerdo,insectos,pelo,queso para nachos,cuero,alfombra,plástico,basura,jabón",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "inmunológico",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tus mocos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La autora científica María Jesús Portalatin tiene una extraña hipótesis que afirma que comer <BLANK> puede fortalecer tu sistema inmunológico.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mocos,mucosidad,tu mucosidad,tus propios mocos,un moco,tu moco,tu propia mucosidad",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "376898_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

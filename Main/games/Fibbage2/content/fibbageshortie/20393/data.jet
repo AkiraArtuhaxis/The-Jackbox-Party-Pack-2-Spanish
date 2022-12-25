@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nueva Jersey,el helado de mantequilla de nuez,la biblioteca,la guerra,el whisky,la natación,tu pecho,el béisbol,el supermercado,montar camellos,el zoológico,fumar,este baño,Arabia Saudita,esta hamburguesa,el miércoles a las 4:20,mi voz,el DDT",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Sinatra",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Urano",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La extraña y en gran parte olvidada canción de Frank Sinatra “What Time Does the Next Miracle Leave” incluye la letra que se traduce a “<BLANK> es el cielo”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "396467_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396464_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

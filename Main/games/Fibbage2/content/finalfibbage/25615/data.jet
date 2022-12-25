@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Pantypantypanty,Panty comestible,Sylkpanty,Pantycabeza,Pynkpanty,Pantyraid,Pantysoff,Pantyburro,Panty Maloliente,Panty de queso azul,Panty envejecido,Pickapanty,Panty de abuelita,Pantystorn,Panty cuajado,Panty untable,Panty suave,Panty mordida",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "goat",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Pantysgawn",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El queso de leche de cabra galés que contiene la palabra “panty” en su nombre.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Pant-ys-gawn,Pantiesgawn,Pantysgone,Pantiesgone",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "430133_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

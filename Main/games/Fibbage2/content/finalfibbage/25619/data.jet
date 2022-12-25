@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "orzuelo,I,oveja,zig-zag,borscht,lengua,lince,antidesestablecimiento,blog,fiordo,burla,kayak,fiz,sh,bizcocho,fronda,ramita,agog",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "bee",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "luge",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La palabra ganadora más corta en la historia del Scripps National Spelling Bee (concurso de deletreo).",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "430236_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "430233_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

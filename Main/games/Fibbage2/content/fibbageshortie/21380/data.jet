@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tocino,brillantina,dinero,nieve, de alguna manera,azúcar en polvo,cereal,muñecas Barbie,nueces,borradores pequeños,ropa interior,pescado,formularios de impuestos,dientes de león,pasteles,balones de fútbol,leche,puercoespines,Biblias",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Hell’s Angels",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un perrito",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En junio de 2010, un estudiante en Alemania tuvo la audacia de conducir hasta la casa club local de Hell’s Angels, donde procedió a bajarse sus shorts y arrojar <BLANK> a los miembros.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un perro,un cachorro,un cachorrito",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "404015_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "404012_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

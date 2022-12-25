@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thor,Don Corlione,Willy Wonka,los gnomos de los calzoncillos,el hombre del saco,la Fuerza,los aliens,la reencarnación,la reina Isabel,Matrix,la percepción extrasensorial,Indiana Jones,el alunizaje,el calentamiento global,Papá Noel,Hannibal Lecter,la clonación humana,los Illuminati",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "adolescentes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Sherlock Holmes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En una sorprendente encuesta realizada en 2008 por Ask Jeeves, se encontró que un sorprendente 58 por ciento de los adolescentes británicos pensaban que <BLANK> era real.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Sherlock",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "397043_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "397040_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

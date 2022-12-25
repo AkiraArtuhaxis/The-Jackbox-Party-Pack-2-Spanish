@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Láser Tag,Fin de los Tiempos,Jet Pack,Vaca Cantante,Sexo,Beber Algo de Cerveza,Úlcera Péptica,Colonoscopia,Estar Al Revés,Estar Completamente Calvo,Mentos y Coca-Cola Light,Ver Los Tres Chiflados,Intercambiar Cónyuge,Bebé Adoptado,Mujer Dorada,Helado de Vainilla,Pantalón Jean Azul,Panecillo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "celebración",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Tipo Muerto Congelado",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cada mes de marzo, la gente de Nederland, CO se reúne y celebra los “Días del/de la <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Hombre muerto congelado,cuerpo congelado,tío muerto congelado,tio muerto congelado",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "385496_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "385493_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

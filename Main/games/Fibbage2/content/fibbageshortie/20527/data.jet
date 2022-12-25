@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cerveza,rebanadas de queso,galletas de animales,vodka,calcetines,bistec,géiseres,flores,tartas de crema,piedras,semillas,guantes de béisbol,cereales de frutas,galletas saladas,marihuana,perritos calientes,papas fritas,plumas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "cerdos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "basura",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En Arizona, debes obtener el permiso 3-2664 si deseas alimentar a los cerdos con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "desperdicios,residuos,porquería,porqueria,desechos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "399755_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "salamandras,Noruegos,policías fronterizos,pianos,diques dentales,renacuajos,fanáticos de Lady Gaga,trajes de pantalón,Oreos,riñoneras,sostenes deportivos,batamantas,cortaúñas,llamas,osos polares,Legos de Los Simpson,trajes de Batman,cajas vacías",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "contrabando",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pañales",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A finales de 2014, la policía fronteriza del norte de Suecia arrestó a dos delincuentes inusuales que intentaban introducir de contrabando más de 25.000 <BLANK> en el país.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pañales de bebé,pañales de bebe,pañales para bebé,pañales para bebe",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "372356_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "372353_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

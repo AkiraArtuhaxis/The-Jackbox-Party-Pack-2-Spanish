@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "los yuppies,los jugadores de videojuegos,los apostadores,las personas que se tiran pedos,los paracaidistas,los fanáticos de Seinfeld,las personas que hacen cosplay,los practicantes de snowboard,los nudistas,los veganos,los cazadores de animales mayores,los empleados del correo,los trabajadores de tiendas de mascotas,los jockeys,los taquígrafos,las personas que poseen jaulas de bateo,los caddies,los floristas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "psicología",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "los metaleros de los 80",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según un extraño estudio realizado por un profesor de psicología de la Universidad Estatal de Humboldt, <BLANK>, como grupo de personas, son extremadamente felices con sus vidas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "los fans de heavy metal,los metaleros,los que escuchan rock duro,los que escuchan hard rock,los que escuchan música hard rock,los que escuchan musica hard rock",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "431085_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "431082_3",
+            "n": "QuestionAudio"
+        }
+    ]
+}

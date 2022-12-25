@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "máquina de escribir,máquina de coser,llave inglesa,paraguas,sello postal,calculadora,bicicleta,hélice,grapadora,plano,lavadora,pasador de seguridad,elevador,ametralladora,plástico,abrelatas,silbato deslizante,cuchador",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "burló",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "máquina de hielo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La prensa se burló del Dr. John Gorrie por su invención del/de la <BLANK> en 1851, y terminó muriendo antes de que su idea tuviera éxito.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "maquina de hielo,máquina de hacer hielo,maquina de hacer hielo,máquina fabricadora de hielo,maquina fabricadora de hielo,máquina para hacer hielo,maquina para hacer hielo,máquina de hielos,maquina de hielos,máquina de hacer hielos,maquina de hacer hielos,máquina fabricadora de hielos,maquina fabricadora de hielos,máquina para hacer hielos,maquina para hacer hielos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "431649_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "431646_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "misiles nucleares,un caballo,un enjambre de abejas,dinamita,un vagón,100 personas,una estufa,una boa constrictor,fuegos artificiales en vivo,un elefante,una mujer pariendo,los New York Knicks,cigarros cubanos,una banda de marcha,un comedor de fuego,una mina funcional,un puercoespín,un rifle automático",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Castro",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pollos vivos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Fidel Castro fue expulsado una vez del hotel Waldorf Astoria en Nueva York por intentar llevar <BLANK> a su habitación.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pollos,un montón de pollos,un monton de pollos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396296_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

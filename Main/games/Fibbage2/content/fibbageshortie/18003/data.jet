@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "computadoras de Apple,fideos macarrones,Steve Jobs,Mac Davis,sacerdotes,Kelly Osbourne,las Kardashians,Black Sabbath,fantasmas,motañeses escoceses,asesinos en serie,Santa Claus,Macklemore,tubos de lápiz labial,estatuas,carros alegóricos de Macy,exploradores famosos,dinosaurios",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "banda",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "personajes de McDonald’s",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Mac Sabbath es una banda de covers de Black Sabbath con sede en Los Ángeles conocida por disfrazarse de <BLANK> para sus espectáculos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "personajes de macdonald’s,personajes de mcdonold’s,personajes de macdonalds,personajes de mcdonalds,personajes de mcdonaldland,personajes de macdonaldland,personajes de mcdonald land,personajes de macdonald land",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "374585_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

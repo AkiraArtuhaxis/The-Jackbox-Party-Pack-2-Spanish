@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "amistoso,no soy un,pequeñito,gelatina,ciudadano,Johnny,Gregory,Snoop,gordito,Dr. Melvin T.,asesinoso,www.,Kool y el,Downton,Spanky y nuestro,Tyrice,pacífico,amable",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "alguaciles",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "caca",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En febrero de 2015, el fugitivo Tyrice Bowens finalmente fue arrestado por alguaciles estadounidenses por cargos de intento de asesinato en Ohio. Bowens también se conoce con el nombre de calle <BLANK> gángster.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "popó,popo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "381422_1f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "381419_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "espada,piña,bandera,trombón,bebé,almohada,jarra Brita,balón de básquetbol,pañal,rosa,taza de café,robot,hámster,calculadora,balde,fedora,mono,sombrilla",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Rihanna",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "taco",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una broma que pasó desapercibida durante un mes, un hombre se photoshopeó a sí mismo en varias fotos del Museo de los Grammy, incluida una foto con Rihanna donde él posa con un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "376187_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

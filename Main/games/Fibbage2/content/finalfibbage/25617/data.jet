@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "caquitadup,mantecalodo,tic-y-mancha,escrotal,pingapunga,penepup,bubilamida,peditopedín,pipí-popó,mispelotas,laraja,garrateta,tuercepene,cacahueto,pedodiondo,hueletrasero,gatogato,dibujín",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "bit",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tetanop",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La palabra (traducida) digna de risa que significa “un poco de algo que sobró”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tetano",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "430183_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

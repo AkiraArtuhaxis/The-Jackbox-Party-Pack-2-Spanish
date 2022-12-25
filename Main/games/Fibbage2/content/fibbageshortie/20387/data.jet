@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tu carrera,aliens que tocan el saxofón,astronautas,la luna,marcianos sexis,Jermaine Jackson,una jirafa,un presidente,un satélite ruso,un cachorro,Estados Unidos,un fiscal general,la Esfinge,una hamburguesa,prisioneros franceses,la Constitución,una anciana,la música",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "moonwalker",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "niños secuestrados",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El juego de SEGA Genesis <i>Moonwalker<\/i> te hace jugar como Michael Jackson, y tu misión es salvar a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "chicos secuestrados,niños,chicos,niños pequeños,chicos pequeños,chicos pequeños secuestrados,niños pequeños secuestrados",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396320_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

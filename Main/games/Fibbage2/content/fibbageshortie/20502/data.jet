@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tenía senos más grandes,tenía bigotes de gato,tenía un cuello más largo,estaba en una bolsa para cadáveres,tuvo un trasplante de hígado,tuvo un cambio de sexo,tuvo una niña,tenía una sonrisa más brillante,tenía una nariz más pequeña,tenía un corazón de mono,tenía un mentón nuevo,tenía $10 millones de dólares,tenía una orden de arresto,estaba en su fiesta sorpresa de cumpleaños,tenía una araña en la oreja,estaba en Argentina,había sido abandonada en un callejón,era solo una cabeza",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "operación",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tenía un ano nuevo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En marzo de 2008, una jubilada alemana visitó una clínica en Hochfranken, Baviera, para operarse la pierna, pero cuando despertó descubrió que ella <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tenia un ano nuevo,tenía un trasero nuevo,tenia un trasero nuevo,tenía un culo nuevo,tenia un culo nuevo,tenía un recto nuevo,tenia un recto nuevo,había recibido un transplante de trasero,habia recibido un transplante de trasero,había recibido un transplante de culo,habia recibido un transplante de culo,había recibido un transplante de ano,habia recibido un transplante de ano,tenía un nuevo ano,tenia un nuevo ano,tenía un nuevo trasero,tenia un nuevo trasero,tenía un nuevo culo,tenia un nuevo culo,tenía un nuevo recto,tenia un nuevo recto",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "399158_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "399155_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "está suspendido boca abajo,corre de un toro,nada con cocodrilos,blande un arma cargada,salta de un techo,está en llamas,corre sobre brasas,boxea,se acuesta sobre una cama de clavos,recibe patadas en la ingle,camina sobre la cuerda floja,hace malabares con motosierras,lleva un tazón de sopa caliente,se afeita,sostiene una serpiente venenosa,lucha con espadas,tiene los ojos vendados,conduce un auto",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "beber",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "recibe descargas eléctricas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si estás en la Ciudad de México y te sientes aventurero, ve a un bar donde jueguen el inusual juego de beber “toques”, en el que el jugador bebe mientras <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "recibe descargas electricas,se electrocuta,es electrocutado,recibe voltios eléctricos,recibe voltios electricos,ocurre una electrocución,ocurre una electrocucion",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "397883_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hacerle preguntas,orinarse en los pantalones,bailar,hurgarse la nariz,hablar de Pokémon,eructar,hacer ruidos de pedos,jugar videojuegos,comer,dormir,enviar mensajes de texto a amigos,pedir dulces,vomitar,escupir en el suelo,tocar la batería,reproducir música mala,correr,citar a Borat",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "secuestrador",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cantar una canción de góspel",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En un movimiento que parece sacado directamente de una comedia loca, un secuestrador liberó a un niño de Atlanta de 10 años porque no paraba de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cantar una cancion de góspel,cantar una canción de gospel,cantar una cancion de gospel,cantar,cantar una canción,cantar una cancion,cantar góspel,cantar gospel,cantar una canción góspel,cantar una cancion góspel,cantar una canción gospel,cantar una cancion gospel,cantar una canción del evangelio,cantar una cancion del evangelio,cantar una canción evangélica,cantar una cancion evangelica,cantar una canción envangélica,cantar una cancion evangelica,cantar una canción cristiana,cantar una cancion cristiana",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "408256_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Servicio Unido Patatal,Hasta Luego Papita,Envía Papas Fritas,La Oficina De Papas,Sello De Una Papa,Paquete De Papas,Papas Aladas,Ahoralla O Nunca,Tú Dices Papa, Yo Digo Ok,Envíos Fritos,Aplasta A Tus Amigos,Ideas Horneadas,Una Papa Frita Se Va,Cuñas De Patata Por Correo,Postales De Poutine,Fleteado Estampado,Patatas Calientes,Patata Patata",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "potato",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Envía una Papa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre (traducido) de la compañía real que, por solo $9,99 dólares, le enviará una patata a alguien por ti.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "388886_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

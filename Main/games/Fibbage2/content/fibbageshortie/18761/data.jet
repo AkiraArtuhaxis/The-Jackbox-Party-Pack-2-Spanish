@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "el SIDA,Ronald Raegan,Hitler zombi,bravucones de secundaria,Ayn Rand,un meteorólogo,Jesús,cucarachas gigantes,los musicales,Santa,un banco de truchas,una banda de heavy metal,drama online,los Mormones,chicas exploradoras,jugadores de tenis,la enfermedad de las vacas locas,el hada de los dientes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Batman",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el ébola",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el cómic número 48 de <i>Batman: Shadow of the Bat<\/i>, Batman lucha contra un enemigo inusual de los cómics: <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "379376_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "379373_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

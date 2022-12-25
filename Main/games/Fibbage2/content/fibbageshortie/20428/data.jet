@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "exámenes de manejo,condones,dedos meñiques,vacunas contra la gripe,calzoncillos tipo bóxer,toallitas para la secadora,desinfectantes para manos,cepillos de dientes,cervezas ligeras,profesores de francés,vacaciones,pensamientos felices,tenedores,meseros,gatos,cortes de cabello,desodorantes,estudios",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Ciencia",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "sostenes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, después de quince largos años, un estudio único del profesor francés Jean-Denis Rouillon llegó a la conclusión de que los/as <BLANK> son completamente inútiles.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sujetadores,brasieres,corpiños,brassieres",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "397304_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

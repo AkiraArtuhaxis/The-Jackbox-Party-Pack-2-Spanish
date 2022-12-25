@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "escuchar Coldplay,cazar fantasmas,jugar a girar la botella,tejer suéteres,leer Mark Twain,intercambiar recetas,jugar Twister,tener un concurso de miradas,enseñar malabares,disparar palomas,hablar sobre el clima,ver <i>La esposa ejemplar<\/i>,comer coles de bruselas,aprender Klingon,inventar un problema matemático,corregir las enciclopedias,cortar el césped,cortarse las uñas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Michigan",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "alimentar ardillas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Dos veces por semana, un club formado por más de 400 estudiantes de la Universidad de Michigan se reúne en la biblioteca de la escuela para <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "alimentar a las ardillas,alimentar las ardillas,alimentar a ardillas,jugar con ardillas,jugar con las ardillas,ayudar a las ardillas,ayudar las ardillas,ayudar ardillas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "388910_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "amantes,Dalai Lamas reencarnados,viajeros del tiempo,perros guía,personas muertas,maestros de la flauta de pan,osos polares,reinas de Inglaterra retiradas,personas que odian el cilantro,mamás con brackets,personas con nombres de insectos,internos,personas atractivas sin hogar,chicos con barba,personas con puntajes perfectos en el SAT,enemigos de su ex-esposa,jardineros viejos,personas que necesitaban lavar la ropa",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "fiesta",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hombres con penes pequeños",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La fiesta que Ant Smith, poeta de Inglaterra, organizó en 2015 contó con una lista de invitados muy concreta. Era solo para <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hombres con penes chiquitos,hombres con un pene pequeño,hombres con pene pequeño,hombres con penes diminutos,hombres con pene chiquito,hombres con un pene chiquito,hombres con pijas pequeñas,hombres con pijas chiquitas,hombres con una pija pequeña,hombres con pija pequeña,hombres con pijas diminutas,hombres con pija chiquita,hombres con una pija chiquita,hombres con pollas pequeñas,hombres con pollas chiquitas,hombres con una polla pequeña,hombres con polla pequeña,hombres con pollas diminutas,hombres con polla chiquita,hombres con una polla chiquita",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "380900_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "380897_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

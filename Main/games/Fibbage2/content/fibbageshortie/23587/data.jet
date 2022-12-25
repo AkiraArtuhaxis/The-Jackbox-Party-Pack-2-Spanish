@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "perro,antena parabólica,gnomo de jardín,unidad de aire acondicionado,jinete de césped,rastrillo,manguera de jardín,cobertizo,aspersor de césped,cerca sin usar,trampolín,serpiente,automóvil chatarra,criminal,paraguas,cortadora de césped,madriguera de conejo,tuba",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "patio trasero",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "mesa de picnic",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La policía arrestó a Art Price Jr. de Bellevue, Ohio, después de que los vecinos lo sorprendieran teniendo sexo con un/a <BLANK> que tenía en su patio trasero.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mesa picnic,mesa para picnic,mesa de piknik,mesa piknik,mesa para piknik,mesa de picnik,mesa picnik,mesa para picnik,mesa de piknic,mesa piknic,mesa para piknic",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "414576_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "414573_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

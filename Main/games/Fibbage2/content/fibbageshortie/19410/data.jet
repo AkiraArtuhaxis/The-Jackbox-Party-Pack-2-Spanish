@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "los prisioneros,los conejos,los doctores,los pobres,Montana,las monjas,los medicamentos con receta,los vegetales,los kanguros,el papa,los aliens,Narnia,Canadá,los emigrantes,los conductores de taxi,Uruguay,los carteros,las serpientes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "guerra",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "los emús",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1932, Australia declaró una guerra inusual contra <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "385160_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "385157_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

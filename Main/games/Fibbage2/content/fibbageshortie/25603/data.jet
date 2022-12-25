@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "descanso para helados,hora de bolos,hora de cine,hora de discoteca,espectáculo de fuegos artificiales,fiesta en la piscina,desfile,carrera de sacos de papas,tiempo de masajes,descanso para tomar café,boda,prohibición de circular,pescado frito,descanso para ir al baño,momento de apreciación de cabras,pelea de pasteles,carnaval,torneo de póquer",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "España",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "siesta",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El alcalde de Ador, España, instituyó recientemente un/a <BLANK> diario/a para todo el pueblo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hora de la siesta,hora de dormir",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "429811_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "429808_0f",
+            "n": "QuestionAudio"
+        }
+    ]
+}

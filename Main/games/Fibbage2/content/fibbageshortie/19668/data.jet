@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "oírte tocar una bocina,ir al circo,respirar,meter a muchas personas en un auto pequeño,sobrevivir a un hachazo en la cabeza,rociar agua con gas,usar zapatos gigantes,escucharte reír,pintarte la cara,aterrorizar a los niños,pedir direcciones,golpear a un Payaso Asesino,montar un pequeño triciclo,usar pelucas de colores,ir a la Universidad Payaso,resbalarse con una cáscara de plátano,contemplar su muerte,aplicar protector solar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "horror",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "comer helado",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La comedia de terror de culto de 1988 <i>Payasos asesinos del espacio exterior<\/i> lucía la frase: “En el espacio nadie puede <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "comer elado,comer un helado,comer un elado,comerse un helado,comerse un elado,comerse helado,comerse elado",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "391418_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "391415_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

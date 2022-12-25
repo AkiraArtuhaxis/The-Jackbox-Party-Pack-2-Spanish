@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sostenes,panqueques,dagas,personas,plumas de pavo real,dinero,iPods,patitos,lámparas de lava,cepillos de dientes,atrapasueños,vaselina,máscaras de elefante,togas,camisetas con cuellos de tortuga,riñoneras,sandalias,monóculos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "hielo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hamburguesas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante la temporada 2015 de la NHL, los Senadores de Ottawa tuvieron que pedir a sus fans que dejaran de tirar <BLANK> al hielo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "396011_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396008_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

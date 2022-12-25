@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un pastel de cumpleaños,un pony,un perro,una canasta de Pascua,dinero de recompensa por una mascota perdida,almuerzos gratis,paga mediante cupones,una prenda de vestir,un cumplido,gatitos,tarjetas de béisbol,una antigüedad,puntos de Xbox,firmas autografiadas,una máquina de escribir,lingotes de oro,un garaje,una suscripción gratuita a una revista",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "IRS",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "sobornos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "No es broma: el sexto elemento de la categoría “Otros ingresos” en el sitio web del IRS establece que si recibes <BLANK>, debes incluirlo en tus ingresos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un soborno",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "400337_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "400334_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

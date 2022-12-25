@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "de Star Trek,Amish,administrado por el gobierno,de microcervecería,pro-armas,para gente de 85 y más,con temática de Salvado por la campana,flotante,completamente al aire libre,minimalista,de alto coeficiente intelectual,futurista,Simpson,de animales bebé,sin electricidad,bajo el agua,para hombres de las cavernas,de furrys",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "fetiches",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "vegano",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si te gusta este tipo de cosas, dirígete a Casa Diablo de Portland, que se anuncia a sí mismo como un club de striptease <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "388841_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "388838_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

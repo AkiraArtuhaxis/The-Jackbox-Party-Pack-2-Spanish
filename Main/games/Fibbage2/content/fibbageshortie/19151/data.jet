@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cueva,cadáver de dinosaurio,estación de policía,iglesia,depósito,estatua de dinosaurio,volcán,parada de descanso,autobús escolar,armario,submarino,tienda de videos,iglú,semi camión,contenedor de transporte,cascada,fábrica de cojines de pedos,casa del árbol",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "TripAdvisor",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "prisión",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando visites Cardiff, Gales, deberías cenar en su restaurante mejor calificado en TripAdvisor, que se encuentra dentro de un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "prision,cárcel,carcel",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "419730_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "382160_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cucharas de madera,remolachas,peines,cordones de zapatos,agua,fieltro,bloques de hormigón,taburetes,arroz,cubos,gorros,rastrillos,cuerdas,mulas,gorros de baño,carros,repollo,bolsas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Beverly Hills",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "habas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El producto no de moda por el que se conocía el área de Beverly Hills a mediados del siglo XIX.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "frijoles lima,frijoles de lima,pallares,judías lima,judias lima,judías de lima,judias de lima",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "376640_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

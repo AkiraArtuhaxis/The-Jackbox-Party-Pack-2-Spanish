@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "se prendió fuego,se cortó un pezón,comenzó una polca,bebió gasolina,comenzó a citar la Ilíada,resolvió una ecuación imposible,fue lanzado al espacio,saltó a una alcantarilla,se sometió a una cirugía,la policía le puso un taser,se durmió,caminó en una cuerda floja,montó un león,rapeó en latín,se puso a batir mantequilla,llamó al Primer Ministro,desapareció en el aire,fue atacado por un cocodrilo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "rap",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "se comió un corazón de cerdo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El rapero británico Big Daddy Bleach llevó su personalidad en el escenario a otro nivel cuando, en medio de una batalla de rap, <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "se comio un corazón de cerdo,se comió un corazon de cerdo,se comio un corazon de cerdo,se comio un corazón de chancho,se comió un corazon de chancho,se comio un corazon de chancho,se comio un corazón de puerco,se comió un corazon de puerco,se comio un corazon de puerco",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "407202_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407199_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

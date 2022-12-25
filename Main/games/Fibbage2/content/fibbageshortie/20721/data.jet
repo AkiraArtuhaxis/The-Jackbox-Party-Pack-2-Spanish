@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "mostrar sus pechos,adivinar correctamente sus edades,vencerlos en la lucha libre, enrrollar la lengua,hacer el baile del pollo,predecir su futuro,hacer una imitación de Christopher Walken,felicitar sus cortes de pelo,nombrar tres películas de Kevin Bacon,aplastar una lata de cerveza sobre su cabeza,donar un mechón de su cabello,nombrar a los siete enanitos,hacer diez sentadillas,besar a un gato,resolver un acertijo,adivinar la hora,comer un pimiento picante,beber una botella de vino",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Snook",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ganar un juego de piedra, papel o tijera",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Tres oficiales de seguridad se metieron en problemas en el Chilifest 2015 en Snook, Texas, por hacer un trato inusual con una bebedora menor de edad. Los oficiales le dijeron que todo lo que tenía que hacer para evitar una citación era <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ganar en piedra, papel o tijera,vencerlos en piedra, papel o tijera,ganar una partida de piedra, papel o tijera,gana en una partida de piedra, papel o tijera,ganar en un juego de piedra, papel o tijera",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "401663_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "401660_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

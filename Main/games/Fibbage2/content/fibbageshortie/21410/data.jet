@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cactus,caca de murciélago,pezones,uñas de los pies,moco,excreción de rana,vello de la espalda,verrugas,glándulas axilares,saliva,anos de cerdos,testículos,lunares,calzoncillos,insectos,veneno de serpiente,peces muertos,bacterias de la barba",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "crema",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "prepucios",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Vavelta es el tratamiento antiarrugas perfecto para las personas a las que no les importa untarse la cara con crema derivada de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un prepucio,prepucio,unos prepucios,prepucios de bebés,prepucios de bebes,los prepucios de bebés,los prepucios de bebes,un prepucio de un bebé,un prepucio de un bebe,prepucio de bebé,prepucio de bebe,un prepucio de bebé,un prepucio de bebe,prepucio de un bebé,prepucio de un bebe",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "404782_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "404779_4",
+            "n": "QuestionAudio"
+        }
+    ]
+}

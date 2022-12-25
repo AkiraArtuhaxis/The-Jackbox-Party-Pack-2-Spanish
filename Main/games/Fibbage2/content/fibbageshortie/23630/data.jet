@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cordones de zapatos,tubos de pasta de dientes vacíos,cuerdas para saltar,hilo de coser,escritura de cobre,pañuelos,su propio cabello,orejeras,servilletas,guantes,jabón en una cuerda,uniformes de prisión,calzoncillos sucios,bufandas,calcetines,corbatas,pastel,periódicos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "cuerda",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hilo dental",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1994, un sospechoso de robo escapó de una cárcel de Virginia Occidental trepando una cerca de 5,5 metros con una cuerda que hizo con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "seda dental,hilo para los dientes,seda para los dientes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "415512_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

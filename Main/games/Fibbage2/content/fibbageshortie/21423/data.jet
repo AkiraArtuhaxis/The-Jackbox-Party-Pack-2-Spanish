@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "urinario,segway,asta de la bandera de McDonald’s,celda de cárcel,pastor alemán,placa de policía,camión de bomberos,armario del conserje,go kart,vagabundo,bebé,casco de policía,mono,autobús escolar,Toyota Prius,Walmart,calendario Chippendales,funeraria",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "grafiti",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "caballo de la policía",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, la policía de Los Ángeles estaba buscando a un grafitero que, entre todas las cosas, había rociado grafiti sobre un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "caballo,caballo de policía,caballo de la policia,caballo de policia",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "405091_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

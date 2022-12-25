@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bailar ballet,actuar Shakespeare,karate,la telepatía mental,la lectura de palmas,ser barman,la jardinería,cantar a la tirolesa,la guitarra clásica,hacer breakdancing,la guerra,jugar ajedrez,la costura,la carpintería,conversar,preparar sushi,plegar servilletas,la odontología",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "pulpo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la fotografía",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El acuario Sea Life de Kelly Tarlton en Auckland, Nueva Zelanda, es el hogar de un pulpo muy especial llamado Rambo que ha sido entrenado en el arte de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "la fotografia,la toma de fotografías,la toma de fotografias,tomar fotografías,tomar fotografias,la toma de fotos,tomar fotos,manejar una cámara,manejar una camara",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "401339_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "401336_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

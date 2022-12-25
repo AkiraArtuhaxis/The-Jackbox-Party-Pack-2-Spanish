@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bebiendo cerveza,jugando videojuegos,tomando un baño de burbujas,haciendo yoga,yendo a un spa,pintando paisajes,haciendo pasta,viendo comedias románticas,armando rompecabezas,volando una cometa,limpiando,tomando una copa de vino,leyendo el periódico,cantando ópera,leyendo novelas,tejiendo,jugando juegos de mesa,tocando el violín",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "relajarse",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "fumando una pipa",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El perro de Padraic Sirr, Jasper, es toda una celebridad local en Glinsk, Irlanda porque, al igual que su dueño, le gusta relajarse <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "fumando pipas,fumando con pipas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "400496_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

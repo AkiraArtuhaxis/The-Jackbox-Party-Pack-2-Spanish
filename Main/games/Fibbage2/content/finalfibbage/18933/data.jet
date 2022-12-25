@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "corte,pellizco,piza,fragmento,chip,hemmingsworth,pececillo,ladrillo,clavo,semilla,bloque,moneda de diez centavos,pequeñez,tilín,trozo,menudillo,plymouth,wiz",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Hershey’s",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pepita",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre oficial de cada parte pequeña y frágil de una barra de chocolate Hershey.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "una pepita,pepitas,unas pepitas,pip,una pip,pips,unas pips",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "380666_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

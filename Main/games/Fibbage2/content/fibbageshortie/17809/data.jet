@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hacía malabares,se ponía unos jeans ajustados,dormía,abría una jarra de pepinillos,estornudaba,alimentaba a su gato,asistía a la clase de Lamaze,jugaba Rock Band,compraba ropa interior,estaba abriendo regalos de Navidad,tejía,se bañana,estaba en una montaña rusa,se afeitaba,robaba un auto,cantaba karaoke,hacía twerking,tiraba bolas de nieve",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "hockey",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "comía panqueques",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El jugador de la NHL, Dustin Penner, tuvo que perderse un partido de hockey porque se lastimó la espalda mientras <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "comia panqueques,comía pancakes,comia pancakes,comía tortillas,comia tortillas,comía hotcakes,comia hotcakes,estaba comiendo panqueques,estaba comiendo pancakes,estaba comiendo tortillas,estaba comiendo hotcakes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "372301_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

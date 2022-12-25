@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hijos del medio,experimentos gubernamentales,niños mimados,hijos de políticos,aspirantes a médicos,amigos inbisibles,niños nacidos en la Antártida,niños fuertes,príncipes,chicas,chicos,alemanes,huéfanos,niños atractivos,niños desaparecidos,estonios,jóvenes estrellas de levantamiento de pesas,muertos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "preescolar",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "adultos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Michelle Joni dirige un preescolar único en Brooklyn. Todos los estudiantes del preescolar son <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "386645_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

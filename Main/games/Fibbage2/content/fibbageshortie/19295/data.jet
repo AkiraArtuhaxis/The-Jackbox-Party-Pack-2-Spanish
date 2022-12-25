@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "ositos de gomita,una almohada,audífonos,revistas,una manta,licor,servilletas,una pizza,zapatillas,un reembolso,un cargador de teléfono,su teléfono,dulces,una disculpa,desinfectante de manos,su gato,flores,cacahuates",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "ferroviaria",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "papel higiénico",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un adolescente que viajaba en Virgin Trains pudo tuitear a la compañía ferroviaria mientras estaba a bordo, para que un miembro del personal le entregara <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "papel higienico,un rollo de papel higiénico,un rollo de papel higienico,algo de papel higiénico,algo de papel higienico",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "383327_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

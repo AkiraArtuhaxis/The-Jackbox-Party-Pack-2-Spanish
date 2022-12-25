@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "terapia,una piruleta,RCP,terapia de electrochoque,un choque de manos,una cesárea,lecciones de lectura,cincuenta dólares,un masaje de pies,consejos sobre relaciones,un pequeño monóculo,un tatuaje de Popeye,una tarjeta de regalo de Applebee,un anillo de bodas,lecciones de boxeo,un aviso de desalojo,la comunión,una amigdalectomía",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Rocky",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un enema",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Habla con la propietaria de Just Frogs, Toads Too: Fundación y Centro de Anfibios y quizás tengas la suerte de escuchar sobre la vez que le dio <BLANK> a un sapo de Texas llamado Rocky.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "enemas,un enama",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "385421_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

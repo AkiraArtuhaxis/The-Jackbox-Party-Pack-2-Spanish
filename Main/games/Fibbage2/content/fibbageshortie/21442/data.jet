@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Perros Cogiendo,Caballos Sexuales,Tragando Pezones,Nixon Desnudo,Pene Tirado,Cher Gorda,Perros Strippers,Noche Erecta,69 Vampiro,Todos Cogiendo,Tetonas Malabaristas,Orgía Shakesperiana,Testículos Cosquillosos,Vulvas Eléctricas,Genitales Frotados,Masaje Anal,Masticando Trasero,Coito Cómico",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "pintura",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Hitler masturbándose",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre de una pintura de Salvador Dalí de 1973 tiene solo dos palabras que describen una situación sexual sorprendente. El título de dos palabras de la pieza es <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Hitler masturbandose,Hitler pajeándose,Hitler pajeandose",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "405531_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "405528_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "nave espacial,crucero,diamante,castillo,mezquita,granero,dinosaurio,volcán,caballero,motocicleta,troll,puente,ametralladora,mago,oso,búnker,helicóptero,tanque",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "tumba",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pirámide",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Nicolas Cage ya ha comprado su tumba en Nueva Orleans. Mide 2,75 metros de altura y tiene forma de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "piramide",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "404141_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "404138_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

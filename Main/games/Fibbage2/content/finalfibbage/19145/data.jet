@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bananner,bananaling,diente,pelele,gancho,garra,dígito,tentáculo,antena,bango,bobo,miembro,espada,zoquete,kloop,palo,nano-nana,amarilleta",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "banana",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "dedo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre de una banana individual en un racimo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dedos,un dedo,unos dedos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "382019_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "382016_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

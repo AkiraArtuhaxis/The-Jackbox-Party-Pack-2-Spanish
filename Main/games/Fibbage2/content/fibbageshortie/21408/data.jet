@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "haciendo saltos,caminando sobre dos piernas,cantando,haciendo flexiones,deletreando cosas con heno,vomitando diamantes,montando a pelo a otra vaca,sentándose como un humano,con dientes de oro,silbando,patinando sobre hielo,saltando,agitando las piernas,durmiendo boca arriba,emitiendo un perfume,protegiendo un ratón,construyendo una casa,saltando",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Kenya",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "comiendo una oveja",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Charles Mamoleo, un granjero de Kenia, supo que tenía una vaca extraña en sus manos cuando la vio <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "comer una oveja",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "404731_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

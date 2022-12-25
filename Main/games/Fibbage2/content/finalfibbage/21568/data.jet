@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lengua larga,Payaso,Hijo de Estrella,Genes Malos,Escritor borracho,Romanos de los Viejos Tiempos,Infierno-vetica,Papá Rock,Alas Ding-a-lings,Suzy Descuidada,Bla,Tío,Zapatos de plataforma,Myriad Hermano,Mano Sacudida,Vagabundo Duey,Simmons,Lo Que Sea",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Kiss",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Muere desagradablemente",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre genial (traducido) de la fuente personalizada que la banda Kiss usa en su nombre.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "408328_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

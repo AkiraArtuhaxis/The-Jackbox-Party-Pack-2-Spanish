@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pedo,idiota,oso,trasero,apestoso,cuadrado,perro,pollo,sombrío,cráter,taco,plano,no,cacahuate,patata,pastel,tortuga,barro",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "apodo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Tomate",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El miembro del Salón de la Fama de los Chicago Cubs, Charles “Gabby” Hartnett, tenía el apodo menos que halagador de “Cara vieja de <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "389054_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Van,Needlenose,Sebastian,Fran,Bobalicón,Leviatán,Garfield,Caitlyn,Payaso,Garth,Mónica,Ulises,Jesús,Bart,Wombat,Einstein,Milhouse,Millard",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Milhouse",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Mussolini",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El segundo nombre del personaje de <i>Los Simpson<\/i> Milhouse Van Houten.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Musolini,Mussulini,Mussulinni,Musolinni,Musoulini,Mousolini",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "431142_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

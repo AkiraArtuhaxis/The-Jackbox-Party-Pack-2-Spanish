@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tonterías,historia,evolución,dudi,inodoro,no,tonto,feo,espada,puñetazo,carne,beso,piojos,viejo,olla,spandex,velcro,fenómeno",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "suspensión",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "meep",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La Escuela Secundaria Danvers en Massachusetts llevó la disciplina a un nivel completamente nuevo en 2009 cuando informaron a los estudiantes y padres que decir la palabra <BLANK> era motivo de suspensión.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "¡meep!,meep!,meap,meeep,¡meap!,meap!,¡meeep!,meeep!",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "388793_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "388790_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

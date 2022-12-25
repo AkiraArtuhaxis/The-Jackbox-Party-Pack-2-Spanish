@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "la sobrepoblación,la crueldad animal,el control de la natalidad,los altos costos de matrícula,las compalías farmacéuticas,las escuelas chárter,el alcoholismo,el racismo,la igualdad de derechos,la agricultura orgánica,las refinerías de petróleo,los pandas,el SIDA,el cáncer,los concursos de belleza,la lotería,los jueces locales,las vacunas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "activista",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la selva tropical",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una pareja de activistas tuvo sexo en el escenario durante un festival de música noruego en 2004, como parte de su esfuerzo por crear conciencia sobre <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "el bosque,salvar la selva tropical,salvar el bosque",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "377699_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "377696_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hipnotizar,despiojar,humillar,mojar,seducir,cazar,rociar con gas pimienta,tatuar,oler,anestesiar,psicoanalizar,recordar,abrazar,saborear,alienar,resucitar,vestir,duchar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Recaudación",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "carterear",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 30 de abril de 2015, un grupo de arte en Brooklyn, Nueva York, organizó una fiesta de recaudación de fondos muy especial en la que, por quince dólares, enseñaron a las personas cómo <BLANK> a los demás.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "robar,robar los bolsillos,ratear",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "405552_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

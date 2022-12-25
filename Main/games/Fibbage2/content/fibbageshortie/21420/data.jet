@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tomándose selfies,teniendo un picnic,lanzando un frisbee,fumando marihuana,pintando con aerosol,desnudándose,besándose,amamantando,disparando armas,haciendo malabares,bailando breakdance,tomando una siesta,bostezando,usando ropa nazi,marchando,orinando,riendo,apostando",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "conmemorativo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "haciendo twerking",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Tres mujeres rusas fueron condenadas a prisión en 2015 después de que hicieran un video que las mostraba <BLANK> junto a un monumento conmemorativo de la Segunda Guerra Mundial.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "405019_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

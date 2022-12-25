@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sueños,Montones de Basura,Hombres de Nieve,Relaciones,Puentes,Altares de Boda,Computadoras,Muñecas,Osos,Autos,Dioramas,Casas,clones humanos,Errores,volcanes de papel maché,aerodeslizadores,fuertes de almohadas,orfanatos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Smith",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Pirámides",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "10:04 PM - 19 de septiembre de 2014 El hijo de Will Smith, @officialjaden, tuiteó: “Construyo <BLANK> constantemente”",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "419704_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "377288_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

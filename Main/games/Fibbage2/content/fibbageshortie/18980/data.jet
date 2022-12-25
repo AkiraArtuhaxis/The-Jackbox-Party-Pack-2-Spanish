@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "mazorcas de maíz inusuales,objetos filosos,creaciones de origami,tartas de crema,prótesis de piernas,tumores,sándwiches a medio comer,retratos con notas adhesivas,frascos de alcohol ilegal,caparazones de tortuga,platillos voladores,esculturas de comida,bigotes falsos,uñas,toros mecánicos,peces Big Mouth Billy Bass,ollas de tabaco,pinturas con heces de animales",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Vent",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "muñecos de ventrílocuo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando estés en Fort Mitchell, Kentucky, visita el Museo Vent Haven, un hito único que ahora alberga más de 800 <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "muñecos de ventrilocuo,muñecos,títeres de ventrílocuo,titeres de ventrílocuo,títeres de ventrilocuo,titeres de ventrilocuo,titeres,títeres,muñecos de ventrilocuismo,títeres de ventrilocuismo,titeres de ventrilocuismo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "419726_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "381020_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "381017_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

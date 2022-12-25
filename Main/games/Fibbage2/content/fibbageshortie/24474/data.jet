@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tosiendo sobre ella,aplicando una llave de cabeza,bailando,cantando,haciéndose el muerto,haciéndolos marear,meciéndolos,estornudando,explotando,poniéndose bizco,vomitando,durmiendo,comeiendo,crujiendo los dedos,contando una larga historia,abofeteándola,estableciendo confianza durante meses,comiéndola con “utensilios” toscos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "termita",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tirándose pedos sobre ella",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El insecto conocido como berothidae ataca a su presa, la termita, de una manera muy inusual. El berothidae lo hace <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tirando pedos,tirándose pedos,tirandose pedos,tirando pedos sobre ella,tirandose pedos sobre ella,echándose gases,echándose gases sobre ella,echandose gases,echandose gases sobre ella,tirándose gases sobre ella,tirandose gases sobre ella,tirandose gases,tirándose gases,tirando gases",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "423935_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

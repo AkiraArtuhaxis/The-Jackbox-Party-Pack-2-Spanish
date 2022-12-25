@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "emú mascota,auto cohete,freidora bañada en oro,colección de camisetas de Grateful Dead,refugio para bombas,amigo imaginario,amígdala,pierna prostética,Halcón Milenario de tamaño real,fuerte de nieve,árbol de manzana,ropa sucia,perro robot,cartucho de 8 pistas,barba,estatua del Coronel Sanders,retrete,pelícano",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "robo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cabaña de madera",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El detective Eric Shepherd del condado de Klamath, Oregón, investigó un caso bastante extraño en febrero de 2015. Extrañamente, al dueño de una propiedad local le habían robado su <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cabaña de madera entera,cabaña de troncos,cabaña de troncos entera,cabaña,cabaña entera",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "381548_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "381545_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

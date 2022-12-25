@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tejones mujeres,hijas del diablo,damiselas de la aflicción,locuras animadas,señoritas peligro,vestirse para matar,las chicas del enema,damas de la noche,la pandilla del pastel de carne,hierba de cangrejo,¡$%*&$#$!,los ovarios,cruceros de jade,club de las mejores esposas,club de lectura,la suavidad,las comedoras de tornados,la pandilla shhhhhh",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "all-female",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Cuarenta elefantes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El extraño nombre (traducido) de la pandilla de mujeres que aterrorizó partes de Londres durante los siglos XVIII y XIX.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "408832_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

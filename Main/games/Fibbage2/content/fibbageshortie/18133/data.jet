@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "vodka,martillos,monedas,pasta de dientes,canicas,gusanos,ropa interior,dientes,trigo,limones,balas,jabón,pelo,hamburguesas,notas secretas,patatas,huesos,pistas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "leche",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ranas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Antes de que se inventara la refrigeración, algunos rusos usaban un truco extraño pero efectivo para evitar que la leche se echara a perder. Dejaban <BLANK> en sus baldes de leche.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "375191_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "375188_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

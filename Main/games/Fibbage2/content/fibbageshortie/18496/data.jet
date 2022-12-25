@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "inodoros,axilas,pañales,autos,peces,calzoncillos,helados de vainilla,cartuchos de dinamita,zorrillos,zanahorias,crayones,sábanas,loción de manos,abrigos,sillas,toallas de baño,aromatizantes,almohadas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "chocolate",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pedos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Christian Poincheval, un francés de 65 años, ha pasado más de 10 años tratando de hacer que los/as <BLANK> huelan a chocolate.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "flatulencias,peditos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "377792_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

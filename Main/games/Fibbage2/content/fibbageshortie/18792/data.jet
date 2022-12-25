@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "gorda,grande,falsa,tonta,pequeña,invisible,inteligente,política,líder,boba,de fuego,torcida,de torpe,de aire,tambaleante,roja,de demonio,de bruja",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Gaélico",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "fea",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En gaélico, el apellido Kennedy significa, desafortunadamente, “cabeza <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "379763_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "379760_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

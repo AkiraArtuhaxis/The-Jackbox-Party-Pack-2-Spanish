@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "párrafos,personajes,un idioma conocido,comas,puntos,capítulos,espacios entre las palabras,la palabra “el”,conflicto dramático,diálogo,un narrador,una trama,adjetivos,verbos,líneas rectas,palabras de tres letras,palabras que no estén al revés,el pasaje del tiempo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "novela",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la letra E",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La novela “La Disparition” de Georges Perec es notable porque no contiene <BLANK> en ninguna parte de la historia.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "una E,E",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "383810_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

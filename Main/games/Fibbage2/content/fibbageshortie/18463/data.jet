@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "vaginas,corazones,colmenas,flechas,dedos,gatos,cabezas humanas,esferas perfectas,gallinas,hombres de nieve,chimeneas,Mickey Mouse,espadas,cajas torácicas,traseros,labios de cara de pato,cruces,calaveras",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Turquía",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "penes",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando te encuentres en la región de Capadocia en Turquía, asegúrate de visitar el famoso Valle del Amor y maravíllate con sus increíbles formaciones rocosas con forma de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pene,un montón de penes,un monton de penes,pijas,pingas,pija,pinga,un montón de pingas,un monton de pijas,porongas,poronga,un montón de porongas,un monton de porongas,polla,pollas,un montón de pollas,un monton de pollas,pito,pitos,un montón de pitos,un monton de pitos,verga,vergas,un montón de vergas,un monton de vergas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "419723_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "377465_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "377462_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

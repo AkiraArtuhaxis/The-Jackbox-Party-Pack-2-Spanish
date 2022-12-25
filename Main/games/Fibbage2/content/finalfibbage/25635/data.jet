@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hemorroides,ovaciones de pie,frijoles saltadores,barras de equilibrio,astas de banderas,espinas de cactus,erecciones de perros,molinos de viento,tocones,señales de alto,carámbanos,rascacielos,cesto de ropa,casas de naipes,jorobas de camello,orejas puntiagudas,sujetador puntiagudo,baños portátiles",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "common",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "escalofríos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El término más común para “piloerecciones”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "escalofrios,piel de gallina,la piel de gallina,los escalofríos,los escalofrios,carne de gallina,la carne de gallina",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "430711_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "430708_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

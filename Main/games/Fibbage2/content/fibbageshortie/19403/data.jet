@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "H8R,SINTIEMPO,OUCH,SANGRE,CORTE,MUERT3,PAZ,AMEN,SEMEN,ECTO-1,NRVIOS0,GOLPE,VIOLINES,DISCULPAS,UPS,OHMYGD,DERP,HUESO",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Matrícula",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "JESUS",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, un hombre de Pensilvania requirió la atención de los paramédicos después de que su hermano lo agrediera con una matrícula. Curiosamente, la matrícula decía <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "384965_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

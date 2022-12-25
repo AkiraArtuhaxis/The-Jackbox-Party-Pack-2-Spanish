@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "atarse sus cordones,cantar God Save the Queen,patear una pelota de fútbol,estacionar un auto,montar una bicicleta,usar un microondas,cambiar un neumático,atar una corbata,limpiarse su trasero,cambiar un pañal,disparar un arma,hablar Inglés,vertirse una Guinness,pronunciar Gran Bretaña,hacer moonwalk,lavar su cabello",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Británica",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hacer té",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según una encuesta reciente realizada por el profesor Mark Miodownik del University College London, la persona británica promedio no tiene idea de cómo <BLANK> correctamente.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hacer te,preparar té,preparar te,hacer el té,hacer el te,preparar el té,preparar el te,hacer un té,hacer un te,preparar un té,preparar un te",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "387977_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "387974_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

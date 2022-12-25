@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "El tazón xxx,juego de campeonato x,campeonato xtremo,el supertazón mejor,el máximo tazón,la taza del inodoro,el tazón loco,tazón x,el enorme partido,campeonato de campeones,el partido de campeones,partido loco,el partido-rama,el mega campeonato de la XFL,el partido más genial,tazón de bloopers,partido de grandes jugadaz,el tazón de leche",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "XFL",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Gran Partido al Final",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre original (traducido) del juego de campeonato de la XFL, antes de que se cambiara a Million Dollar Game (Partido del Millón).",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Gran partido al final de la temporada,El Gran partido al final,El gran partido al final de la temporada",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "425491_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

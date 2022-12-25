@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "comer,subir escaleras,conducir un bote,hacer flexiones,encontrar el camino a casa,ir al baño,recitar trivia de películas,correr,saltar obstáculos,hablar 32 idiomas,jugar básquetbol,fotografiar una boda,ir de compras,ponerse pantalones,tocar una batería,construir otro robot,hacer prensa de banca,aprender a besar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "robot",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "andar en bicicleta",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2011, Masahiko Yamaguchi, sorprendentemente, creó un robot que puede <BLANK> por sí mismo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ir en bicicleta,andar en bici,ir en bici,montar una bicicleta,montar una bici,montar en bici,montar bicicleta,manejar una bicicleta",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "424449_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

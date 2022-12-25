@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "darle resucitación cardiopulmonar,chupar veneno de serpiente,darle un riñón,sacarle el apéndice,darle de comer su dedo,patearla fuera del camino de un auto,regurgitar comida,darle un corazón de cerdo,inventar una cura para un resfriado,luchar contra un caimán,implantar un dispositivo GPS,evitar que se ahogue en el inodoro,electrocutarla con una batería de automóvil,cubrirla con sanguijuelas,tocar Mozart,sujetarla a un helicóptero no tripulado,enseñarle a leer,recibir una bala de francotirador",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "muerte",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "golpear a un oso",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Carl Moore, de 73 años, del condado de Placer, CA, salvó a su perra Lacy de una muerte segura. Lo hizo al <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "golpear un oso,atacar un oso,atacar a un oso,luchar con un oso,luchar un oso",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "405744_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

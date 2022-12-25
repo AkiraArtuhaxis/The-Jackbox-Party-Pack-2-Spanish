@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "ojos verdes,una cola vestigial,una cita,exactamente el mismo coeficiente intelectual,el mismo tatarabuelo,un pato en su estómago,intolerancia a la lactosa,historia juntos,el mismo tipo de sangre,el mismo número de pin de cajero automático,una relación con el presidente,una conexión con Kevin Bacon,un gemelo,una relación con la misma persona,poderes de reencarnar,la misma voz,el mismo nombre,el mismo perro",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "al azar",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el mismo cumpleaños",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Aquí hay una probabilidad matemática extraña para ti. Si reúnes a 70 personas al azar, hay un 99,9% de posibilidades de que dos de ellas tengan <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "la misma fecha de cumpleaños",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "424894_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "424891_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

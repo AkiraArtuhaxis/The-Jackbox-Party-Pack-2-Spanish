@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cascadas,un dragón,un arco íris,la vida,un duende,su doble,un hombre con un solo brazo,Knight Rider,una máquina del tiempo,su canario mascota,un ala delta,el Correcaminos,una carta vergonzosa que envió por correo,Pie Grande,un OVNI,un cometa,un amanecer,Hawkman",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "eléctrico",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un buho",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El 25 de febrero de 2015, un automovilista de Seattle le dijo a la policía que la razón por la que atravesó un poste eléctrico fue porque estaba persiguiendo a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "buhos,buho,el buho",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "388694_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

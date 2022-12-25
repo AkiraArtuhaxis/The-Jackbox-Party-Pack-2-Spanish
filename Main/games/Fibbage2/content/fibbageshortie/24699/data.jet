@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "ancianos,maniquíes,loros,cadáveres,espantapájaros,berenjenas,personajes de dibujos animados,ratas,bebés,fantasmas,robots,gatos,sillas,brujas,invisibles,gigantes,amputados,sacos de patatas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "belleza",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cabras",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando estés en el pueblo lituano de Ramygala, asegúrate de asistir a su concurso de belleza anual en el que los concursantes son <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "424871_1",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "424866_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

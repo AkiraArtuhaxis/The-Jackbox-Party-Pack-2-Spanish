@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "baterías,martillos,bloques de cemento,rocas,zapatos,frisbees,aparatos ortopédicos,muletas,llantas,balones medicinales,señales de alto,teléfonos,perchas,escaleras de tijeras,escobas,bolsos,cinturones,guías telefónicas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "mujeres",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Macarrones con queso Kraft",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El amor puede ser doloroso. Solo pregúntale a las Barenaked Ladies, quienes tuvieron que pedirles a sus fans que dejaran de lanzarles <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "macarrones con queso,macarrones y queso,macarrones y queso Kraft,macarrón con queso Kraft,macarron con queso Kraft,macarrón y queso,macarron y queso,macarrón y queso Kraft,macarron y queso Kraft",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "408688_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

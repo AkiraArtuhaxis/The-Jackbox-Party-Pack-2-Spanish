@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "en su celda,en una manifestación contra las drogas,en la calle Bong,debajo de un cartel de Willie Nelson,en una ruta,en una tienda de ollas y sartenes,en uan escuela,dentro de una estatua de Elvis,en el boulevard cigarrillo,en un arrecife,en un campo,un teatro donde se presentaba “Cats”,en una tumba abierta,en un globo aerostático,en un restaurante,en una granja de zorrillos,en la escena del crimen,en la casa del jefe de policía",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "pot",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Mary Jane Lane",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El divertido lugar donde la policía de Park Ridge, IL, citó a adolescentes fumadores de marihuana el 8 de febrero de 2015.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Mary Jane Road,Mary Jane Street,Mary Jane Ave,en Mary Jane Lane",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "429836_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "429833_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

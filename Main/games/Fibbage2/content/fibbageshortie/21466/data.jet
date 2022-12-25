@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "porno,gente racista,trolls,serpientes,selfies,personas que se lastiman,Miley Cyrus,tampones,fotos de comida,payasos,terroristas,alertas de spoiler,fotos de pies en la playa,Justin Bieber,arañas,blogs de mamás,príncipes nigerianos,Jay Leno",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "bloquea",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "las Kardashians",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "James Shamsi tiene la misión de hacer del mundo un lugar mejor, razón por la cual creó una extensión del navegador de Internet que bloquea específicamente la aparición de <BLANK> en su computadora.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "406092_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "406089_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

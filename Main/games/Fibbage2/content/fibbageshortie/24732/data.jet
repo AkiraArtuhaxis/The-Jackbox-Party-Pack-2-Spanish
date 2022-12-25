@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "masajeador de pies,perro parlante,power ranger,robot gigante,masajista sensual,elfo de árbol,fantasma rico,delfín coqueto,malabarista desnudo,imitador de Channing Tatum,pato bien dotado,cuerpo momificado de hace 4000 años,fabricante de sujetadores personalizados,psíquico poderoso,ginecólogo de renombre,maestro de la flauta de pan,experto en chocolate,gran oyente",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "acuden",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "gorila muy guapo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Las mujeres en Japón acuden en masa para ver Shabani. ¿Quién es Shabani? Pues es solo un <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "gorila,gorila guapo,gorila atractivo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "425001_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "la Estrella de la Muerte,el dedo medio,una botella de refresco,la escena de Alien con el pecho reventado,una tortuga gigante,Michael Jordan encestando,Marilyn Monroe,un iceberg,un tazón de ensalada,una piña,Donkey Kong,canguros,El Grito,un árbol gigante,un cono de helado,la escuela de Salvados por la campana,una nutria,un pato gigante",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "lujo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el cuerpo de Beyonce",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según los arquitectos, la forma y el diseño únicos de un nuevo rascacielos de lujo en 134 Spencer St. en Melbourne, Australia, se inspiraron parcialmente en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Beyonce,Beyoncé,el cuerpo de Beyoncé",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "429786_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "429783_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

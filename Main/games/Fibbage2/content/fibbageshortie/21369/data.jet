@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "jeans ajustados,semen de caballo de carreras,cachorros,leche baja en grasa,sustituto de huevo,pintura para la casa,ropa interior para hombres,tostadoras,calcomanías para parachoques,videojuegos,muebles de IKEA,Blu-Rays,dentaduras postizas,gel de baño,yogur,donas,chupetes para bebés,crema para hemorroides",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Crack",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "carne fría",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un camionero de Arkansas fue arrestado en 2015 después de cambiar su carga por crack. ¿Su carga? Solo $50.000 dólares en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "carne fria,fiambre,carne de sándwich,carne de sandwich,embutido,charcutería,charcuteria,embutidos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "403733_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "403730_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

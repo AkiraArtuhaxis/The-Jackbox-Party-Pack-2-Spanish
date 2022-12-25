@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Benedict Cumberbarra,Chocodicto Cumberbatch,Benedict Dulcesbatch,Belgidict Cumberbatch,Bulky Chocobar,Bélgico Cumberchoc,Sherlock Chocolate,Sherchoc,Benedelicioso,Benedict Azucarbatch,Belchedict Burperbatch,Chocadicto Holerbatch,Bennybath de Chocolatesalsa,El Propio Chocolatebatch de Bertha,Benedict Cocoabatch,Cocoadict Cocoabatch,Benny Rico Lino Cuchara,Benedict Ricobar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Cumberbatch",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Benedict Chocobatch",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Alrededor de la Pascua de 2015, se encargó a un chocolatero británico que creara una estatua de tamaño natural de Benedict Cumberbatch hecha completamente de chocolate belga. A la gran delicadeza se le dio cariñosamente el nombre <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "398075_5",
+            "n": "QuestionAudio"
+        }
+    ]
+}

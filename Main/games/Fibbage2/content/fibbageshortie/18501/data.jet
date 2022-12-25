@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bebés,primos,conserjes,contadores,ancianos,prisioneros,modelos de mano,payasos,vendedores telefónicos,hermanos,jefes,policías,hippies,gemelos,perros,apicultores,conductores de tren,presos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "sexi",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "granjeros",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "George Grant y Lizi Clubley fueron los ganadores de un inusual concurso realizado en el Reino Unido. Los llamaron los <BLANK> más sexis.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "granjero",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "377915_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "377912_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

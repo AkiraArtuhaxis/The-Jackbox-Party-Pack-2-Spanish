@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "cereales,pezones,películas de miedo,papel tapiz,hábitos de apareamiento de pandas,café,hábitos de teléfonos celulares,zanahorias,podcasts,peces extintos,personajes ficticios,videojuegos,desfiles,mirar televisión,el codo,pingüinos,macarrones,juegos de azar",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "studies",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "círculos de las cosechas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Lo que estudia un “cereólogo”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "circulos de las cosechas,círculos de los cultivos,circulos de los cultivos,agroglifos,círculos en los cultivos,circulos en los cultivos,círculos en las cosechas,circulos en las cosechas,círculos de cosecha,circulos de cosecha,círculos de cultivo,circulos de cultivo,círculos de cosechas,circulos de cosechas,círculos de cultivos,circulos de cultivos,los círculos de las cosechas,los circulos de las cosechas,los círculos de los cultivos,los circulos de los cultivos,los agroglifos,los círculos en los cultivos,los circulos en los cultivos,los círculos en las cosechas,los circulos en las cosechas,los círculos de cosecha,los circulos de cosecha,los círculos de cultivo,los circulos de cultivo,los círculos de cosechas,los circulos de cosechas,los círculos de cultivos,los circulos de cultivos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "396227_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396224_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

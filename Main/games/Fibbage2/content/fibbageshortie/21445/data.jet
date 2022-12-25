@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "su abuela,su perro,una aspiradora,su iPad,nada puesto,su novia,una espada larga,patines de hielo,un hurón,su retrato oficial,la urna de su abuelo,una granada encendida,planes militares,un resfriado,un caballo,su gato,un niño,una guitarra",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "paracaidismo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "su pez mascota",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un soldado estadounidense de la 82ª División Aerotransportada fue disciplinado después de documentarse haciendo paracaidismo con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "su pez",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "405600_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hick,Baxter,Ick,Leonard,Gordito,Dennis,Harriet,Lick,Prick,Papi,Buf,Justin,Pequeño Pumpkin,Randy,Thor,Mick,Pickles,William Randolph III",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Enanitos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Quee",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En la obra de 1912 <i>Blancanieves y los siete enanitos<\/i>, los enanos se llamaban originalmente Blick, Plick, Flick, Whick, Glick, Snick y, curiosamente, <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Que",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "374279_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

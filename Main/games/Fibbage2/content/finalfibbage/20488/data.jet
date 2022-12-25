@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Vicepresidentes,Tipo Genial,Pequeño Calvin,Sebastian,Apestoso,Oxidado,Desmond,Princesita,Bobby,Lawrence Hastings,Bolsa de Pulgas,Miel,Señor Pawington,Rocco,Bebé Zeus,Guster,Chet,Toby",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "raccoon",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Rebecca",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre del mapache mascota del presidente estadounidense Calvin Coolidge.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "398747_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

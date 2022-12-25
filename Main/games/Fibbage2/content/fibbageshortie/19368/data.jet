@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "una antorcha,leña,bloques de cemento,una horca,dinamita,contenedores de metanfetamina,una señal de odio,un cuchillo,un cuerpo muerto,10 kilos de marihuana,un soplador de hojas,un palo de golf,una serpiente,un soplete,una estrella ninja,las bolsas de compra,un garrote",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "taller",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una pistola",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una mujer en Johnston, Iowa, impartió recientemente un taller de tres horas sobre cómo cargar simultáneamente un bebé y <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "383882_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

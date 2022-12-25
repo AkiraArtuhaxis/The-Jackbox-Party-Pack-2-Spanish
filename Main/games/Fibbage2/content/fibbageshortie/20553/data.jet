@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "el himno nacional chino,la canción principal de Padre de Familia,La Macarena,God Bless America,Dios NO Salve a la Reina,la canción de Sunday Night Football,La Música Británica Apesta,un video de YouTube,solo dos tipos silbando,el tema de Seinfeld,un Discurso de Winston Churchill,el sonido de un sonograma,“Jailhouse Rock”,Rema, Rema, Rema Tu Bote,la canción de SportsCenter,solo un tipo gritando,un gong siendo golpeado una y otra vez,una larga mezcla de Phil Collins",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "100",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la canción de “Bob el constructor”",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Curiosamente, el sencillo número 1 en la lista de los 100 mejores del Reino Unido en enero de 2001 fue <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "la cancion de Bob el constructor,el tema de Bob el constructor,el tema musical de Bob el constructor,Bob el constructor,el intro de Bob el constructor,la introducción de Bob el constructor,la introduccion de Bob el constructor",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "400190_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

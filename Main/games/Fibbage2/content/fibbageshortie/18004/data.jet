@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "gasolina,medicina para la tos,pasto recién cortado,olor corporal,desodorante,bolas de naftalina,tocino,abuelas,éxito,palomitas,un guante de béisbol viejo,un bosque,cigarrillos,dinero fresco,Walmart,libros viejos,protector solar,pegamento",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "tela",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "whisky",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La Escuela de Textiles y Diseño de la Universidad Heriot Watt creó una tela que emite el olor a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "whiskey,bourbon,whisky escocés,whisky escoces,whiskey escocés,whiskey escoces,güisqui,güisqui escocés,güisqui escoces",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "374612_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "374609_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

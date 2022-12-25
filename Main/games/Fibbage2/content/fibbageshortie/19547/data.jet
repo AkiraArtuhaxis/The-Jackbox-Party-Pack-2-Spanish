@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "ratas,orina,uñas de los pies,crayones,pelo de perro,moco,liquid paper,pescado crudo,nieve sucia,renacuajos,cerebros,manzanas podridas,peces dorados,medicamentos,lenguas de vaca,moho,nyquil,cocaína",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "batidos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "placentas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una mujer en Swindon, Reino Unido, fue investigada por los funcionarios de salud porque vendía batidos que tenían <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "placentas humanas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "388529_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "388526_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

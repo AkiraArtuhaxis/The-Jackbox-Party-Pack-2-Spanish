@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "ponte una bota en el trasero,idiota experta,cómeme el trasero,bésame el trasero,papel higiénico,estoy con estúpidos,mantén la calma y haz caca,huele esto,chúpalo,perdedores,no puedes con esto,muere,escoria yanqui,fuente de caca,el sur se levantará de nuevo,habla con la mano,toma una foto,dura más,seguro tienes celos,tira de mi dedo,me importa una caca",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "defecar",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "soltando una carga",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La señora que fue arrestada por defecar en una caja con etiquetas de seguridad dentro de un K-Mart de Wisconsin vestía una camiseta que decía apropiadamente: “<BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "397379_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "397376_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "plumas,cuchillas,patatas,fantasmas,sueños,papel,bichos,barro,repollo,nubes,metal,serpientes,malas hierbas,alfombras,hielo,demonios,letrinas,rocas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "raro",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "vidrio",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "StrangeAilments",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si sufres del mismo raro trastorno mental que el rey Carlos VI, pensarás que estás hecho de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "426899_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407896_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "penes,zurullos de plesiosaurio,frisbees,zapatos,llantas de automóvil,suvenires del monstruo del lago ness,llaveros,calaveras,anillos de plástico para paquetes de seis,botellas de whisky escocés,tapas de botella,esqueletos de pescado,estatuas antiguas,microbios,platos de papel,snorkels,placas de identificación militares,piedras de curling",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Lago Ness",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pelotas de golf",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2009, los científicos que exploraban el lago Ness en un submarino descubrieron inesperadamente cientos de miles de <BLANK> en el fondo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "381164_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "381161_0f",
+            "n": "QuestionAudio"
+        }
+    ]
+}

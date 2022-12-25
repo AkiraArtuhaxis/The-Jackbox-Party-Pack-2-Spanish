@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "llueve chocolate,las precuelas de Star Wars no existen,Dios es un pollo gigante,los Beatles nunca se separaron,las ardillas son la especie dominante,él es un cantante de ópera,Estados Unidos está dirigido por robots,los planetas tienen forma de cubo,Santa Claus es real,la gente envejece al revés,todo el mundo se llama Stephen,los autos conducen a la gente,Australia tiene forma de gato,el núcleo de la Tierra está hecho de dulces,todo el mundo tiene superpoderes,el presidente es un pingüino,el klingon es el idioma internacional,las estrellas están hechas de gomitas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Stephen Hawking",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Zayn sigue en One Direction",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante una charla en la Ópera de Sydney, el físico Stephen Hawking propuso la extraña teoría de que en algún lugar puede haber un universo alternativo y, en ese universo, <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Zayn Malik sigue en One Direction",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "405235_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

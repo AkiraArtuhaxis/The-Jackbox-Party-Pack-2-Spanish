@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "leche,limón,césped,pelo,Coca-Cola,cuero,agua,sangre propia,sol,ejercicio,metal,jardín de flores,arroz,gato mascota,olor a auto nuevo,franela,risa,queja",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "garrapata",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "carne",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La picadura de la garrapata Lone Star tiene un efecto secundario inusual. Puede hacer que sus víctimas se vuelvan alérgicas al/a la <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bife,pollo,cerdo,carne de cerdo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "375488_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "375485_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

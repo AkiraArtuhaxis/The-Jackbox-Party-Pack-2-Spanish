@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "ceder su asiento en el autobús,aceptar perros callejeros,dar propinas en restaurantes,bañarse,andar en bicicleta,usar ropa,apagar sus propios incendios,arrestar delincuentes,pavimentar caminos,ir a la iglesia,unirse a gimnasios,cortar el césped,tener hijos,abrir un negocio,limpiar la basura,cantar en público,silbar,aplastar moscas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "rupia",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "usar baños públicos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Ahmedabad, India, implementó un sistema de recompensas inusual que paga a los residentes una rupia simplemente por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "usar baños publicos,usar los baños públicos,usar los baños publicos,usar un baño público,usar un baño publico",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "421086_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

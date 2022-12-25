@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ángel destructor,Pinchazo de dolor,Dolor en el trasero,Carga de Benedict Arnold,Trompeta de la muerte,Cojín de Satanás,Taburete espinoso,Sueño de proctólogo,Planta Boing Boing,Sofá enojado,Silla del infierno,Trabajador cascarrabias,Nalgas puntiagudas,Cosquillomerear,Puf del diablo,La retribución del niño perezoso,Hiere Trasero,Gran cosa de planta puntiaguda",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "cactus",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Silla de suegra",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre común de la planta de cactus Echinocactus grusonii es, humorísticamente, <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "La silla de la suegra,silla de la suegra,la silla de suegra,almohada para suegra,la almohada para suegra,la almohada para la suegra,almohada para la suegra,cojín para suegra,el cojín para suegra,el cojín para la suegra,cojín para la suegra,almohada de suegra,la almohada de suegra,la almohada de la suegra,almohada de la suegra,cojín de suegra,el cojín de suegra,el cojín de la suegra,cojín de la suegra",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "417945_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

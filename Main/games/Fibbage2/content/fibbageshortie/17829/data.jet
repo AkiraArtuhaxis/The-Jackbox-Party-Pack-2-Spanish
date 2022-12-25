@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "conduciendo por la ventana,metiéndose por la chimenea,quemándola,vistiéndose con un traje de oso,atravesando la pared,pretendiendo ser un fantasma,tirándose en paracaídas a la claraboya,golpeando la puerta con su cabeza,ocultándose en un paquete,trepando por el inodoro,trepando la antena,pretendiendo ser un bebé abandonado,saltando a una ventana,haciendo un túnel al sótano,nadando por el tanque séptico,mordiendo el picaporte,explotando la puerta del frente,taladrando en la habitación de invitados",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Florida",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "desplazándose por la puerta del gato",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Después de que su novia lo echara de la casa, un hombre de Florida murió tratando de entrar a la casa <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "gateando a través de la puerta para mascotas,gateando a través de la puerta para gatos,gateando a través de la puerta para perros,atravesando la puerta para gatos,atravesando la puerta para perros,escalando a través de la puerta para gatos,escalando a través de la puerta para mascotas,escalando a través de la puerta para perros,gateando por la puerta para mascotas,gateando por la puerta para gatos,gateando por la puerta para perros,atravesando la puerta para perros,escalando por la puerta para gatos,escalando por la puerta para mascotas,escalando por la puerta para perros, pasando por la puerta para gatos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "372836_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "372833_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

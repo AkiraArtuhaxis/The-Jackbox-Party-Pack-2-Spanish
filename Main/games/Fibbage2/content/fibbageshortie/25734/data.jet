@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "al caerle un yunque en la cabeza,tirándose un pedo,con un empujón,echándole agua fría,estornudando,con una sacudida violenta,gracias a una lagartija mágica,con un pájaro defecando encima de ella,lloviendo,con un mago,abrazando a un hombre feo,con un rayo,con un arcoíris,con una reacción alérgica al heno,con una canción,con una rata,con una jarra de hidromiel,con gas nocivo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "conciencia",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "vomitando la manzana",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En la versión original de <i>Blancanieves y los siete enanitos<\/i>, Blancanieves no recupera la conciencia con un beso del príncipe, sino <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "al vomitar la manzana,regurjitando la manzana,al regurjitar la manzana,vomitando,al vomitar,vomitando la manzana envenenada,al vomitar la manzana envenenada,regurjitando la manzana envenenada,al regurjitar la manzana envenenada",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "431696_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

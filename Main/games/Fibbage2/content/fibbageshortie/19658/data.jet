@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "John Candy,Un naufragio espectacular,Diez dedos congelados,Cien formas de morir,¿Qué podría salir mal?,Todo el corazón,Están condenados,Mil oraciones,Miles de risas,Dos pulgares hacia arriba,Ocho ojos muy abiertos,¿En qué estaban pensando?,¡Oh vaya!,Un mundo riendo.,¡Cuidado, Olimpiadas!,Nunca te rindas,Eh, lo entiendes.,Son cinco cosas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Jamaiquinos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Veinte bajo cero",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La película de 1993 <i>Jamaica bajo cero<\/i> lucía el lema: “Un sueño. Cuatro jamaiquinos. <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "20 bajo cero,20 abajo,20 debajo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "391175_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

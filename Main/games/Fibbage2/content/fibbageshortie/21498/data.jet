@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Soy un ladrón,Vivo en 4441 N. Wolcott,Hola, policías,Sé que me están mirando,Estoy justo detrás de ustedes,Robar está mal,Espero que me atrapen,Comienza la persecución,Imágenes de vigilancia,Rebobinen la cinta,Estoy robando esta tienda,Mírame bien la cara,Volveré para robar este lugar,Robo por diversión,El juego del gato y el ratón,Me veo bien en la cámara,La cámara agrega 10 kilos,arréstenme",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Vigilancia",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "No seré atrapado",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Las imágenes de vigilancia de un ladrón en Tampa, Florida, llamaron la atención de los investigadores mientras vestía una camiseta que decía: “<BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "No sere atrapado",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "406887_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

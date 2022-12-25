@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tirar,nadar con,pintar,vomitar,derramar jugo en,tropezar con,lamer,hackear,aplicar pegamento a,perder,ir a un club de baile,cortar,nombrar,usar Facebook con,tuitear sobre,gritar,dormir sin,correr un maratón",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "tobillo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "deslumbrar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, una mujer en el Reino Unido fue multada por <BLANK> su monitor de tobillo ordenado por la corte.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "poner diamantes en",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "425641_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

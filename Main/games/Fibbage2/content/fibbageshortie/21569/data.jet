@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "se quite los pantalones,bese a alguien,pruebe que es un ciudadano,apague su teléfono,prometa no maldecir,silencie a sus hijos,guarde silencio total,pase una prueba de drogas,muestre su identificación,escanee sus huellas dactilares,firme una renuncia,se afeite el vello facial,cante una canción,sea cacheada,jure lealtad,salude a la Reina,use una red para el cabello,se cubra la boca",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "McDonald’s",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "se haga una prueba de alcoholemia",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un McDonald's en Cambridge, Inglaterra, molestó a algunos clientes locales en 2015 al anunciar que requerirá que cada persona <BLANK> antes de ingresar.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "se someta a una prueba de alcoholemia,se haga un test de alcoholemia,sople a un alcoholímetro,sople a un alcoholimetro,pruebe que está sobria,pruebe que esta sobria,demuestre que está sobria,demuestre que esta sobria,pruebe que no está borracha,pruebe que no esta borracha,demuestre que no está borracha,demuestre que no esta borracha",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "408355_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "408352_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

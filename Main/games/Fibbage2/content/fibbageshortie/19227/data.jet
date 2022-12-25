@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "heces de cabra,pelo de axila,uñas de los pies,carne de troll,cuernos de reno,animales atropellados,pieles de ardilla,pañales para bebés,tierra,pene de venado,toalla de playa,alfombra de pelo largo,rata,trébol,queso azul,salmón,huevos,quinua",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "cerveza",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "testículos de ballena ahumados",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Por un tiempo limitado en 2015, la microcervecería Stedji en Islandia vendió una cerveza que sonaba desagradable que estaba aromatizada con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "testiculos de ballena ahumados,testículos de ballena,testiculos de ballena,pelotas de ballena,pelotas de ballena ahumadas,ballena castrada",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "382871_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

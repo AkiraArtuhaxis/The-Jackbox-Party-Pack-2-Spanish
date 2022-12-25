@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bill Clinton,Miss Piggy,ALF,el Dr. Ruth,Dios,Angela Lansbury,El Conde Chocula,MC Hammer,Adam Sandler,Larry King,Mr. T,Ashley Kate,Groucho Marx,Saddam Hussein,Hitler,Donald Trump,El elenco de Cheers,Conan O’Brien",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "lucha libre",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Abraham Lincoln",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Extraño pero cierto: en 1992, <BLANK> fue incluido en el Salón de la Fama de la Lucha Libre Nacional.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Abe Lincoln,Lincoln",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "387683_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

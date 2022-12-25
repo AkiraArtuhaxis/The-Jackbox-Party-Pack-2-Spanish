@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "extremadamente alta,una muerta,una donante de cerebro,un hombre,capaz de conducir un semirremolque,incapaz de conducir de noche,de Alaska,una general del ejército,una delincuente convicta,estúpida,Tammy Cabeza de Trasero,del siglo XIX,un animal de granja,incapaz de conducir sola,muy gorda,un unicornio,un bebé de dos años,analfabeta",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "DMV",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una depredadora sexual",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, una mujer de Florida de 42 años tuvo una experiencia particularmente mala con el DMV. Varios días después de recibir su licencia de conducir, notó que decía incorrectamente que ella era <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un pedófilo,un pedofilo,una delincuente sexual,un depredador sexual,un delincuente sexual",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "407851_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407848_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

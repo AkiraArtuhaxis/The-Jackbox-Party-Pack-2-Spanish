@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "atún,rayos láser,chicas con coletas,muebles,criminales famosos,celebridades,teléfonos inteligentes,ratones,el elenco de “Tres por tres”,comidas caseras,otros gatos,bebés recién nacidos,líderes fascistas,tractores,caras enojadas,perros,cajas de arena",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "reacciones",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hombres barbudos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un grupo de científicos de la Universidad de Illinois, la Universidad de Pensilvania, la Universidad de Florida, la Universidad de Fairfield y Harvard escribieron un artículo “científico” sobre las reacciones que tienen los gatos cuando miran fotos de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hombres con barba,hombres con vello facial",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "380636_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "380633_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

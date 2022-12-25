@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "comió una granada encendida,tragó un adorno navideño,pegó un tiro en el trasero,aplicó un tatuaje a su pene,dejó recibir una bala a su estómago,puso a golpear una monja,puso a besar a un oso,saltó una mina encendida,sacaba una lombriz de sus intestinos,puso a bailar frente a gente gritando,traspasó un camino con lava,vomitó un renacuajo,ahogó,puso a decapitar a una tortuga,dejó devorarse por una serpiente,saltó una mujer gigante,puso a apuñalar a un osito de peluche,comió una vaca viva",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Shrapnel",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "circunvaló a sí mismo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El artista de performance Adrian Parsons hizo una pieza desgarradora llamada “Shrapnel”, durante la cual, frente a una audiencia en vivo, se <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "379103_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "379100_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

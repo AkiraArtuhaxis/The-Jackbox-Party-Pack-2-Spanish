@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hogares,sombreros de copa,gafas,cigarrillos,zapatos,ataúdes,paraguas,trineos,palos de hockey,relojes,monociclos,pañales,búmerangs,bastones,sillones,inodoros,anteojos de sol,andadores",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "pequeños",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "suéteres de pingüino",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Alfie Date, un australiano de 109 años, pasa su tiempo libre haciendo pequeños <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sueteres de pingüino,suéteres de pinguino,sueteres de pinguino,abrigos de pingüino,abrigos de pinguino",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "376520_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

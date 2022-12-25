@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sombreros tontos,mapas,tacos,teléfonos celulares,bikinis,tiempos compartidos,macarrones con queso,juegos de mesa,chalecos salvavidas,sillas plegables,botes a control remoto,camisetas novedosas,perros calientes,pinturas,zapatos,licuadoras,libros,agua",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "navegar",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "helado",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando navegues en Cotuit Bay, cerca de Cape Cod, asegúrate de buscar al Capitán Tim Titcomb, que conduce un bote que vende <BLANK> a otros navegantes.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "helados,mantecado",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "424427_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "424424_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

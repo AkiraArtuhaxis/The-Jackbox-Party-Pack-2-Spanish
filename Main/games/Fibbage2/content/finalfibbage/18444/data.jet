@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cervezam-pú,Cabeza y Cerveza,Brote Sabio,Jabón y Espuma,Cabeza por Cabeza,Preparación Limpia,Una Pinta de Champú,Lúpulo Útil,Viejo Lavadillo,Prepara la Lavada,Va A Tu Cabeza,Pelo de Perro,Jabonoso Espumoso,Calvicie de Patrón de Cerveza,Resalta la Vida,Cerveza Espumosa,Cerveza de Jabón",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "shampoo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Cuerpo de Barril",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Nombre (traducido) del champú real de la década de 1970 que era rico en cerveza.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "377324_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "377321_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "huevos crudos,ojos de caballo,cerdos enteros,trozos de azufre,rollos de papel higiénico,uñas cortadas,canicas,vejigas de vaca,cucharadas de su propia sangre,plumas de pavo,calzoncillos,cuernos de toro molidos,bayas de cicuta,intestinos de morsa,cáscaras de plátano,mechones de su propio cabello,canicas,sirvientes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "malestar",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "páginas de la Biblia",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El emperador etíope Menelik II tenía una cura inusual para el malestar estomacal. Cada vez que se sentía mal, comía algunos/as <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "paginas de la Biblia,páginas de Biblia,paginas de Biblia,páginas de las Escrituras,paginas de las Escrituras,paginas de Escrituras",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "415487_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

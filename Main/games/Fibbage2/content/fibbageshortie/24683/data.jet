@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "los plátanos,las ventanas abiertas,los pantalones,las arañas microscópicas,los rompecabezas,las flechas,las computadoras,los alimentos en forma de pastel,la mostaza,los calendarios,la mantequilla,los personajes ficticios,los gobiernos,los paracaídas,las erupciones cutáneas,los gatos,las cabras,las áreas cercadas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "miedo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "que la mantequilla de maní se le pegue al paladar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "StrangeAilments",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La araquibutirofobia es un trastorno en el que una persona tiene un miedo irracional a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "la mantequilla de maní pegada al paladar,la mantequilla de mani pegada al paladar,que la mantequilla de mani se le pegue al paladar,la boca pegada con mantequilla de maní,la boca pegada con mantequilla de mani",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "424544_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "424539_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

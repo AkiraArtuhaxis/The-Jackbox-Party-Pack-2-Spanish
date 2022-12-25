@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "los bichos,la luna,los payasos,la leche,los mares abiertos,los ancianos,los alines,la lluvia,el gobierno,las líneas de sangre impura,las gallinas,no estar bien,decir “te amo”,los árboles,los relámpagos,las arañas,mirar debajo de las camas,las estatuas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Grecia",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "los zombis",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, investigadores de la Universidad de Pittsburgh concluyeron que, por extraño que parezca, la gente de la antigua Grecia tenía miedo de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "zombis,los zombies,zombies,los muertos vivientes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "424639_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

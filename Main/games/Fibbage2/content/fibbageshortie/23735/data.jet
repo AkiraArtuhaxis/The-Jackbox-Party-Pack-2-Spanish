@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "trozo de marfil,colección de cuarzo,juego de ajedrez,trozo de carbón,porción de mantequilla,tallo de tabaco,bolsa de sal de roca,cultivo de marihuana,barra de oro,barra de jabón,caja de plata,botella de perfume,caja de cobre,caja de peluca en polvo,roble,pedernal de chimenea,caniche,piña",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "1.230",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "trozo de queso",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 1801, el presidente Thomas Jefferson recibió un obsequio inusualmente grande de John Leland de Cheshire, Massachusetts: un/a <BLANK> que pesaba 1.230 libras (558 kilos).",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "queso,pedazo de queso,cuña de queso,troso de queso,trozo de keso,troso de keso,pedaso de queso,pedazo de keso,cuña de keso,pedazo de qeso,pedaso de qeso,cuña de qeso,trozo de qeso,troso de qeso",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "418045_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "valla,crucero,estante de comestibles,nenúfar,submarino,lápida,oso de peluche,mariposa,estatua de gárgola,tendedero,tapa de inodoro,señal de alto,mano de una persona muerta,barra de pan,autobús,cabello,alcantarilla,dedo de una muñeca",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "milagrosamente",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "zanahoria en su jardín",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "16 años después de su desaparición, Lena Paahlsson encontró milagrosamente su anillo de bodas escondido en un/a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "zanahoria,zanahoria en su jardin",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "380198_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "380195_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

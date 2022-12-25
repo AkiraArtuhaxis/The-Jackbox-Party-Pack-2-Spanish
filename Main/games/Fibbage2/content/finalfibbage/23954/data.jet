@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lanzar queso,nadar en aguas residuales,esponjar la barba,sonarse la nariz a larga distancia,crecer mocos,colocar alfombras,vómito competitivo,lucha libre de avena,carreras de caracoles,comer vasos,estornudos competitivos,construcción de casas de pepinillos,dardos ciegos,llanto competitivo,caza de dragones,contando hasta un millón,malabares con granadas,curiosidades bíblicas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Fenny",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pelea de dedos de los pies",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El deporte muy extraño que tiene su campeonato mundial cada año en Fenny Bentley, Inglaterra.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "420662_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

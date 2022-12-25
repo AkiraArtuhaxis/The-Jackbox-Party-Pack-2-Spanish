@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "celulares,maletines,botellas de gaseosa,chalecos salvavidas,corbatas de moño,drones,lentes de sol,bolsos,pasaportes,gatitos,libros de texto,cámaras,máquinas de café,protectores de bolsillo,peines,retratos familiares,brazos rotos,latas de Red Bull",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "botellas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bebés",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Simon Philion inició una campaña de Kickstarter pidiendo $70.000 dólares para financiar su sueño de crear botellas de licor elaboradamente disfrazadas de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un bebé,bebes,un bebe,un portabebés,portabebés,un portabebes,portabebes,un infante,infantes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "378392_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

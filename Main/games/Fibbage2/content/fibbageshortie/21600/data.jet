@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "morirse de hambre,besar a un pariente,comerse una rata,saltar de un avión,contraer malaria,morir,luchar contra un oso,perderse en el desierto,estar desnudas en público,perder todo su dinero,destrozar su auto,ser pateadas por un caballo,quedarse calvas,ser perseguidas,ir a la iglesia,vivir sin agua,entregar su auto,morir solas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "cable",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "perder un dedo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una encuesta reciente realizada por el proveedor de cable británico Cable.co.uk encontró que casi un tercio de las personas encuestadas preferirían <BLANK> antes que perder el acceso a Internet de banda ancha.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cortarse un dedo,no tener un dedo,cortarse el dedo,perder el dedo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "409182_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

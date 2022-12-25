@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "les pagaran con bebés de juguete,solo tardaran 30 segundos en ordenar,se sacaran los zapatos,se sentaran a espaldas de sus parejas,comieran alimentos a los que son alérgicos,no dieran propina,lavaran sus propios platos,comieran de pie,no hablaran con sus camareros,cantaran sus órdenes,cocinaran su propia comida,se tomaran selfies,se disfrazaran,comieran solo con cucharas,tirararn sus menús,insultaran al chef,no usaran el baño,pagaran por las servilletas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "petición",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "les dieran malas reseñas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Botto Bistro en California hizo una petición muy inusual a sus clientes al solicitarles que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "les dieran una mala crítica en Yelp,les dieran una nota de Yelp de una estrella,les dieran una nota de una estrella en Yelp,les dieran una nota de una estrella,les dieran una nota de 1 estrella,les dieran una mala crítica,les dieran una mala crítica de yelp,les dieran malas críticas en yelp,les dieran una mala critica en Yelp,les dieran una mala critica,les dieran una mala critica de yelp,les dieran malas criticas en yelp,les dieran una mala reseña en Yelp,les dieran una mala reseña,dieran una mala reseña de yelp,les dieran malas reseñas en yelp,les dieran una mala reseña en Yelp,les dieran una mala reseña,les dieran una mala reseña de yelp,les dieran malas reseñas en yelp",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "396923_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396920_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

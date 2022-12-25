@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un alce suelto,un niño con una pistola de juguete,demasiada tristeza,un fantasma,informes de Pie Grande,malos olores en los pies,un chirrido interminable,el partido de fútbol del estado de Iowa,un paracaidista aterrizando en el edificio,monos,el Internet atascado en un sitio ruso,frío extremo,falta de oxígeno,cientos de abejas,un nuevo día festivo llamado “Iowaday”,cucarachas,instalación de alfombras de emergencia,mal aliento",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "evacuación",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "macarrones con queso quemados",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Como si Iowa necesitara más emoción, se llevó a cabo una evacuación en la capital del estado de Iowa en abril de 2015 debido a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "macarrones fáciles quemados,macarrones faciles quemados,macarrones fáciles en llamas,macarrones faciles en llamas,macarrones con queso en llamas,macarrones con queso al fuego,un incendio de macarrones con queso",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "405381_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

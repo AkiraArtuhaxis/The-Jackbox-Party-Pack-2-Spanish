@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "están golpeadas,son minorías,les faltan partes,pueden vomitar,están desfiguradas,hablan como un hombre,son espeluznantes,tienen múltiples cuerdas,fueron confiscadas por la policía,se parecen a ella,tienen la cabeza hacia atrás,son aterradoras,cantan canciones tristes,les faltan pies,han sido robadas,han sido encontradas en basureros,pueden imitar lo que dices,son realmente atractivas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "muñecas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "están poseídas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Jayne Harris dirige un negocio inusual. Ella solo vende muñecas que <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "están poseidas,estan poseídas,estan poseidas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "399083_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

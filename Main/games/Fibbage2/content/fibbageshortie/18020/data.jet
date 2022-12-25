@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Coca-Cola Light,niño,taza de café,calendario de Garfield,comptuadora,cinta de correr,microondas,CD de Pearl Jam,chaqueta de mezcilla,perchero,calendario,lavavajillas,inodoro,futbolito,póster de fútbol,Kleenex,mapa,abrecartas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "comunicado",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Furby",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La NSA (Agencia de Seguridad Nacional) emitió un comunicado extraño en 1999, prohibiendo a cualquier persona traer un/a <BLANK> a sus oficinas.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Muñeco Furby,juguete Furby,juguete de Furby,Furby juguete,Furby de juguete",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "374723_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "374720_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

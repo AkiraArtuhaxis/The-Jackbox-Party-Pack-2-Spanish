@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "malvaviscos,Tic Tacs,diamantes,mayonesa,dinero de Monopoly,grapadoras,helado,luces de Navidad,botellas vacías,cartas de Pokémon,fichas de dominó,cóctel de camarones,Gameboys,chaquetas deportivas,desodorante,bloques de Lego,fotos familiares,comida de perro",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "robo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "monedas de cinco centavos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante una fiesta en una casa de 2015 en la comunidad cerrada de Monterey en Naples, Florida, se produjo un robo bastante extraño cuando alguien se llevó aproximadamente 90 kg de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "monedas,níqueles,niqueles",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "380816_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "380813_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

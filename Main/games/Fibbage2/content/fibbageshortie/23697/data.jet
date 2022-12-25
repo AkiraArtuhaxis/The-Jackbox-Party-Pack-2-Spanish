@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "multimillonarios,Beatles,presidentes,geólogos,sacerdotes,autores,miembros de Mensa,malabaristas,hermafroditas,mimos,ateos,vegetarianos,atletas profesionales,vírgenes,artistas,diseñadores de moda,modelos de ropa interior,cristianos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "esperma",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ganadores del premio Nobel",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En la década de 1990, un optometrista llamado Robert Klark Graham fundó un banco de esperma muy específico donde todos los donantes eran <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "personas que ganaron premios Nobel,personas que ganaron Nobles,ganadores de premios Nobel,personas que ganaron premios Nobel,ganadores de Nobel,ganadores del premio Novel,personas que ganaron premios Novel,personas que ganaron Novel,ganadores de premios Novel,personas que ganaron premios Novel,ganadores de Novel,ganadores del premio Noble,personas que ganaron premios Noble,personas que ganaron Noble,ganadores de premios Noble,personas que ganaron premios Noble,ganadores de Noble",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "417187_3",
+            "n": "QuestionAudio"
+        }
+    ]
+}

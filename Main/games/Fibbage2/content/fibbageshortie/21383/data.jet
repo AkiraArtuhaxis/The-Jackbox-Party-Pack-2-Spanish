@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "pescado,Mario,vampiro,colegiala,gato de mujer,Hulk,perrito caliente,sirena,Wally,langosta,tocino,Superman,pingüino,vaquero,policía,hippie,Pedro Picapiedra,tiburón",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "disfrazado",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "wómbat",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Durante un concierto de Phish en 2013, el actor Abe Vigoda, de 92 años, subió al escenario y bailó disfrazado de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "wombat",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "404088_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

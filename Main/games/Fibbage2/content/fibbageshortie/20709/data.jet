@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "adorar a Satanás,azotar a sus hijos,dejar de reciclar,robar toallas de los hoteles,tomar trabajos peor pagados,conducir borrachos,orinar afuera,dejar de usar ropa interior,enviarle regalos de cumpleaños,destrozar propiedad pública,dejar de tener hijos,salir del país,bañarse menos,abandonar la universidad,denunciar a Dios,probar la heroína,quemar más combustibles fósiles,tener relaciones sexuales sin protección",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Camboya",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "comer más perros",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El gobernador de Phnom Penh, Camboya, molestó a más de un electorado en septiembre de 2003 cuando los alentó a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "comer mas perros,comer más perro,comer mas perro,comer más caninos,comer mas caninos,comer más canino,comer mas canino,comer más carne de perro,comer mas carne de perro,comer más carne de perros,comer mas carne de perros,comer perro,comer perros",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "401606_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "401603_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

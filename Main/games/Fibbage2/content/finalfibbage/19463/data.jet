@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Andando a Caballo,El semental Whack,Jockey de carne,¡Arriba!,Sr. Alimentado,Copa de Montar,Cecina a Pelo,Comida Estable,Iones Rancios,El Ceño Fruncido Triple,Y Ahí Van,Pezuñas de Amor,Potro Sally,Caballo Por Supuesto,Filetes Belmont,Cecina de Arkansas,Caballo Delicioso,Mastique de Caballo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "jerky",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Mi Frágil Pony",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre (traducido) de la cecina de carne de caballo hecha por Cowley’s Fine Foods.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "386528_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "386525_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ébola vs. ébola,tetris de caca,diarrea kong,hora de la erección,super incesto bros.,béisbol con esteroides,fiesta de la circuncisión,hombre con eyaculación precoz,atrapa a tus padres teniendo sexo,roe v. wade: el juego,la cacería de foie gras,encuentra los piojos,defecador encubierto,religión: ¡el juego!,fiesta de la pubertad,ciudad orgasmo,¡hemorroides!,sra. anti-marihuana",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "uncomfortable",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Carrera de tampones",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre (traducido) del videojuego de 2014 desarrollado por dos estudiantes de secundaria en la ciudad de Nueva York, que aborda un tema incómodo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "408859_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "408856_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

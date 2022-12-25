@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Patrulla de profetas,El undécimo mandamiento,Escapar de Egipto,Héroe hebreo,Partir es un dolor tan dulce,Cesta de bebé,Plaga de aventuras,No te aburrirás,Escalar la montaña,Soldado de Dios,Tormenta hebrea,Comandos de Zarza Ardiente,Detener al faraón,Las tablas de la vida,Guía la cesta,La zarza arde,Partir el mar,La rebelión del faraón",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Atari",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Cruce del Mar Rojo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre (traducido) del no tan conocido juego de Atari en el que los jugadores navegan por la figura bíblica de Moisés a través de varios obstáculos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "430508_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

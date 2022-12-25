@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hablar con perros,predecir el futuro,comprender la física,escuchar los pensamientos de las personas,oler a las personas que se acercan,predecir el clima,resolver un cubo de Rubik,dominar en el pinball,construir una casa,nunca dormir,jugar al ajedrez,hacer malabarismos,levitar,digerir lactosa,escribir en taquigrafía,leer latín,nombrar cada país,hacer cálculos en su cabeza",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "coma",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hablar chino",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Ben McMahon de Australia estaba en coma profundo después de un terrible accidente automovilístico. Sin embargo, cuando despertó, Ben descubrió que de repente tenía la capacidad de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hablar Mandarin,hablar Mandarín",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "399371_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

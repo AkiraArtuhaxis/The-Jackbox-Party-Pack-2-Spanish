@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "tienen armas,están pintados de azul,solo pueden cantar,traen a sus padres,se insultan,solo dibujan sus respuestas,luchan,tienen que decir “te amo”,son adolescentes,se están quedando calvos,intercambian historias de cárcel,están en una piscina de gelatina,usan cuero,están boca abajo,están en una pista de hielo,deben estar en mensa,hablan mientras mastican comida,se abrazan todo el tiempo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "citas rápidas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "usan bolsas en la cabeza",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El servicio de citas LoveFlutter organiza eventos inusuales de citas rápidas. Para las sesiones de citas rápidas, los participantes <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "llevan bolsas en la cabeza,llevan una bolsa en la cabeza,usan una bolsa en la cabeza,llevan bolsas en su cabeza,llevan una bolsa en su cabeza,usan una bolsa en su cabeza",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "389342_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

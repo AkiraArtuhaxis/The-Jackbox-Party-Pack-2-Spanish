@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "el nombre de su mamá,su dirección,sus números de seguridad social,el sol,su atleta favorito,el gobernador de Indiana,sus alturas,sus apellidos,su peso,sus números de teléfono,sus signos del zodiaco,su pasatiempo favorito,el nombre de su mascota,sus carreras deseadas,un dinosaurio,Superman,su maestro favorito,la cruz de Jesús",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "pecho",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "sus tipos de sangre",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Como parte de un programa administrado localmente en el noroeste de Indiana durante la década de 1950, todos los escolares se hicieron tatuajes en el pecho de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "su tipo de sangre,tipos de sangre,tipo de sangre",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "383930_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

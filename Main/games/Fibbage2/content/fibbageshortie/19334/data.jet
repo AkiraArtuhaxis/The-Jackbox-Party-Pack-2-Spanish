@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "los hiervan,se los traguen,los vendan por cambio,se los den de comer a conejos,los pinten de verde,los entierren,los peguen en la nevera,los tiren por el inodoro,los pongan debajo del colchón,se los den a sus abuelos,los aplasten,los quemen,los depositen en un banco,los usen en una cadena,los blanqueen,los tiren en el mar,bailen alrededor de ellos,se los metan por la nariz",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "dientes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "los arrojen al techo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En lugar de poner los dientes de leche debajo de la almohada para el Hada de los Dientes, se aconseja a los niños en Grecia que se quiten los dientes de leche y <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "los arrojen en su techo,arrojarlos a su techo,tirarlos al techo,tirarlos en su techo,arrojarlos al techo,arrojarlos al techo de su casa,los arrojen en el techo de su casa,tirarlos al techo de su casa,tirarlos en el techo de su casa,arrojarlos al techo de la casa,los arrojen en el techo de la casa,tirarlos al techo de la casa,tirarlos en su techo de la casa",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "383591_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

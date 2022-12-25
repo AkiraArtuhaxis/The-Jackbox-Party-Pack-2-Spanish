@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bailaran,hicieran malabares,perdieran su pelo,perdieran su apetito,vomitaran,vieran mejor,empezaran a bailar espontáneamente,defecaran,orinaran,se volvieran súper inteligentes,eructaran,se abrazaran,hablaran inglés,tuvieran convulsiones,se pusieran de pie,sacaran la lengua,ladraran como perros,hicieran saltos mortales",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "ratas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tuvieran erecciones",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El profesor Martin Fussenegger del Instituto Federal Suizo de Tecnología en Zúrich hizo un avance científico inusual cuando descubrió cómo hacer que las ratas <BLANK> iluminándolas con una luz azul.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tuvieran erecciones instantáneas,tuvieran erecciones instantaneas,tuvieran erecciones al instante,tuvieran una erección,tuvieran una ereccion",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "391010_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "391007_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

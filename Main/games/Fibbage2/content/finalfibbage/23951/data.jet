@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Canastas de Frodo,El Señor de las Pelotas de Básquet,Kiwis Tiernos,Las Paletitas,Tontitos,Tontos Torpes,Los Bajitos,Los Cobardes,Los Gatos Asustadizos,Los Jacks de Kanguro,Los Intelectuales,Los Piernas Largas,Los Aristócratas,Los Comunes,Los Jugadores de Béisbol,Los Cerdos Sudorosos,Las Nueces,Los Puntos Puntiagudos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "basketball",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Los negros altos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El extraño apodo (traducido) del equipo nacional de básquetbol de Nueva Zelanda.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Negros altos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "420587_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

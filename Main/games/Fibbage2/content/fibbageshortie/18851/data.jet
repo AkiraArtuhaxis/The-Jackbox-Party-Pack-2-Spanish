@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "bandera,planta rodadora gigante,roca,caballo sin jinete,jarrón,pelota cuadrada,lengua de vaca,perro,cactus,bolsa de opio,disco,gato,guante,rosquilla,patata horneada,auto,zapato,tanque",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "caballo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cabra sin cabeza",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El deporte nacional en Afganistán es el “buzkashi”, en el que los jugadores a caballo intentan mover un/a <BLANK> al área de puntuación.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cabra,canal de cabra,cabra decapitada,cadáver de cabra,cadaver de cabra,cuerpo de cabra,cabra muerta",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "380168_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

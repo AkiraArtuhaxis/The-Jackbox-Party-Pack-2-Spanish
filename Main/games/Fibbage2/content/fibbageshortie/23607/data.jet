@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Pequeño Británico,Albahaca Fallida,Nigel Bollo,Dr. Diente,Dr. Escoria,Sr. Cono,Austin Powers,Lámpara Idiota,Harold Cabezabuena,Caza Polvo,Monty Python,Frank Frijol,Charles Prince,Bruisa,Sr. Zefir,Afei Tadora,Akhdjkhasjklh fseklufklhdasfj,Junior Junior, Jr.",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "residencia",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Sr. Pollo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El último ciudadano privado que vivía en el número 10 de Downing Street, la actual oficina y residencia del primer ministro británico, era un hombre con el extraño nombre de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Mr. Chicken,mr. chiken,mr. chicen,mister,chiken,mister,chicen,sr pollo,señor pollo,Sr. poyo,sr poyo,señor poyo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "414937_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "el masaje sueco,estudiar caca,cantar canciones de ABBA,lamer sapos,corregir gramática,comer uñas de los pies,oler pies,estar solo,los ombligos,cirugías innecesarias,el paracaidismo,matar ballenas,adoptar bebés,recolectar dientes de bebé,ir de compras cuando hay ofertas,hacerse tatuajes,ser asfixiado,besar fantasmas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Pasatiempos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "los burros",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "A alguien que le gusta la “onolatría” tiene un gran interés en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "burros,un burro",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "385973_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

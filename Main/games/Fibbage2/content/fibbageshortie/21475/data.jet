@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "comer salchichas,oler tus axilas,usar pañales,depilarte todo el vello corporal,tocarte los ojos,cantar karaoke,usar demasiada ropa,lamer el inodoro,cepillarte los dientes constantemente,insultar a los demás,vivir en una cueva,acurrucarte,hablar con extraños,regalar tu dinero,golpearte a ti mismo,tocar la cara de alguien,masticar tu cabello,usar cuero",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "condición",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "contar chistes malos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "StrangeAilments",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si sufres de la condición \"witzelsucht\", es posible que te veas obligado a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "decir chistes malos,contar bromas malas,decir bromas malas,decir chistes terribles,contar chistes terribles,decir bromas terribles,contar bromas terribles",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "425966_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "406338_1f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "406335_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

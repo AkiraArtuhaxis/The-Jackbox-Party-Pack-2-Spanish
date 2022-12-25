@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "El perrito muerto,Los hombres que comen ratones,Lenny hace un amigo,Los hombres que miran fijamente a las cabras,De gusanos y pájaros,Avatar,No es país para dos hombres,Buscando kétchup,Hombres que despreciaron a Dios,Dos hombres atractivos,Vagabundos sin propósito,De cabras y queso,Un plato de frijoles,Los deprimidos,Arriba del fondo,Todos los calamares del océano,Pedoz,El reino de los tuertos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "mice",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Algo que pasó",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El título original (traducido) de John Steinbeck para su novela <i>De ratones y hombres<\/i>, antes de que lo convencieran de cambiarlo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Algo que paso,Una cosa que pasó,Una cosa que paso",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "416137_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

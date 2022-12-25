@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "triturador de basura,globo desinflado,silbato de tren,una banshee,bolsa de vidrio,un hombre moribundo,taladro eléctrico,llanto de bebé,frenos chirriantes,uñas en una pizarra,tenedor en un vaso,cuchillo en una botella,una bruja,un perro ahogándose,el Titanic,cortadora de césped,treinta camellos moribundos,tristeza",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Shakira",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una cabra",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Lo que el profesor de música de la escuela católica de Shakira dijo que parecía que sonaba cuando cantaba.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cabra",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "420612_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

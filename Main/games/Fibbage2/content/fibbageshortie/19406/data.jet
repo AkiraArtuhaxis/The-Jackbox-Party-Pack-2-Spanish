@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "el sexo,respirar,la locura,los pies,los traseros,caminar,el pelo de la espalda,hablar con uno mismo,ser pelirrojo,envejecer,el verano,los niños feos,cantar,reírse,ser mujer,perder dientes,el aire,la palabra “pedo”",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Romano",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la orina",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Crees que tus impuestos son demasiado altos? Al menos no viviste bajo el emperador romano Vespasiano, quien implementó con éxito un impuesto sobre <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "el pipí,el pipi,pipí,pipi,pis,el pis,orina",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "385064_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "385061_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

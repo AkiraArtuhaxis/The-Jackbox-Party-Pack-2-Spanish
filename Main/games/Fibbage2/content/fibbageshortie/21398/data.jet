@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dulces,castillos inflables,bares abiertos,partidas de ponle la cola al burro,bandas tributo a Van Halen,pistolas de paintball,tanques de agua,espectáculos de marionetas,líneas de conga,payasos,cometas volando,buffets de todo lo que puedas comer,espectáculos de comedia,pingüinos,go-karts,funadores de marihuana,abucheos,disfraces aterradores",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "medidas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "strippers",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¡Aguafiestas! En abril de 2015, el Ministerio de Cultura de China anunció que tomaría medidas enérgicas contra la creciente popularidad de los/as <BLANK> en los funerales.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "stripteases,stripers",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "404494_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "404491_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

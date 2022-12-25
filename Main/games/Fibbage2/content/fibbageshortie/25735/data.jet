@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "se sientan en él,contrae neumonía,se atraganta con una miga de pan,se ahoga,se suicida,se prende fuego,se cae de la cornisa,bebe veneno,inhala pegamento para madera,choca contra una puerta mosquitera,es partido por la mitad,se asfixió autoeróticamente,tuvo un ataque al corazón,tuvo cáncer,tuvo un aneurisma cerebral,hay un tiroteo,es viejo,cantando",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Pinocho",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Pinocho lo golpea con un martillo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En el libro original de <i>Pinocho<\/i>, el grillo parlante muere cuando <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Pinocho lo golpea,Pinocho lo aplasta,Pinocho lo aplasta con un martillo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "431721_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

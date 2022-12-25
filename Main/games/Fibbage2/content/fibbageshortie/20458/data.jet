@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "comer un lobo,hablar con las ballenas,aprender élfico,identificar mis propios pedos,viajar en el tiempo,luchar con un león,competir saltando la cuerda,comerme un jamón entero,correr más rápido que un guepardo,comerme un plato de uñas de los pies,entender a los aliens,vivir como un cavernícola,vivir como un caballo,hablar con mi gato,matar a mi doble,hacer flotar cosas con mi mente,solo comer perritos calientes,ser una Frankenstein",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "raro",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "beber mi propia sangre",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "“Creo que podría <BLANK>. ¿Eso es raro?” - Jessica Biel en una entrevista de 2004",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "beber mi sangre,tomar mi sangre,tomar mi propia sangre",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "418787_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "398003_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

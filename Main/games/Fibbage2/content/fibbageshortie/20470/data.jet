@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "están borrachos,ven televisión,casi mueren,duermen,comen abundantemente,ven pornografía,cantan,andan en bicicleta,los abandonan,ven deportes,tienen mascotas,juegan al minigolf,hablan de ello con extraños,van a la cárcel,comen solo pescado,no duermen,usan ropa holgada,viven en climas cálidos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Decisiones",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tienen que orinar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un estudio de 2011 realizado por la Universidad de Twente en los Países Bajos descubrió que, por extraño que parezca, las personas toman mejores decisiones sobre su futuro cuando <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tienen la necesidad que orinar,tienen que hacer pipí,tienen que hacer pipi,necesitan orinar,tienen la necesitad de orinar,tienen la necesidad de hacer pipí,tienen la necesidad de hacer pipi,la vejiga llena,llena la vejiga",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "398294_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "398291_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Debate para tontos,Cómo hacerse rico,Cómo aceptar sobornos,Movimientos de poder 101,Los 7 hábitos de buenos debatientes,Cómo detener a la gente en tu camino,Él no está tan interesado en ti,El secreto,Cómo mentir efectivamente,La Semana laboral de 4 horas,18 formas de cortejar mucho dinero,La magia de pensar, Las mejores formas de aplastar a los pobres,¡Oh, los lugares a los que irás!,Las 33 estrategias de guerra,Trucos para criar una boa constrictor,Cómo hacer pasta,Seis hábitos hacen los desgraciados",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "debate",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Sexo Después de los Sesenta",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El representante del estado de Iowa Ross Paustian causó un gran revuelo después de que lo sorprendieran durante un debate en la Cámara de Representantes leyendo un libro de autoayuda titulado <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Sexo Despues de los Sesenta,Sexo Después de los 60,Sexo Despues de los 60",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "396059_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396056_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

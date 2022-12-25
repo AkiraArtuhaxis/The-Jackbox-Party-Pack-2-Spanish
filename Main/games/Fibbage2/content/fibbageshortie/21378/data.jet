@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "sangre,leche,ranas,pájaros,alcohol isopropílico,pelotas de golf,fuego,jarabe de arce,ácido,piñas,bolas de chicle,pescado,serpientes,manzanas,iPods,cacahuetes de avión,orina,moscas muertas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "llovía",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "lombrices",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2015, científicos desconcertados se reunieron cerca de Bergen, Noruega, para averiguar por qué llovía/n <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "gusanos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "403964_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

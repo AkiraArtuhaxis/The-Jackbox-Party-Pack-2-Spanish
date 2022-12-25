@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "moscas humanas,limpiadores de ventanas,personas que se caen,murciélagos rabiosos,mirones,entusiastas de los fuegos artificiales,fanáticos de los Cubs,grullas blancas,habitantes de Wisconsin,nubes de alcantarillado,relámpagos,incursiones de bragas,la aurora boreal,peces voladores,piezas de aviones cayendo,tormentas de granizo,nubes de ácido,lluvias de balas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "magnífico",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "arañas voladoras",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El hotel Hilton Chicago Magnificent Mile pidió a los huéspedes durante la primavera y el verano de 2015 que mantuvieran las ventanas cerradas. Estaban preocupados por <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "arañas voladoras,las arañas voladoras de gran altura,arañas voladoras de gran altura",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "407803_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407800_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

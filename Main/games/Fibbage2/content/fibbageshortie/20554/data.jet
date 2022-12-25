@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "beber demasiado,comer carne,entrar en bancarrota,un ataque de oso polar,morir congelado,perderse su vuelo,no dormir lo suficiente,someterse a una cirugía innecesaria,fallar una prueba,no obtener suficiente calcio,sufrir una quemadura solar,gingivitis,comer algo a lo que son alérgicos,olvidar un cumpleaños,ver una película mala,comer en un restaurante horrible,encontrarse con un ex,aburrirse",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Islandia",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tener sexo con un pariente",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una interesante aplicación islandesa llamada IslendingaApp está diseñada específicamente para advertir a los usuarios si están en peligro de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dormir con un pariente,tener incesto,cometer incesto,besarse con un pariente,tener relaciones sexuales con un pariente,tener relaciones con un pariente",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "400217_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "400214_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

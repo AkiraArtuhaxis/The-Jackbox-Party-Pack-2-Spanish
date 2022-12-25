@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "¡Me gustan los tacones!,¡Píntame de amarillo!,¡El algodón sienta bien en la piel!,¡Las narices son el enemigo!,¡El perro ladra a medianoche!,¡Papá era carpintero!,¡Come unos pasteles!,¡Los pisos están relucientes!,¡Los lobos cazan en manada!,¡Tu debilidad me hace más fuerte!,¡Esto es obra del diablo!,¡Traga una almohada!,¡Mis pantalones están muy ajustados!,¡Ve directo al sótano!,¡Soy un conejito grande!,¡Los árboles saben nuestros secretos!,¡Vete a casa y llora!,¡Eres una bruja!",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "sneeze",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "¡Hará buen tiempo mañana!",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La extraña frase que dicen los holandeses en respuesta a escuchar a alguien estornudar por tercera vez.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "¡Hara buen tiempo mañana!,Hará buen tiempo mañana!,Hara buen tiempo mañana!,Hará buen tiempo mañana,Hara buen tiempo mañana,Hará buen tiempo mañana.,Hara buen tiempo mañana.,¡Hará buen clima mañana!,¡Hara buen clima mañana!,Hará buen clima mañana!,Hara buen clima mañana!,Hará buen clima mañana,Hara buen clima mañana,Hará buen clima mañana.,Hara buen clima mañana.",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "430208_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

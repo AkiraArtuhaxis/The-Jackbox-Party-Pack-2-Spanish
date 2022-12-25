@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "se vistieran como geishas,compusieran una canción de jazz,comieran col rizada,bailaran juntos,se golpearan la cara,usaran tangas,escribieran una novela romántica,vieran Diario de una pasión,escucharan música coral religiosa,se afeitaran las piernas,mataran un caballo,atraparan mariposas,patinaran sobre cemento,tejieran calcetines,se pintaran las uñas,leyeran a Dan Brown,bebieran leche caliente en lugar de agua,le compraran un auto",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "fútbol",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "le escupieran",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un entrenador de fútbol americano de secundaria en Carolina del Norte fue suspendido a principios de 2015 por hacer que sus jugadores <BLANK> como castigo por faltar a la práctica.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "escupieran en su cara,lo escupieran,lo escupieran en su cara,lo escupieran en la cara,lo escupieran en su cara,escupieran a su cara,le escupieran a su cara,le escupieran,le escupieran en su cara,le escupieran en la cara,lo escupieran a su cara,le escupieran a su cara",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "405333_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

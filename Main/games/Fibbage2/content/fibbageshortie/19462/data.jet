@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "hablar,darte energía,cambiar de color,ser resistente a los crayones,atrapar insectos,hacer que las salas parezcan más grandes,cantar,cambiar de acuerdo a tu estado de humor,crear electricidad,grabar tu voz,ser un espejo,reproducir películas,producir calor,incrementar tu esperanza de vida,darte sueño,aislar una habitación,matar termitas,atraer mariposas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "pintura",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "bloquear las señales de wi-fi",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La Universidad de Tokio desarrolló un tipo especial de pintura en 2009 que tiene la capacidad de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bloquear señales wi-fi,bloquear las señales inalámbricas,bloquear las señalas inalambricas,bloquear señales inalámbricas,bloquear señales inalambricas,bloquear las señales de internet inalámbrico,bloquear las señales de internet inalambrico,bloquear señales de internet inalámbrico,bloquear señales de internet inalambrico,bloquear el internet,bloquear internet,bloquear el wi-fi-bloquear wi-fi,bloquear el internet,bloquear internet,bloquear las señales de wifi,bloquear señales wifi,bloquear el wifi-bloquear wifi",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "386501_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

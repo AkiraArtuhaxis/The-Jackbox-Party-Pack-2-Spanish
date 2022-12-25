@@ -1,0 +1,2579 @@
+{
+    "content": [
+        {
+            "x": true,
+            "id": 20721,
+            "category": "Snook",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 20709,
+            "category": "Camboya",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20634,
+            "category": "pulpo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20604,
+            "category": "secuela",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 20485,
+            "category": "Catalonia",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 20453,
+            "category": "beber",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20448,
+            "category": "telenovela",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20415,
+            "category": "arte digital",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19668,
+            "category": "horror",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19651,
+            "category": "ratas",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21531,
+            "category": "zoológico",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21547,
+            "category": "magnífico",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20461,
+            "category": "Cumberbatch ",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20534,
+            "category": "camioneta",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20595,
+            "category": "Televisión",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21403,
+            "category": "loco",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 25603,
+            "category": "España",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 25727,
+            "category": "sofá",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 25729,
+            "category": "goma",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 25732,
+            "category": "burló",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 25733,
+            "category": "Saturno",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 25734,
+            "category": "conciencia ",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 25735,
+            "category": "Pinocho",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 25737,
+            "category": "Nacer",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 25738,
+            "category": "Tutankamón",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 25739,
+            "category": "inquietante",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21451,
+            "category": "muerte",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23660,
+            "category": "rey",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23673,
+            "category": "premio",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23681,
+            "category": "prisioneros",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 23684,
+            "category": "cayó",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23688,
+            "category": "KISS ",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23694,
+            "category": "Año Nuevo",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": true,
+            "id": 23697,
+            "category": "esperma",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 23705,
+            "category": "traseros",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23709,
+            "category": "brillante",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23711,
+            "category": "ejecución",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23712,
+            "category": "James Bond",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23722,
+            "category": "casa rodante",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23727,
+            "category": "arte",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23730,
+            "category": "monedas",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23731,
+            "category": "cactus",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 23732,
+            "category": "éxtasis",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23734,
+            "category": "Mississippi",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23735,
+            "category": "1.230",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23798,
+            "category": "más joven",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23799,
+            "category": "sociología",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 24002,
+            "category": "pelea",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 24007,
+            "category": "rupia",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 24024,
+            "category": "papa",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 24314,
+            "category": "chuparía",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 24433,
+            "category": "Fundador",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 24474,
+            "category": "termita",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 24699,
+            "category": "belleza",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 24700,
+            "category": "al azar",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 24732,
+            "category": "acuden",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 24811,
+            "category": "tobillo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 24938,
+            "category": "Harvard",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 24941,
+            "category": "Ford",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 25193,
+            "category": "enfrentamiento",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 25602,
+            "category": "lujo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 25684,
+            "category": "psicología",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21549,
+            "category": "DMV",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21550,
+            "category": "simulador",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 21551,
+            "category": "raro",
+            "bumper": "StrangeAilments"
+        },
+        {
+            "x": false,
+            "id": 23630,
+            "category": "cuerda",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23633,
+            "category": "profundo",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 23641,
+            "category": "protesta",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 23643,
+            "category": "Galileo",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 23648,
+            "category": "Los Beach Boys",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23652,
+            "category": "karaoke",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23656,
+            "category": "collar",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21555,
+            "category": "se busca",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": false,
+            "id": 21563,
+            "category": "medio hermano",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21564,
+            "category": "raqueros",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 21565,
+            "category": "secuestrador",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21569,
+            "category": "McDonald’s",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21572,
+            "category": "Franceses",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21574,
+            "category": "buena suerte",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21580,
+            "category": "estornudar",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21583,
+            "category": "mujeres",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21586,
+            "category": "emborracharse",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21587,
+            "category": "proyecto de ley",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21595,
+            "category": "Gastos",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21599,
+            "category": "funeral",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21600,
+            "category": "cable",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21603,
+            "category": "Subway",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21949,
+            "category": "abogado",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21987,
+            "category": "sede",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 23578,
+            "category": "Coney Island",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23583,
+            "category": "vista",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": true,
+            "id": 23587,
+            "category": "patio trasero",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23601,
+            "category": "salchichas",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23607,
+            "category": "residencia",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23618,
+            "category": "Thomas Edison",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": true,
+            "id": 23624,
+            "category": "resaca",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 23629,
+            "category": "malestar",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 24800,
+            "category": "DiCaprio",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 24806,
+            "category": "Dulces",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 24808,
+            "category": "desayuno",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21423,
+            "category": "grafiti",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21424,
+            "category": "acampar",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 21426,
+            "category": "ataúd",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21429,
+            "category": "Stephen Hawking",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21430,
+            "category": "pasta",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21431,
+            "category": "olor",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": false,
+            "id": 21432,
+            "category": "Brooklyn",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21433,
+            "category": "fútbol",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21435,
+            "category": "evacuación",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21436,
+            "category": "mañana",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": true,
+            "id": 21442,
+            "category": "pintura",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21443,
+            "category": "Recaudación",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21445,
+            "category": "paracaidismo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21449,
+            "category": "disculparse",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21457,
+            "category": "terapeuta",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21462,
+            "category": "constipado",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21466,
+            "category": "bloquea",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21467,
+            "category": "Sábado",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21468,
+            "category": "ruido",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21470,
+            "category": "dispositivo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21472,
+            "category": "nuclear",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21473,
+            "category": "espacio",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21475,
+            "category": "condición",
+            "bumper": "StrangeAilments"
+        },
+        {
+            "x": false,
+            "id": 21480,
+            "category": "renunciar",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21482,
+            "category": "pezón",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21497,
+            "category": "Sumo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21498,
+            "category": "Vigilancia",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21505,
+            "category": "sufrir",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21506,
+            "category": "Hemingway",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21507,
+            "category": "boda",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21508,
+            "category": "mítica",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21511,
+            "category": "rap",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21512,
+            "category": "comedia",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21522,
+            "category": "Mañanas",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21523,
+            "category": "navaja",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21525,
+            "category": "elefantes",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21529,
+            "category": "Compañeros",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19630,
+            "category": "Mujeres",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19596,
+            "category": "peas",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": false,
+            "id": 19580,
+            "category": "citas rápidas",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19574,
+            "category": "aerosol",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20588,
+            "category": "Googlea",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20593,
+            "category": "padres",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20598,
+            "category": "bala",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20600,
+            "category": "brazo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20603,
+            "category": "espeluznante",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21367,
+            "category": "ganso",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21368,
+            "category": "citación",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21369,
+            "category": "Crack",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21373,
+            "category": "alcantarillado",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21375,
+            "category": "Cerveza",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21377,
+            "category": "Saskatchewan",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21378,
+            "category": "llovía",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21380,
+            "category": "Hell’s Angels",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21383,
+            "category": "disfrazado",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21385,
+            "category": "tumba",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21386,
+            "category": "bizarros",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21387,
+            "category": "sumisión",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21388,
+            "category": "agorafobia",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21396,
+            "category": "graduación",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21398,
+            "category": "medidas",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21399,
+            "category": "cañón",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21408,
+            "category": "Kenya",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21410,
+            "category": "crema",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21413,
+            "category": "escándalo",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21414,
+            "category": "recaudación",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21416,
+            "category": "estiércol",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21417,
+            "category": "ADN",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 21418,
+            "category": "excitadas",
+            "bumper": "StrangeAilments"
+        },
+        {
+            "x": true,
+            "id": 21420,
+            "category": "conmemorativo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 21422,
+            "category": "contrabando",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 24678,
+            "category": "navegar",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 24679,
+            "category": "robot",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 24681,
+            "category": "Gary Busey",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": false,
+            "id": 24682,
+            "category": "Clarkson",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": false,
+            "id": 24683,
+            "category": "miedo",
+            "bumper": "StrangeAilments"
+        },
+        {
+            "x": true,
+            "id": 24684,
+            "category": "medianoche",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 24685,
+            "category": "profesores",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 24686,
+            "category": "bueno",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 24687,
+            "category": "Grecia",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19569,
+            "category": "apodo",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19567,
+            "category": "orquídea",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19563,
+            "category": "Michigan",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20586,
+            "category": "Uber",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20585,
+            "category": "artículos",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20583,
+            "category": "Un",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20582,
+            "category": "grita",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20580,
+            "category": "vista",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20579,
+            "category": "minigolf",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 20576,
+            "category": "cargo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20573,
+            "category": "Colbert",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20572,
+            "category": "Robo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20571,
+            "category": "relajarse",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20569,
+            "category": "oleada",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20563,
+            "category": "renos",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20381,
+            "category": "marca de nacimiento",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20380,
+            "category": "reloj",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20377,
+            "category": "geniales",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": true,
+            "id": 20376,
+            "category": "debate",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20374,
+            "category": "hielo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20368,
+            "category": "Keanu",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": false,
+            "id": 20358,
+            "category": "vida",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": false,
+            "id": 20412,
+            "category": "petición",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20410,
+            "category": "Secundaria",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20409,
+            "category": "mansión",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 20403,
+            "category": "desconocido",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20402,
+            "category": "duro",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20396,
+            "category": "broma",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20393,
+            "category": "Sinatra",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20391,
+            "category": "belleza",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20386,
+            "category": "Castro",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20387,
+            "category": "moonwalker",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20446,
+            "category": "Vancouver ",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20425,
+            "category": "creer",
+            "bumper": "StrangeAilments"
+        },
+        {
+            "x": true,
+            "id": 20428,
+            "category": "Ciencia",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 20431,
+            "category": "defecar",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20417,
+            "category": "adolescentes",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20483,
+            "category": "hambre",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 20484,
+            "category": "futuro",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20423,
+            "category": "a solas",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20473,
+            "category": "purgatorio",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20471,
+            "category": "disfraces ",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 20470,
+            "category": "Decisiones",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 20468,
+            "category": "tres",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20458,
+            "category": "raro",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": false,
+            "id": 20450,
+            "category": "maratón",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20449,
+            "category": "Cosas Gratis",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19631,
+            "category": "desnudarse",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19621,
+            "category": "Madagascar",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19622,
+            "category": "104",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19640,
+            "category": "911",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19634,
+            "category": "pretender",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19637,
+            "category": "estación",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": true,
+            "id": 19662,
+            "category": "Franco",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": false,
+            "id": 19658,
+            "category": "Jamaiquinos",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19667,
+            "category": "síndrome",
+            "bumper": "StrangeAilments"
+        },
+        {
+            "x": false,
+            "id": 19664,
+            "category": "delfín",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20559,
+            "category": "IRS",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20555,
+            "category": "Turquía",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20554,
+            "category": "Islandia",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20553,
+            "category": "100",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 20536,
+            "category": "sexo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20531,
+            "category": "whale",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20527,
+            "category": "cerdos",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20524,
+            "category": "Finlandia",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20523,
+            "category": "Beastie",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20515,
+            "category": "sustancia",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20511,
+            "category": "coma",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20506,
+            "category": "Tyson",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": true,
+            "id": 20505,
+            "category": "cóctel",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20504,
+            "category": "WD-40",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 20502,
+            "category": "operación",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20499,
+            "category": "muñecas",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 20498,
+            "category": "aire",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19560,
+            "category": "fetiches",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19558,
+            "category": "suspensión",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19554,
+            "category": "eléctrico",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19547,
+            "category": "batidos",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19543,
+            "category": "LOST",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19542,
+            "category": "Nebraska",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": true,
+            "id": 19539,
+            "category": "velas",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19532,
+            "category": "Schwarzenegger",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": false,
+            "id": 19528,
+            "category": "albergue",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19525,
+            "category": "Británica",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 19523,
+            "category": "herido",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19518,
+            "category": "One Direction",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": false,
+            "id": 19515,
+            "category": "mercado",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19513,
+            "category": "Deen",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19512,
+            "category": "lucha libre",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19511,
+            "category": "arqueólogos",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19509,
+            "category": "Polacos",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19508,
+            "category": "alergia",
+            "bumper": "StrangeAilments"
+        },
+        {
+            "x": true,
+            "id": 19506,
+            "category": "vasectomía ",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19500,
+            "category": "árbol",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": true,
+            "id": 19497,
+            "category": "Pud",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19495,
+            "category": "Nic Cage",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19494,
+            "category": "sin límites",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19489,
+            "category": "30%",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19487,
+            "category": "Matrimonio",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19484,
+            "category": "sesenta",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19483,
+            "category": "oído",
+            "bumper": "StrangeAilments"
+        },
+        {
+            "x": false,
+            "id": 19478,
+            "category": "tejiendo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19472,
+            "category": "35",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 19469,
+            "category": "Finlandia",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19468,
+            "category": "preescolar",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19466,
+            "category": "Tyra",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19465,
+            "category": "axilas",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19462,
+            "category": "pintura",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19461,
+            "category": "evitar",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19452,
+            "category": "defensa",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19449,
+            "category": "Canaria",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19447,
+            "category": "elefantes",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19441,
+            "category": "Pasatiempos",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19440,
+            "category": "Alemán",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19433,
+            "category": "Christopher Walken",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19425,
+            "category": "Putin",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19424,
+            "category": "celebración",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19423,
+            "category": "Soledad",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19422,
+            "category": "gusto",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19421,
+            "category": "Rocky",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19410,
+            "category": "guerra",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19409,
+            "category": "Antártida",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19407,
+            "category": "Heidi ",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19406,
+            "category": "Romano",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19404,
+            "category": "incentivo",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19403,
+            "category": "Matrícula",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19390,
+            "category": "publicidad",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19385,
+            "category": "fetiche",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19382,
+            "category": "acera ",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19379,
+            "category": "narcotraficante",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19374,
+            "category": "pingüinos",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19372,
+            "category": "eBay",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19370,
+            "category": "pecho",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19368,
+            "category": "taller",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19367,
+            "category": "banco",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19365,
+            "category": "novela",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19360,
+            "category": "graduación",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19334,
+            "category": "dientes",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19295,
+            "category": "ferroviaria",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19276,
+            "category": "Bunyan",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 19263,
+            "category": "maya",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19227,
+            "category": "cerveza",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19200,
+            "category": "Cambridge",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19193,
+            "category": "oficina",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19172,
+            "category": "rifa",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19165,
+            "category": "apuñalado",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19152,
+            "category": "burlas",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19151,
+            "category": "TripAdvisor",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 19148,
+            "category": "papa",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19146,
+            "category": "gigante",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19144,
+            "category": "divorcio",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 19023,
+            "category": "robo",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 19002,
+            "category": "alguaciles",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18994,
+            "category": "supermercado",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18993,
+            "category": "Wendy’s",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18988,
+            "category": "avión",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18986,
+            "category": "Lago Ness",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 18985,
+            "category": "Clooney",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 18980,
+            "category": "Vent",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": true,
+            "id": 18968,
+            "category": "fiesta",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18954,
+            "category": "robo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18953,
+            "category": "recolectar ",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18929,
+            "category": "reacciones",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18907,
+            "category": "Chef",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18853,
+            "category": "milagrosamente",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18851,
+            "category": "caballo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18845,
+            "category": "subastas",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18842,
+            "category": "monjes",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18812,
+            "category": "BonBon",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": true,
+            "id": 18798,
+            "category": "Kreme",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18792,
+            "category": "Gaélico",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18773,
+            "category": "moda",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18768,
+            "category": "mochila",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18765,
+            "category": "carbonatada ",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18763,
+            "category": "cabras",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18761,
+            "category": "Batman",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 18757,
+            "category": "arrodillada",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18729,
+            "category": "secreto",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": true,
+            "id": 18727,
+            "category": "Shrapnel",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18719,
+            "category": "campaña",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18717,
+            "category": "granada",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18715,
+            "category": "alérgica",
+            "bumper": "StrangeAilments"
+        },
+        {
+            "x": false,
+            "id": 18671,
+            "category": "deporte",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18642,
+            "category": "pesca",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18613,
+            "category": "aplastante",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18612,
+            "category": "citas",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 18605,
+            "category": "botellas ",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 18515,
+            "category": "Cash",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18507,
+            "category": "barato",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 18501,
+            "category": "sexi",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18498,
+            "category": "sintético ",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 18497,
+            "category": "atuendo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18496,
+            "category": "chocolate",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18495,
+            "category": "caridad",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18494,
+            "category": "esquiar",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 18493,
+            "category": "Catedral",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 18492,
+            "category": "activista",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 18491,
+            "category": "vuelta",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18488,
+            "category": "dentistas",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18487,
+            "category": "Playmobil",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 18463,
+            "category": "Turquía",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 18448,
+            "category": "Oregón",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18440,
+            "category": "Smith",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": false,
+            "id": 18401,
+            "category": "Peppa Pig",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 18399,
+            "category": "tequila ",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18380,
+            "category": "pollo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18366,
+            "category": "inmunológico ",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18349,
+            "category": "intercambio",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18346,
+            "category": "Spa",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18324,
+            "category": "pequeños",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18320,
+            "category": "experimento",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18305,
+            "category": "miedo",
+            "bumper": "StrangeAilments"
+        },
+        {
+            "x": false,
+            "id": 18292,
+            "category": "McKinley",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18276,
+            "category": "Rihanna",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18249,
+            "category": "boda",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18208,
+            "category": "camareros",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 18201,
+            "category": "Saskatchewan",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18193,
+            "category": "bebé",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18184,
+            "category": "McLean",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 18178,
+            "category": "barbería ",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18168,
+            "category": "garrapata",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18165,
+            "category": "recesiones",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18154,
+            "category": "Nazis",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 18143,
+            "category": "Vermont",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18133,
+            "category": "leche",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18076,
+            "category": "NASA",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18058,
+            "category": "Larry",
+            "bumper": "SayWhat"
+        },
+        {
+            "x": true,
+            "id": 18020,
+            "category": "comunicado",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 18004,
+            "category": "tela",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18003,
+            "category": "banda",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 18002,
+            "category": "oficial ",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 17957,
+            "category": "Enanitos",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 17859,
+            "category": "olores",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 17855,
+            "category": "circo",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 17850,
+            "category": "recetas",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 17847,
+            "category": "borracha",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 17845,
+            "category": "pulmón",
+            "bumper": "StrangeAilments"
+        },
+        {
+            "x": true,
+            "id": 17842,
+            "category": "greyhound",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 17841,
+            "category": "bromas",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 17835,
+            "category": "techo",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 17834,
+            "category": "alcalde",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 17829,
+            "category": "Florida",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 17827,
+            "category": "lesiones",
+            "bumper": ""
+        },
+        {
+            "x": true,
+            "id": 17822,
+            "category": "Terranova",
+            "bumper": "Roadtrip"
+        },
+        {
+            "x": false,
+            "id": 17821,
+            "category": "mascota",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 17820,
+            "category": "Barker",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 17815,
+            "category": "psiquiátrico",
+            "bumper": "StrangeAilments"
+        },
+        {
+            "x": false,
+            "id": 17811,
+            "category": "contrabando",
+            "bumper": ""
+        },
+        {
+            "x": false,
+            "id": 17809,
+            "category": "hockey",
+            "bumper": ""
+        }
+    ],
+    "episodeid": 1221
+}

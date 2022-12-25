@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "nariz tonta,asta de bandera peluda,caballo gigante,colmillo de hierro,lengua gigante,pie apestoso,eructo largo,ojos pequeños y brillantes,cara de trasero,testículos enojados,paseo de proxeneta,ano perezoso,mejillas hinchadas,cara sonriente,piernas locas,fosas nasales dilatadas,muerto desde hace tiempo,pies diminutos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "elefantes",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "diente de pezón",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Extinto durante casi 10.000 años, el mastodonte es un pariente antiguo y lejano de nuestros elefantes modernos. Extrañamente, “mastodonte” traducido del latín significa <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "diente de pezon,diente de teta,diente mamario",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407535_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

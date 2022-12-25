@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "basura,carbón,pósters de espectáculos,herraduras,dientes flojos,ratas muertas,cuerpos,tabaco usado,conejos,sombreros abandonados,envoltorios de caramelos,huérfanos,bastones rotos,dinero,deshollinadores,ladrillos,estampillas,serpientes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "recolectar",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "caca de perro",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En la época victoriana de Inglaterra, había una ocupación llamada “purefinder” (buscador puro), que implicaba caminar y recolectar <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "heces de perro,heces,caca,mierda,mierda de perro",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "380792_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "380789_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

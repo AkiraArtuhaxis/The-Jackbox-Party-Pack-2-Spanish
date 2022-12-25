@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "una calavera en llamas,una mofeta enfadada,dos mujeres besándose,un duende,un mapa de Iowa,el símbolo atómico del sodio,un hongo de Mario,un unicornio,su número de seguridad social,un puño,una momia patinadora,Mickey Mouse,doce decimales de pi,el sistema solar,la fórmula secreta de Coca-Cola,su nombre completo,la palabra china para inteligente,Marilyn Monroe",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "tattooed",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un gato triste",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Lo que Miley Cyrus tiene tatuado en el interior de su labio inferior.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "gato triste,un gatito triste,gatito triste,un gato molesto,gato molesto,un gatito molesto,gatito molesto,un gato enojado,gato enojado,un gatito enojado,gatito enojado,un gato llorando,gato llorando,un gatito llorando,gatito llorando",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "390719_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

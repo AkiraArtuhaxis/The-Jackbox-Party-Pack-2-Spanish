@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "oro,cabello,uranio,veneno,miel,plata,queso preformado,semillas de trigo,semen,jarabe para la tos,chocolate,hongos,yogur,dientes,moho,hemoglobina,códigos de misiles nucleares,jugo de limón",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "cabras",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "seda de araña",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La Universidad Estatal de Utah tiene unas cabras muy especiales que han sido modificadas genéticamente para que su leche contenga <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "seda",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "379424_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "379421_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "empalagoso,mejor de todos,estupendo,chachi,aguafiestas,chorrada,rompiéndola,cowabunga,booya,pues bien,excelente,casa de pobre,pijamas de gato,duh,juguetear,cuna,playa,sensual",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Larry",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "sándwich de nudillos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "12:02 a. m. - 5 de enero de 2015 Larry King, alias @kingsthings, tuiteó: “¿Alguien más sigue usando el término <BLANK>?”",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "puñetazo,sandwich de nudillos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "419705_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "374876_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "mejores amigos,anuarios,robots parlantes,parejas falsas,tinas de Oreos,bicicletas tándem para uno,hoverboards,recortes de cartón de celebridades,cascos de realidad virtual,un grupo de fiesteros,amigos que se acurrucan,diarios de adolescentes,<i>Qué bello es vivir<\/i>,tanques de privación sensorial,monos ayudantes,mirillas,gatos,Lamborghinis",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Soledad",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "peces dorados",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Ansioso por cambiar ese ceño fruncido, el Happy Guest Hotel Lodge en Cheshire, Reino Unido, alquila <BLANK> a los huéspedes solitarios del hotel.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "peces",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "385469_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

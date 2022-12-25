@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un pato,un Mormón,una pantalla de lámpara,un personaje de dibujos animados,un hombre muerto,un planeta,una tostadora,una vaca,un granero viejo,un bebé,una cabra,un chimpancé,un vagabundo,una señal de la calle,un tractor,un sándwich,una mota de polvo,un árbol",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "aplastante",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un rinoceronte",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los residentes de Sao Paulo, Brasil, quedaron más que sorprendidos cuando <BLANK> ganó las elecciones de 1959 para el consejo municipal de forma aplastante.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "el rinoceronte,un rino,rino",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "378461_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "378458_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

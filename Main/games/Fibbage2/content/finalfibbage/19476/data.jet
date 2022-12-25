@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "curvilla,ondilla,deslice de pasta,muter,satisfacto,fard,puntilla,rulito,pastiforme,reinil,esqueletaga,lodillo,pamby,furfy,carterillo,alerón,panjadrum,molicodla",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "toothpaste",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "nurdle",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La palabra oficial para la gota perfecta de pasta de dientes en forma de onda que se sienta en un cepillo de dientes en los comerciales de pasta de dientes.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un nurdle",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "386864_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "386861_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

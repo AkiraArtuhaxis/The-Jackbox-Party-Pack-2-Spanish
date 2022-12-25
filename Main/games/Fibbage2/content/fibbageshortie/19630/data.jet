@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "gritaran obscenidades,arrojaran tomates,corrieran por el escenario,abuchearan y silbaran,digan que Dios los bendiga,sollozaran en voz alta,levantaran dos pulgares,levantaran el dedo del medio,bailaran en el lugar,se rieran,sacaran la lengua,miraran el reloj,hicieran sonar silbatos,se fueran de la habitación,gritaran “¡tú mandas!”,saltaran arriba y abajo,pusieran los ojos en blanco,apretaran los dedos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Mujeres",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hicieran manos de jazz",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Debido a que algunas personas se quejaron de que los aplausos provocaban ansiedad, se pidió a los asistentes a la Conferencia de Mujeres de la Unión Nacional de Estudiantes de 2015 que <BLANK>, en lugar de aplaudir, para mostrar su apoyo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hagan manos de jazz,hicieran manitos de jazz,hagan manitos de jazz",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "390506_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "390503_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "vomitar,bailar limbo con un palo bajo,sentarse en una silla pequeña sin romperla,tragarse un pavo entero,hacer un hoyo en uno en el minigolf,hacer un avión de papel,andar en triciclo 30 metros,apagar un incendio,ordeñar una vaca,destapar un inodoro,bailar hula,hacer caca,hacer un nudo windsor,hacer twerking,saltar la cuerda 10 veces,tirar al suelo a un oso,hacer un problema de matemáticas,darse palmaditas en la cabeza y la barriga",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Sumo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hacer llorar a un bebé",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una tradición anual del Festival Nakizumo, los luchadores de Sumo compiten para ver quién puede ser el primero en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hacer llorar a un bebe,hacer a un bebé llorar,hacer a un bebe llorar,hacer que un bebé llore,hacer que un bebe llore,hacer que los bebés lloren,hacer que los bebes lloren,hacer llorar bebés,hacer llorar bebes",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "406863_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

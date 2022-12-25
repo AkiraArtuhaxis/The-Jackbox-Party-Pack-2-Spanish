@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "De Policía,Gordos,De Brujería,De La Tercera Guerra Mundial,Gentrificados,Vagabundos,De Golpear A Tu Esposa,Gays,Del Agujero Caliente,Del Padre Ausente,De Hitler,Del Niño Soldado,De Travestis,De Los Campesinos Sureños,De Las Mamás Cocineras,De Plebeyos,De Los Pobres,De Los Robots Autistas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Kreme",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "KKK",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Una tienda de donas Krispy Kreme en el Reino Unido se disculpó por una promoción ofensiva que realizaron llamada “Miércoles <BLANK>”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "379820_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

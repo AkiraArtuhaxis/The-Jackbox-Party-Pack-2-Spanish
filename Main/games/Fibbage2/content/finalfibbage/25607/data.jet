@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un pañal sucio,papel de aluminio en el microondas,pelea de comida,fuente de chocolate inundada,vómitos contagiosos,almejas en mal estado,pelea de puños en estado borracho,pavos amorosos,dos tipos,una copa,champán barato,el séquito de Justin Bieber,baile de mambo,laxantes en el pastel,fuegos artificiales en interiores,trineos tirados por perros en interiores,Russell Brand,el loro de la familia real,un mago desapareciendo una nevera",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "damage",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una ardilla borracha",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La causa de más de £300 de daños en Worcestershire, el Honeybourne Railway Club privado de Inglaterra en 2015.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ardilla borracha",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "429933_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

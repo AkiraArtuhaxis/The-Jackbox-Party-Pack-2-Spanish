@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Las Aplicaciones de Android,Los Seguidores de Twitter,Jimmy Fallon,Las Escondidas,Los Anuncios de Geico,Walmart,Seinfeld,Game of Thrones,Tu mamá,Justin Bieber,Kim y Kanye,Candy Crush,Surfear,Twister,World of Warcraft,Tomar el sol,Applebee’s,Pasear al Perro",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "sociología",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Miley Cyrus",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Para la sesión de verano de 2014, la profesora Carolyn Chernoff de Skidmore College ofreció un curso inusual: La sociología de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Miley Cyrus: Raza, Clase, Género, y Medios,Mily Cyrus,Milly Cyrus,Miley Cyrus: Raza, Clase, Genero, y Medios",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "418823_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

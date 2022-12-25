@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "récords,momias,búmerangs,caca de kanguro,uñas de los pies,walabíes,cabezas de Barbie,meteoritos,dientes humanos,huevos de dinosaurio,latas de Coca-Cola,mocos,huesos de gallina,teléfonos con tapa,frascos diminutos,dedos amputados,hilo dental husado,lágrimas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Barker",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "pelusa de ombligo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Graham Barker de Australia ha sido reconocido por <i>El Libro Guinness de los Récords Mundiales<\/i> por tener la colección más grande de <BLANK>, que almacena en frascos.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pelusa del ombligo,pelusa",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "372593_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

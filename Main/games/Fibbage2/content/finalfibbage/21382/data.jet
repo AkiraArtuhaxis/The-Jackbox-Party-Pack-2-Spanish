@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "renta-una-mazmorra,supertienda S&M,la casa del dolor,bienes raíces de tortura,a azotar,encontrar tu dolor,divermorras,ding,acesores de strippers,fuego caliente,azotarte,habitaciones de niños traviesos,encontrar tu hogar de pesadilla,sentir bienes,re/cera,siglo 69,azotadores fríos,mejores mazmorras y jardines",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "dungeons",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "FeticheBNB",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre (traducido) de la empresa con sede en San Francisco que te ayuda a encontrar y alquilar mazmorras sexuales.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "404063_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "404060_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "encontrar bares baratos,hablar español,obtener cable gratis,vender tu sangre,hablar con tu perro,recuperar la sobriedad rápidamente,encontrar una venta de garaje,registrar tus cacas,dibujar líneas perfectas,determinar el día en que morirás,encontrar líneas cortas,digerir lactosa,borrar pornografía,saber cuándo hay desnudez en la televisión,ver las auras de las personas,ver tus vidas pasadas,detectar fantasmas,encontrar baños limpios",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "dispositivo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "monitorear tus pedos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El ingeniero Rodrigo Narciso le está dando al mundo algo que realmente se estaba perdiendo. Inventó un dispositivo llamado CH4 que te permite <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "rastrear tus pedos,monitorear pedos,rastrear pedos,monitorear a tus pedos,rastrear a tus pedos,monitorear gas,rastrear gas,monitorear flatulencia,rastrear flatulencia,saber si te tiraste un pedo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "406185_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "lo vence en una carrera a pie,es más inteligentes que él,puede hacer pesas más que él,mide más de 2,4 metros,pronuncia su nombre correctamente,lo vence en un juego de Jeopardy,quiere asistir a Harvard,es de la Antártida,se quita uno de sus dedos,se convierte en su mayordomo de por vida,puede nombrar todos los países,cuida de su madre,lo lleva al espacio,quiere jugar al billar profesional,lo convierte en un príncipe,se va de vacaciones con él,puede construir una máquina del tiempo,refutar su teoría sobre las cabras",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Harvard",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "le encuentra una novia",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si necesitas dinero rápido, un graduado de Harvard creó un sitio web en 2015 que indica que le dará a alguien $10.000 si simplemente <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "le consigue una novia,le encuentra una novia para él,le encuentra una novia para el,le consigue una novia para el,se hace su novia",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "425938_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

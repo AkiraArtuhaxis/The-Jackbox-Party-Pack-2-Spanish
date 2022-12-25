@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "abuelas,Chicas Exploradoras,jugadores de bingo,puestos de limonada,conductores de FedEx,misioneros mormones,bibliotecarios,dueños de tiendas de historietas,guardias de tráfico,caniches,trabajadores de guardería,salones de uñas,monjas,limpiadores de piscinas,licorerías,maestros de jardín de infantes,campamentos de verano,vendedores ambulantes",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "pelea",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "heladeros",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La policía de Boardman, Ohio, cree que estalló una guerra territorial inusual en junio de 2015 cuando respondieron a una pelea entre dos <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hombres de los helados,vendedores de helados,hombres del helado",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "420964_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "420961_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

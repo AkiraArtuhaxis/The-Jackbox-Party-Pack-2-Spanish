@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "orejas de ratón reales,cabezas cortadas,mocos,ovnis,África,John F. Kennedy,Bob Esponja,Jesús,árboles,Adam Sandler,Zeus,arañas,bebés,cerebros,pitbulls,colmillos de marfil de elefante,la nariz de Goofy,una joven niña china",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Dulces",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "excrementos de animales",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Por un corto tiempo en 2015 (antes de que fueran descontinuados), una tienda en Animal Kingdom de Walt Disney World vendió dulces que se hicieron para parecerse a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "caca de animal,caca,mierda,mierda de animal,mierda de animales,caca de animales,heces,heces de animal,heces de animales,popó,popo,popó de animal,popo de animal,popó de animales,popo de animales,caca animal,mierda animal,popó animal,popo animal,excremento,excremento de animal",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "425516_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

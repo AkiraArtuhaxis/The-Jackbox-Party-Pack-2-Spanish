@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un muerto,Iggy Azalea,un hombre lobo,un príncipe nigeriano,un piloto,un miembro del elenco de SNL,un jugador de fútbol profesional,el hijo del gobernador,un alien,un discapacitado,un prisionero,un abogado,un Kennedy,Pie Grande,un anciano,un instructor de surf,un agente del FBI,un meteorólogo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "pretender",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "un ginecólogo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En enero de 2015, un adolescente fue arrestado en West Palm Beach, Florida, por pretender ser <BLANK> durante más de un mes.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un doctor,un físico,un obstetra,ginecólogo,doctor,físico,obstetra,un OB/GYN,un OBGYN,un OB-GYN,un OB GYN,un OBGYN,OB/GYN,OBGYN,OB-GYN,OB GYN,OBGYN",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "390602_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "390599_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "portando armas de fuego,obesos,levantando el dedo del medio,vomitando,robando dulces a los bebés,aterrizando en la luna,besándose con zorrillos,robando bancos,en ataúdes,sin brazos,vestidos como payasos,siendo ejecutados,en pañales,en la cama,fumando 100 cigarrillos a la vez,hundiéndose en arenas movedizas,dándole la mano a Hitler,siendo perseguidos por abejas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "arte digital",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "sentados en un inodoro",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La artista italiana Cristina Gugerri creó una provocativa serie de piezas de arte digital que representan a varios líderes mundiales y religiosos. En cada obra de arte, los líderes estaban <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "en el inodoro,en un inodoro,en el jon,en el retrete,sentados en un retrete,yendo al baño,usando el retrete,usando el inodoro,usando un retrete,usando un inodoro,haciendo caca,sentados en el retrete",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "396995_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "396992_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

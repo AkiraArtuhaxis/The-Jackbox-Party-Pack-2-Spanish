@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "uranio radioactivo,escamas de pescado,materia fecal,naipes,discos compactos,insectos,historietas,pan vencido,servilletas,fragmentos de vidrio,pañales,papel de burbujas,balas recicladas,tofu,ojos saltones,limpiapipas,corauñas,composta",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "moda",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "animales atropellados",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La empresa de la diseñadora de moda Pamela Paquin se especializa en producir accesorios de moda éticos hechos con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "animales muertos en la calle",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "379643_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "379640_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

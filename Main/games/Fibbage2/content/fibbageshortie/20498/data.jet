@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "los inciensos,los autos híbridos,los trolebús,hacer arroz,los autos en el puente Golden Gate,los eventos deportivos,los leones marinos,los eructos de delfines,la fabricación de chocolate,Google,la flatulencia,los incendios forestales,la quema de basura,los aviones militares,los turistas,los volcanes,Los Ángeles,los océanos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "aire",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "China",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un estudio de 2010 de la Universidad de California, Berkeley, publicado en <i>Environmental Science & Technology<\/i> concluyó que, sorprendentemente, el 29% de la contaminación del aire de San Francisco proviene de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "399062_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "399059_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

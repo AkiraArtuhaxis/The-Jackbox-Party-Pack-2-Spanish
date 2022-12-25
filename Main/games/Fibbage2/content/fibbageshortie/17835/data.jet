@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "meteoro,techador,chimenea,OVNI,auto,imitador de Santa Claus,fuego artificial,hombre desnudo,satélite,bóveda de un banco,mesa de pool,cama de agua,bañera de hidromasaje,calabaza,salmón,bola de boliche,jabalina,oso",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "techo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "vaca",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2013, un hombre brasileño que dormía murió a causa de las heridas que recibió después de que un/a <BLANK> atravesara su techo y aterrizara sobre él.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "vaca cayendo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "373001_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

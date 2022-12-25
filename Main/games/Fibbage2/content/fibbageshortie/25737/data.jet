@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "con una cola,bajo el agua,el viernes 13,de un presidente de EE. UU.,el 4 de julio,en Washington D.C.,en un taxi,en un hospital,en el siglo XX,con un gemelo,en el mar,en el Polo Norte,fuera de los EE. UU.,en la Casa Blanca,el día de su cumpleaños,en una cabaña de troncos,en el Palacio de Buckingham,en Texas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Nacer",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "en los Estados Unidos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El generalmente olvidable presidente Martin Van Buren tuvo la interesante distinción de ser el primer presidente de los EE. UU. en nacer <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "siendo un ciudadano de Estados Unidos,siendo ciudadano de Estados Unidos,en los EE.UU.,en los EEUU,en los EE UU,en los EE. UU.,en EE.UU.,en EEUU,en EE UU,en EE. UU.,siendo un ciudadano de los EE.UU.,siendo un ciudadano de los EEUU,siendo un ciudadano de los EE UU,siendo un ciudadano de los EE. UU.,siendo un ciudadano de los Estados Unidos,siendo un ciudadano de los Estados Unidos,en U.S.A.,en USA,en la U.S.A.,en la USA",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "431774_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "431771_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

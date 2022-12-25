@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "volar,tener hambre,tener que beber agua,colapsar,morir,aparearse,hacer caca,vomitar,convertirse en un fantasma,calentar al dueño,tirarse un pedo,dormir,volverse locos,matar algo,resbalar,tener dolor de cabeza,volverse agresivos,desaparecer",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "renos",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "orinar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Los finlandeses tienen un término llamado “poronkusema”, que más o menos significa cuánto pueden caminar los renos antes de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "que orinen,que hagan pipí,que hagan pipi,que meen,hacer pipí,hacer pipi,mear",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "400388_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

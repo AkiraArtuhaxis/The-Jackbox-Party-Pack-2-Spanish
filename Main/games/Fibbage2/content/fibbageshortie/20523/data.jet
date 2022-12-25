@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "boutique,grupa,vagabundo,micrófono,distritos,sabotaje,grupo,intergaláctico,brass,shambala,muzik,tiro seguro,sadrac,funky,movimiento del cuerpo,camiseta musculosa,flauta traversa,maestros de ceremonias",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Beastie",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "mullet",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según el Diccionario de inglés de Oxford, a los Beastie Boys se les atribuye haber acuñado el término <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "399659_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "arenas movedizas,un montón de cadáveres,sus propias tumbas,un anillo de fuego,un nido de serpientes,estiércol de vaca,cubos de sangre de rata,lava caliente,montones de cráneos,aguas infestadas de tiburones,un campo minado,un volcán activo,frascos de saliva,un cañón gigante,un esqueleto de ballena,quince galones de jugo de tomate,trampas para osos,suéteres feos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "boda",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "la jaula de un león",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "La boda de 1897 de Charlotte Wiberg y Arthur St. Andrassy fue un evento bastante inusual, ya que unos 5000 invitados se presentaron para presenciar a la feliz pareja decir sus votos mientras estaban en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "la jaula de un leon,la fosa de un león,la fosa de un leon,una jaula de leones,una jaula de león,una jaula de leon,una jaula de un león,una jaula de un leon,una jaula de unos leones",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "407106_1",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407103_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "acróbatas,mapaches,monos rhesus,accidentes automovilísticos,coles de bruselas,cirugías,casas de retiro,vellos en la nariz,elefantes,calculadoras,globos,pies sucios,cortes de cabello,engrapadoras,libros viejos,pantalones capri,plátanos podridos,sábanas limpias",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Franco",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "conejos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "SayWhat",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "“A veces, tipo, los/as <BLANK> me calientan. No sé por qué”. -James Franco en 2010",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "414214_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "391274_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "391271_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

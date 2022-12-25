@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "dentistas,centros comerciales,paradas de descanso,judíos,Starbucks,restaurantes vegetarianos,prisiones,empresas tecnológicas,restaurantes Subway,Walmarts,hospitales,lugares de votación,millonarios,fuentes de agua,estaciones de radio,torres celulares,búfalos,terapeutas",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Wyoming",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "escaleras mecánicas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "<i>The Atlantic<\/i> informó en 2013 que el estado de Wyoming tiene solo dos de estos\/as.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "escaleras mecanicas,escaleras eléctricas,escaleras electricas",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "379493_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

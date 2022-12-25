@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "un mapa de la Tierra Media,Pac-Man,un tablero de ajedrez,dos pingüinos besándose,un gato haciendo caca,el Monte Rushmore,Hello Kitty,una cara con el ceño fruncido,una calavera en llamas,el logo de AC/DC,Bob Esponja,El Titanic,un tiranosaurio rex,la persona de David Letterman,una torre Jenga,una caja gigante de crayones,Sr. Cabeza de Papa,Charlie Brown",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "sede",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "La Nave Enterprise",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si volaras sobre la sede de la compañía de Internet móvil NetDragon Websoft en China, podrías notar algo inusual en la forma. Está diseñado para parecerse a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "La Enterprise,La Starship Enterprise,La Enterprise,La Star Trek Enterprise,Star Trek Enterprise,La U.S.S. Enterprise,La USS Enterprise,La Nave de Star Trek,El Enterprise de Star Trek,La Nave Espacial de Star Trek",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "410729_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

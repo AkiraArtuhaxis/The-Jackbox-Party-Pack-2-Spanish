@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "comiendo su propia mermelada,oliendo sus axilas,lamiendo su mano,limpiando su trasero,vomitando,hurgándose la nariz,orinando en su propia comida,comiéndose su cera del oído,tirándose pedos,teniendo una erección,cortando la cabeza de un pollo,bebiendo sangre de paloma,comiendo del suelo,trenzándose el pelo de su espalda,usando hilo dental delante de él,reventándose sus propios granos,eructando,bajándose sus pantalones",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "sumisión",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "chupando sus pezones",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Tan asqueroso como suena, la gente en la antigua Irlanda mostraba su sumisión al rey <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "chupando su pezón,chupando su pezon,chupando sus pesones,chupando su pesón,chupando su peson",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "404207_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "404204_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

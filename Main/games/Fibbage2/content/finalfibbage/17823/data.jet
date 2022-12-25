@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sally,Bette,Alice,Marge,Bonifacia,Brunhilda,Silvia,Nancy,Cheryl,Gertrudis,Victoria,Wanda,Stephanie,Rachel,Anastasia,Maggie,Simona,Loretta",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "middle",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Tiffany",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Segundo nombre que suena femenino del actor Richard Gere.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Tiffani,Tifany",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "372668_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "372665_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

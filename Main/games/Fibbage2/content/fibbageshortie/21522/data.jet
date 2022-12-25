@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "encendiendo los aspersores,haciendo sonar las alarmas de tornado,llamando a sus padres,haciendo un concurso de camisetas mojadas,sirviendo el desayuno en la cama,tocando una trompeta gigante,arrastrándolos de la cama,cocinando un waffle gigante,repartiendo aspirinas y agua,llevándoles a todos su ropa,con una banda de mariachis,ofreciendo cócteles ilimitados,con mimos de puerta en puerta,haciendo un tobogán de agua en el pasillo,haciendo que Garth Brooks llame a su habitación,dejando que un gallo cante,subiendo la calefacción en las habitaciones,llamando a la policía",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Mañanas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "reproduciendo “El Ciclo sin Fin” muy fuerte",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un Holiday Inn en la ciudad de Panamá, Florida, tiene una extraña tradición durante las vacaciones de primavera. A las 11:00 todas las mañanas, el hotel despierta a sus invitados <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "reproduciendo “El Ciclo sin Fin”,reproduciendo El Ciclo sin Fin muy fuerte,reproduciendo El Ciclo sin Fin,reproduciendo “El Ciclo sin Fin” fuerte,reproduciendo El Ciclo sin Fin fuerte,reproduciendo “Circle of Life” muy fuerte,reproduciendo “Circle of Life”,reproduciendo Circle of Life muy fuerte,reproduciendo Circle of Life,reproduciendo “Circle of Life” fuerte,reproduciendo Circle of Life fuerte",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407463_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

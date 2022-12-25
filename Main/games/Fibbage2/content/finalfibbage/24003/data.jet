@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "su cerebro,su alma,Narnia,el cielo,el santo grial,la Antártida,el cadáver de Robin Hood,el monstruo del lago Ness,el peñón de Gibraltar,el halcón milenario,la guerra contra el terrorismo,la capa de Superman,el cometa Haley,su sentido del humor,un dragón,su uña encarnada,su planta de marihuana,su cabello",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "eBay",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el sol",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "De lo que María Ángeles Durán de España estaba tratando de vender piezas en eBay, antes de que la pararon.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "propiedad del sol,tierra en el sol,solar,sol",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "420986_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

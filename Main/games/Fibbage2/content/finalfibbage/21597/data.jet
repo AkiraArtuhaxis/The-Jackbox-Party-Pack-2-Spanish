@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ataque Mac,Hamburguesa Hamburguesa Derrite Derrite,Mac Gigantesca,Media Mac,McBoca,Me Encanta Mac,MacZilla,McDobleCuarto,Mac Más Grande,Doble Cuarto de Libra,McDestructoraDeIntestinos,Bife Murray,Cuartomack,Gordis MacBuckle,Macs Gradecitas,Cachorro Libra,Mickey Mac,Torre Vaca",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "swapping",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "McKinley Mac",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El nombre del “elemento del menú secreto” en McDonald’s creado al cambiar las hamburguesas de carne regulares en una Big Mac por hamburguesas de dos cuartos de libra.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "La McKinley Mac,McKinly Mac,McKinley Mack",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "409028_2",
+            "n": "QuestionAudio"
+        }
+    ]
+}

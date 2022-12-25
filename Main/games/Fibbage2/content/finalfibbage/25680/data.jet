@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "uñas en una pizarra,llanto de un bebé en un avión,rechinar los dientes,taladro de dentista,la risa de Fran Drescher,alarma de automóvil,tenedor en el triturador de basura,módem de acceso telefónico,martillos neumáticos,ladridos de perros,vuvuzelas,despertador,rap metal,Gilbert Gottfried,un loro muriendo,conversaciones telefónicas en voz alta,alguien sonándose la nariz,escupitajo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "cringe-worthy",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "vomitar",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El sonido N°1 que causa cringe, según un estudio realizado en la Universidad de Salford.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "vómito,vomito,vomitando,alguien vomitando,el vómito de alguien,el vomito de alguien,una persona vomitando,el vómito de una persona,el vomito de una persona",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "430985_0f",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "430982_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

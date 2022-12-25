@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "una esvástica,una cabeza,un pene,una teta,un zurullo,una cruz,un plátano,un Pokémon,un baño,un trasero,una granada,una hamburguesa,un strudel tostador,un gato,un pie,un dedo,fuego,un cigarrillo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "desayuno",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una pistola",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un niño de 7 años de Maryland fue suspendido de la escuela durante dos días después de morder el pastel de su desayuno para hacer la forma de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un arma,un arma de fuego,arma,pistola,arma de fuego",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "425566_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

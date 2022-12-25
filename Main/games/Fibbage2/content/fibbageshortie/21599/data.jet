@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "se tomaron fotos con el cuerpo,se metieron en el ataúd,condujieron hasta Georgia,vendieron el cuerpo,se sentaron en él,robaron la ropa del cuerpo,hicieron donas en el estacionamiento,vistieron el cuerpo con disfraces,fueron a pescar,fueron a un lavado de autos,se cortaron el pelo,fueron a un partido de béisbol,reprodujeron música rap a todo volumen,vendieron entradas para ver el cuerpo,pusieron fuegos artificiales en el ataúd,fueron a Applebee’s,cambiaron los cuerpos,recrearon Un muerto... pero de risa",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "funeral",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "se detuvieron para comprar donas",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un par de conductores de autos fúnebres en Florida fueron despedidos porque, mientras transportaban un cuerpo a un funeral, <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "se detuvieron por donas,consiguieron donas,consiguieron el desayuno,se detuvieron para desayunar,se detuvieron para comer",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "409161_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "409158_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "huesos de pecadores,pájaros espaciales,pensamientos infantiles,peste bubónica,azufre,lágrimas de Dios,estrellitas,pesadillas,miel y vino,risas de ángeles,quesos finos,superdiamantes,nubes de oro,huevos de tortugas espaciales,oraciones,estornudos,gusanos,leche",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Saturno",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el prepucio de Jesús",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Al presentar una hipótesis extraña pero seria, el erudito del siglo XVII Leo Allatius sugirió que los anillos de Saturno podrían estar hechos con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "el prepucio de Jesus,prepucio de Jesus,prepucio de Jesús",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "431674_2",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "431671_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

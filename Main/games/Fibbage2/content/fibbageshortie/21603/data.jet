@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "olor a mofeta,pimientos picantes,gasolina,espuma,fuego,pegamento,serpentinas en aerosol,cemento,ácido,confeti,agujas,guacamole,salsa ranchera,orina,mayonesa,salsa de tomate,caca de perro,WD-40",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Subway",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ADN",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Un nuevo sistema de seguridad instalado por la cadena de comida rápida Subway espera frustrar el robo con un mecanismo que rocía a los ladrones con <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "genes,material genético,material genetico",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "409257_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "409254_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "jugadores de béisbol muertos,lágrimas de niños,sangre de buey,manteca de cerdo,su propia orina,jugo de remolacha,árboles alcanzados por un rayo,nubes,sangre de un irlandés,leche agria,libros quemados,espinaca,cerumen,ácido estomacal,grillos fritos,algodón,lava fundida,cestodos",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Pud",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "testosterona de mono",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El veterano lanzador de béisbol Jim “Pud” Galvin tenía un secreto bastante extraño para su éxito: dosis regulares de un elixir para “mejorar el rendimiento” hecho de <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "testículos de mono,testiculos de mono,testosterona animal,testosterona de mono",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "387368_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "387365_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

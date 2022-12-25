@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "ver a los Beatles,morir de una sobredosis de pastelitos,escribir una canción de rock,usar un Snuggie,entrar en combustión espontánea,ser secuestrada por aliens,comer una cena de televisión,usar un pañal para adultos,vivir en una casa rodante,ser indultada por el presidente,ganar el lotería,dar a luz octillizos,roncar,ser reclutada en la WNBA,ver Sputnik,recibir RCP,usar un despertador,tener un sueño húmedo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "sofá",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "ser golpeada por un meteorito",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En noviembre de 1954, Ann Hodges de Alabama estaba durmiendo la siesta en su sofá cuando pasó a la historia como la primera persona confirmada en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "golpearse con un meteorito,ser golpeada por un meteoro,ser golpeada con un meteoro,ser golpeada con un meteorito,golpearse con un meteoro",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "431521_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

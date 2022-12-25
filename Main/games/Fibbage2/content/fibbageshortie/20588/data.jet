@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "quinua,espacio,organización ISIS,felicidad,Lollapalooza,Cienciología,Snapchat,Spam,Xanax,col rizada,lucha de gelatina,Fiesta de Pascuas,socialismo,guitarra,robot,amor,bitcoin,radio",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Googlea",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tofu",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Según una investigación realizada por estately.com, Georgia googlea la pregunta “¿Qué es el/la <BLANK>?” más que cualquier otro estado.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "400841_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

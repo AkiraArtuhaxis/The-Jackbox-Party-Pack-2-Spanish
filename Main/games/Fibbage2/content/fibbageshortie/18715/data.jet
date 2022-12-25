@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "deletrear,los cumplidos,las películas animadas,escribir en cursiva,estornudar,las alfombras,el mal aliento,los bigotes,las computadoras,los extraños,las alturas,la música de reggae,el plástico,la risa,los futones,los microondas,la madera,la pelusa del ombligo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "alérgica",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "hacer ejercicio",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "StrangeAilments",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Kasia Beaver de Worcestershire, Inglaterra, fue diagnosticada con una condición médica muy extraña. Resulta que es alérgica a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ejercitarse,entrenar",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "378953_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

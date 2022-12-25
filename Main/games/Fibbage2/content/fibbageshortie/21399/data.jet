@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "perros calientes,calzoncillos,videojuegos,dulces,medicamentos,jerbos,corbatas,dinero en efectivo,muñecas,papas al horno,tiritas,anteojos de sol,abrigos de invierno,cascos,lasaña,carpas,palos de hockey,mecedoras",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "cañón",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tacos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Si aún no te emocionaba asistir a los partidos de hockey en la Universidad de Nebraska-Omaha, anunciaron en 2015 que utilizarán un cañón revolucionario que dispara <BLANK> a la multitud.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un taco,docenas de tacos,una docena de tacos,un montón de tacos,un monton de tacos,varios tacos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "404515_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

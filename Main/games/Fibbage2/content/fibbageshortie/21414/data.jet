@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "golpear a un cobarde,escupir a un liberal,ahogar a un burro,desnudar a tu tío,quemar libros,tirar pollos,recrear la crucifixión,las strippers católicas,lucha libre con gelatina,una rifa de borrachos,decapitaciones de tortugas,una subasta sorda,cambios de imagen para los pobres,ir al casino,una subasta de despedida de soltera,pescado frito y foie gras,un puesto de barriles,un baile sucio para Dios",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "recaudación",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una lucha con cerdos",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Después de que 81.000 personas firmaron una petición para que se detuvieran, la parroquia de St. Patrick en Stephensville, Wisconsin, finalizó su tradicional evento anual de recaudación de fondos que consistía en <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "una lucha con puercos,lucha con cerdos,lucha con puercos,una lucha con chanchos,lucha con chanchos,personas luchando con cerdos,personas luchando con puercos,personas luchando con chanchos,humanos luchando con cerdos,humanos luchando con puercos,humanos luchando con chanchos,gente luchando con cerdos,gente luchando con puercos,gente luchando con chanchos,luchar con puercos,luchar con cerdos,luchar con chanchos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "404875_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

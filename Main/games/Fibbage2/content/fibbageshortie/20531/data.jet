@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "corazón,grasa corporal,caca,vello de la nariz,dentadura,lengua,ojo derecho,revestimiento del estómago,intestino grueso,moco en los ojos,amígdala,hígado,vello en el pecho,espiráculo,aleta dorsal,baile de apareamiento,catarata,densidad ósea",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "ballena",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "cerumen",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "¿Cómo determinan los científicos la edad de una ballena azul? Fácil. Cuentan las capas de su <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cera,cerilla,cera del oído,cera del oido,cera de oído,cera de oido,cerilla del oído,cerilla del oido,cerilla de oído,cerilla de oido,cera de los oídos,cera de los oidos,cerilla de los oídos,cerilla de los oídos,cera en los oídos,cera en los oidos,cerilla en los oídos,cerilla en los oidos,cerumen del oído,cerumen del oido,cerumen de oído,cerumen de oido,cerumen del oído,cerumen del oido,cerumen de oído,cerumen de oido,cerumen de los oídos,cerumen de los oidos,cerumen de los oídos,cerumen de los oídos,cerumen en los oídos,cerumen en los oidos,cerumen en los oídos,cerumen en los oidos",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "399854_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "399851_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

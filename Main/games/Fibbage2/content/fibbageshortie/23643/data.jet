@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "el pene,el hámster mascota,la ropa interior,la pelusa del ombligo,el globo ocular,el oído,los labios,la médula espinal,las uñas,las pestañas,el dedo gordo del pie,las llaves de la casa,la nariz,la orden de arresto,el perro,los pelos de la nariz,la bicicleta,la lengua",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "Galileo",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "el dedo del medio",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando estés en Florencia, Italia, dirígete al Museo de Historia de la Ciencia de Florencia, que extrañamente tiene <BLANK> de Galileo en exhibición en un vaso en forma de huevo.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "el dedo medio,el dedo de en medio",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "415842_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "415837_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

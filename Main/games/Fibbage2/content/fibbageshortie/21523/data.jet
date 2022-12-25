@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "está borracha,no puede pagar un arma,pasa una prueba de cuchillo,está estudiando Amor sin barreras,tiene una licencia de cuchillo,tiene más de 45 años,promete no usarla,tiene problemas de visión,vive en un barrio peligroso,trabaja para la oficina de correos,vive en un pueblo de menos de 2000 personas,lo necesita para la agricultura,está en el ejército,trabaja en un barco de cangrejos,ha sido asaltada más de 3 veces,no tiene antecedentes de apuñalamiento,es ciega,la recibió como un regalo",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "navaja",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "tiene un brazo",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "El Código de EE. UU., Título 15, Capítulo 29, Sección 1244 hace una excepción para llevar una navaja automática. Es legal, siempre y cuando la hoja tenga menos de tres pulgadas de largo y la persona que la lleve <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "posee un brazo,es manco,es un amputado,es amputada,es una amputada",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "407490_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "407487_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

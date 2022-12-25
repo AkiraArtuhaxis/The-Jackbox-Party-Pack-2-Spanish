@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "carne seca,aceite de automóvil,lumbar,piel de venado,guante de béisbol,pólvora,barba sucia,fogata,cuero,bistec a la parrilla,bourbon,libros viejos,caña de pescar,gel para el cabello,tabaco de pipa,fútbol,especias viejas,hacha",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "velas",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "una modelo de traje de baño",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "The Mandle Company fabrica velas exclusivamente para hombres, como el código de producto SSMO, que dice tener el olor a <BLANK>.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "modelo de traje de baño,modelos de traje de baño",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "388334_0",
+            "n": "QuestionAudio"
+        }
+    ]
+}

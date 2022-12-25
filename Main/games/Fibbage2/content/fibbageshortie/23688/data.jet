@@ -1,0 +1,67 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "Condón,tostadora,licuadora,tensiómetro,cuna,prueba de embarazo,mezcladora de cemento,calculadora,microondas,tapón nasal,automóvil inteligente,escopeta,rifle,piano de cola,elevador de tijera,asiento de inodoro,globo aerostático,cortadora de césped",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "KISS",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "Ataúd",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "None",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "En 2001, la banda KISS puso a la venta un/a <BLANK> con licencia oficial, completo/a con calcomanías de llamas y semejanzas de la banda pegadas por todas partes.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Ataud,Féretro,Feretro,Sarcófago,Sarcofago,Tumba",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "416962_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}

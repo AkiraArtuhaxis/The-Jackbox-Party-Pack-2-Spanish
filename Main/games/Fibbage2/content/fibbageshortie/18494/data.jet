@@ -1,0 +1,69 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasBumperType"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasCorrectAudio"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQuestionAudio"
+        },
+        {
+            "t": "S",
+            "v": "chinchillas,animales atropellados,serpientes,baguettes,barras de mantequilla,dingos,escopetas,bloques de cemento,niños,letreros de calles,fuegos artificiales,teclados,carretillas,queso,cajas de zapatos,esponjas vegetales,sillas de oficina,latas de cerveza",
+            "n": "Suggestions"
+        },
+        {
+            "t": "S",
+            "v": "esquiar",
+            "n": "Category"
+        },
+        {
+            "t": "S",
+            "v": "sandías",
+            "n": "CorrectText"
+        },
+        {
+            "t": "S",
+            "v": "Roadtrip",
+            "n": "BumperType"
+        },
+        {
+            "t": "S",
+            "v": "Cuando estés en Chinchilla, Australia, asegúrate de ver su extraño festival donde los participantes intentan esquiar en descenso usando <BLANK> como “esquís”.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "una sandía,sandias,una sandia",
+            "n": "AlternateSpellings"
+        },
+        {
+            "t": "A",
+            "v": "419725_0",
+            "n": "BumperAudio"
+        },
+        {
+            "t": "A",
+            "v": "377747_0",
+            "n": "CorrectAudio"
+        },
+        {
+            "t": "A",
+            "v": "377744_1",
+            "n": "QuestionAudio"
+        }
+    ]
+}
