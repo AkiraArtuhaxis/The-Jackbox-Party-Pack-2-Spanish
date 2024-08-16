@@ -31,8 +31,8 @@
       "video":"videos/auction"
     },
     {
-      "name":"Quiplash",
-      "mainSwf": "Quiplash.swf",
+      "name":"QuiplashXL",
+      "mainSwf": "QuiplashXL.swf",
       "title": "Quiplash XL",
       "players": "3-8 JUGADORES",
 	  "family": true,
