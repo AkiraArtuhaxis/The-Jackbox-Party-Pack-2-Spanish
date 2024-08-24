@@ -23,5 +23,5 @@
 	"pause-inputs":"[\"BACK\", \"B\", \"START\"]",
 	"supportsJoysticksHotplugging":"true",
 	"buildTimeStamp":"2023-02-06 18:24:24",
-	"buildVersion":"18.3-ES"
+	"buildVersion":"21.1-ES"
 }
