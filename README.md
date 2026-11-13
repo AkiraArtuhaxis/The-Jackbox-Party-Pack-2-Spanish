@@ -3,8 +3,8 @@
 Parche de traducción no oficial de [Jackbox en español](https://traducciones.jackbox.lol/) para The Jackbox Party Pack 2. Este repositorio es utilizado por [Jackbox Utility](https://github.com/JackboxUtility).
 
 - **Estado de traducción:** Todos los juegos han sido traducidos.
-- **Estado de doblaje:** Earwax tiene doblaje.
-- **Versión:** 21.1-ES
+- **Estado de doblaje:** Earwax y Subastardos (Bidiots) tienen doblaje.
+- **Versión:** 21.2-ES
 - **Plataformas soportadas:** Steam, Epic Games Store, Nintendo Switch
 
 ## Cómo utilizar
